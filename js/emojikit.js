@@ -2,6 +2,23 @@ var allEmojikitElements = document.getElementsByClassName("emojikit");
 
 var transparentBase64 = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
 
+function getRemoteStyle(elem, name) {
+    // J/S Pro Techniques p136
+    if (elem.style[name]) {
+        return elem.style[name];
+    } else if (elem.currentStyle) {
+        return elem.currentStyle[name];
+    }
+    else if (document.defaultView && document.defaultView.getComputedStyle) {
+        name = name.replace(/([A-Z])/g, "-$1");
+        name = name.toLowerCase();
+        s = document.defaultView.getComputedStyle(elem, "");
+        return s && s.getPropertyValue(name);
+    } else {
+        return null;
+    }
+}
+
 for(var i=0; i<allEmojikitElements.length; i++) {
     //image neeeds src, otherwise a border and alt text appear
     allEmojikitElements[i].setAttribute("src", transparentBase64);
@@ -15,8 +32,27 @@ for(var i=0; i<allEmojikitElements.length; i++) {
     var fontSize = parseFloat(style); 
 
     //scale emoji to text font size
-    allEmojikitElements[i].style.backgroundSize = fontSize.toString() + "px " + fontSize.toString() + "px";
-    allEmojikitElements[i].style.width = fontSize.toString() + "px";
-    allEmojikitElements[i].style.height = fontSize.toString() + "px";
+    var scaleFactor = 0.7; //is of type floar
+    var dimension = (fontSize*scaleFactor).toString();
+    allEmojikitElements[i].style.backgroundSize = dimension + "px " + dimension + "px";
+    allEmojikitElements[i].style.width = dimension + "px";
+    allEmojikitElements[i].style.height = dimension + "px";
+
+    //set alt text to actual emoji
+    var backgroundURL = getRemoteStyle(allEmojikitElements[i], "background-image").slice(4, -1).replace(/["|']/g, "");
+    var reverseBackgroundURL = backgroundURL.split("").reverse().join("");
+    var emojiLongName = reverseBackgroundURL.slice(4).split("/")[0].split("").reverse().join("");
+
+    var pattern = /([0-9a-fA-F]{5})/g;
+    var matches = emojiLongName.match(pattern);
+    var emoji="";
+    for(var j=0; j<matches.length; j++) {
+        emoji += "&#x" + matches[j];
+        elem = document.createElement("p");
+        elem.innerHTML = emoji;
+        emoji = elem.innerHTML;
+
+    }
+    allEmojikitElements[i].setAttribute("alt", emoji);
 }
 

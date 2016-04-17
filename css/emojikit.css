@@ -1,15 +1,16 @@
-img.emojikit.flag-de{
-    background-image: url("https://raw.githubusercontent.com/xoneco/emojikit/master/emoji/160x160/flag-de-1f1e9-1f1ea.png");
-    background-size: 16px 16px;
-    background-repeat: no-repeat;
-    width: 16px;
-    height: 16px;
-}
+img.emojikit, img.emojikit.flag-de, img.emojikit.flag-sg, img.emojikit.wink {
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px; }
 
-img.emojikit.flag-sg{
-    background-image: url("https://raw.githubusercontent.com/xoneco/emojikit/master/emoji/160x160/flag-sg-1f1f8-1f1ec.png");
-    background-size: 16px 16px;
-    background-repeat: no-repeat;
-    width: 16px;
-    height: 16px;
-}
+img.emojikit.flag-de {
+  background-image: url("https://raw.githubusercontent.com/xoneco/emojikit/master/emoji/160x160/flag-de-1f1e9-1f1ea.png"); }
+
+img.emojikit.flag-sg {
+  background-image: url("https://raw.githubusercontent.com/xoneco/emojikit/master/emoji/160x160/flag-sg-1f1f8-1f1ec.png"); }
+
+img.emojikit.wink {
+  background-image: url("https://raw.githubusercontent.com/xoneco/emojikit/master/emoji/160x160/wink-1f609.png"); }
+
+/*# sourceMappingURL=emojikit.css.map */
