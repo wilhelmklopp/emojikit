@@ -5,6 +5,14 @@ img.emojikit {
   height: 16px; }
 
 
+
+img.emojikit.alien{
+    background-image: url("../emoji/16x16/alien-1f47d.png");
+    --medium-background-image: url("../emoji/64x64/alien-1f47d.png");
+    --large-background-image: url("../emoji/128x128/alien-1f47d.png");
+    --original-background-image: url("../emoji/160x160/alien-1f47d.png");
+}
+
 img.emojikit.angry{
     background-image: url("../emoji/16x16/angry-1f620.png");
     --medium-background-image: url("../emoji/64x64/angry-1f620.png");
@@ -31,6 +39,13 @@ img.emojikit.apple{
     --medium-background-image: url("../emoji/64x64/apple-1f34e.png");
     --large-background-image: url("../emoji/128x128/apple-1f34e.png");
     --original-background-image: url("../emoji/160x160/apple-1f34e.png");
+}
+
+img.emojikit.arrow_right{
+    background-image: url("../emoji/16x16/arrow_right-27a1.png");
+    --medium-background-image: url("../emoji/64x64/arrow_right-27a1.png");
+    --large-background-image: url("../emoji/128x128/arrow_right-27a1.png");
+    --original-background-image: url("../emoji/160x160/arrow_right-27a1.png");
 }
 
 img.emojikit.astonished{
@@ -164,6 +179,20 @@ img.emojikit.burrito{
     --medium-background-image: url("../emoji/64x64/burrito-1f32f.png");
     --large-background-image: url("../emoji/128x128/burrito-1f32f.png");
     --original-background-image: url("../emoji/160x160/burrito-1f32f.png");
+}
+
+img.emojikit.busts_in_silhouette{
+    background-image: url("../emoji/16x16/busts_in_silhouette-1f465.png");
+    --medium-background-image: url("../emoji/64x64/busts_in_silhouette-1f465.png");
+    --large-background-image: url("../emoji/128x128/busts_in_silhouette-1f465.png");
+    --original-background-image: url("../emoji/160x160/busts_in_silhouette-1f465.png");
+}
+
+img.emojikit.bust_in_silhouette{
+    background-image: url("../emoji/16x16/bust_in_silhouette-1f464.png");
+    --medium-background-image: url("../emoji/64x64/bust_in_silhouette-1f464.png");
+    --large-background-image: url("../emoji/128x128/bust_in_silhouette-1f464.png");
+    --original-background-image: url("../emoji/160x160/bust_in_silhouette-1f464.png");
 }
 
 img.emojikit.cactus{
@@ -355,6 +384,13 @@ img.emojikit.custard{
     --original-background-image: url("../emoji/160x160/custard-1f36e.png");
 }
 
+img.emojikit.dancers{
+    background-image: url("../emoji/16x16/dancers-1f46f.png");
+    --medium-background-image: url("../emoji/64x64/dancers-1f46f.png");
+    --large-background-image: url("../emoji/128x128/dancers-1f46f.png");
+    --original-background-image: url("../emoji/160x160/dancers-1f46f.png");
+}
+
 img.emojikit.dango{
     background-image: url("../emoji/16x16/dango-1f361.png");
     --medium-background-image: url("../emoji/64x64/dango-1f361.png");
@@ -439,6 +475,48 @@ img.emojikit.dromedary_camel{
     --original-background-image: url("../emoji/160x160/dromedary_camel-1f42a.png");
 }
 
+img.emojikit.ear{
+    background-image: url("../emoji/16x16/ear-1f442.png");
+    --medium-background-image: url("../emoji/64x64/ear-1f442.png");
+    --large-background-image: url("../emoji/128x128/ear-1f442.png");
+    --original-background-image: url("../emoji/160x160/ear-1f442.png");
+}
+
+img.emojikit.ear-skin-tone-2{
+    background-image: url("../emoji/16x16/ear-skin-tone-2-1f442-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/ear-skin-tone-2-1f442-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/ear-skin-tone-2-1f442-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/ear-skin-tone-2-1f442-1f3fb.png");
+}
+
+img.emojikit.ear-skin-tone-3{
+    background-image: url("../emoji/16x16/ear-skin-tone-3-1f442-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/ear-skin-tone-3-1f442-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/ear-skin-tone-3-1f442-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/ear-skin-tone-3-1f442-1f3fc.png");
+}
+
+img.emojikit.ear-skin-tone-4{
+    background-image: url("../emoji/16x16/ear-skin-tone-4-1f442-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/ear-skin-tone-4-1f442-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/ear-skin-tone-4-1f442-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/ear-skin-tone-4-1f442-1f3fd.png");
+}
+
+img.emojikit.ear-skin-tone-5{
+    background-image: url("../emoji/16x16/ear-skin-tone-5-1f442-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/ear-skin-tone-5-1f442-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/ear-skin-tone-5-1f442-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/ear-skin-tone-5-1f442-1f3fe.png");
+}
+
+img.emojikit.ear-skin-tone-6{
+    background-image: url("../emoji/16x16/ear-skin-tone-6-1f442-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/ear-skin-tone-6-1f442-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/ear-skin-tone-6-1f442-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/ear-skin-tone-6-1f442-1f3ff.png");
+}
+
 img.emojikit.ear_of_rice{
     background-image: url("../emoji/16x16/ear_of_rice-1f33e.png");
     --medium-background-image: url("../emoji/64x64/ear_of_rice-1f33e.png");
@@ -479,6 +557,27 @@ img.emojikit.expressionless{
     --medium-background-image: url("../emoji/64x64/expressionless-1f611.png");
     --large-background-image: url("../emoji/128x128/expressionless-1f611.png");
     --original-background-image: url("../emoji/160x160/expressionless-1f611.png");
+}
+
+img.emojikit.eye{
+    background-image: url("../emoji/16x16/eye-1f441.png");
+    --medium-background-image: url("../emoji/64x64/eye-1f441.png");
+    --large-background-image: url("../emoji/128x128/eye-1f441.png");
+    --original-background-image: url("../emoji/160x160/eye-1f441.png");
+}
+
+img.emojikit.eyes{
+    background-image: url("../emoji/16x16/eyes-1f440.png");
+    --medium-background-image: url("../emoji/64x64/eyes-1f440.png");
+    --large-background-image: url("../emoji/128x128/eyes-1f440.png");
+    --original-background-image: url("../emoji/160x160/eyes-1f440.png");
+}
+
+img.emojikit.eye_left_speechbubble{
+    background-image: url("../emoji/16x16/eye_left_speechbubble-1f441-fe0f-200d-1f5e8-fe0f.png");
+    --medium-background-image: url("../emoji/64x64/eye_left_speechbubble-1f441-fe0f-200d-1f5e8-fe0f.png");
+    --large-background-image: url("../emoji/128x128/eye_left_speechbubble-1f441-fe0f-200d-1f5e8-fe0f.png");
+    --original-background-image: url("../emoji/160x160/eye_left_speechbubble-1f441-fe0f-200d-1f5e8-fe0f.png");
 }
 
 img.emojikit.face_with_head_bandage{
@@ -535,6 +634,48 @@ img.emojikit.fish_cake{
     --medium-background-image: url("../emoji/64x64/fish_cake-1f365.png");
     --large-background-image: url("../emoji/128x128/fish_cake-1f365.png");
     --original-background-image: url("../emoji/160x160/fish_cake-1f365.png");
+}
+
+img.emojikit.fist{
+    background-image: url("../emoji/16x16/fist-270a.png");
+    --medium-background-image: url("../emoji/64x64/fist-270a.png");
+    --large-background-image: url("../emoji/128x128/fist-270a.png");
+    --original-background-image: url("../emoji/160x160/fist-270a.png");
+}
+
+img.emojikit.fist-skin-tone-2{
+    background-image: url("../emoji/16x16/fist-skin-tone-2-270a-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/fist-skin-tone-2-270a-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/fist-skin-tone-2-270a-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/fist-skin-tone-2-270a-1f3fb.png");
+}
+
+img.emojikit.fist-skin-tone-3{
+    background-image: url("../emoji/16x16/fist-skin-tone-3-270a-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/fist-skin-tone-3-270a-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/fist-skin-tone-3-270a-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/fist-skin-tone-3-270a-1f3fc.png");
+}
+
+img.emojikit.fist-skin-tone-4{
+    background-image: url("../emoji/16x16/fist-skin-tone-4-270a-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/fist-skin-tone-4-270a-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/fist-skin-tone-4-270a-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/fist-skin-tone-4-270a-1f3fd.png");
+}
+
+img.emojikit.fist-skin-tone-5{
+    background-image: url("../emoji/16x16/fist-skin-tone-5-270a-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/fist-skin-tone-5-270a-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/fist-skin-tone-5-270a-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/fist-skin-tone-5-270a-1f3fe.png");
+}
+
+img.emojikit.fist-skin-tone-6{
+    background-image: url("../emoji/16x16/fist-skin-tone-6-270a-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/fist-skin-tone-6-270a-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/fist-skin-tone-6-270a-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/fist-skin-tone-6-270a-1f3ff.png");
 }
 
 img.emojikit.flag-ad{
@@ -2308,6 +2449,20 @@ img.emojikit.frowning{
     --original-background-image: url("../emoji/160x160/frowning-1f626.png");
 }
 
+img.emojikit.gem{
+    background-image: url("../emoji/16x16/gem-1f48e.png");
+    --medium-background-image: url("../emoji/64x64/gem-1f48e.png");
+    --large-background-image: url("../emoji/128x128/gem-1f48e.png");
+    --original-background-image: url("../emoji/160x160/gem-1f48e.png");
+}
+
+img.emojikit.ghost{
+    background-image: url("../emoji/16x16/ghost-1f47b.png");
+    --medium-background-image: url("../emoji/64x64/ghost-1f47b.png");
+    --large-background-image: url("../emoji/128x128/ghost-1f47b.png");
+    --original-background-image: url("../emoji/160x160/ghost-1f47b.png");
+}
+
 img.emojikit.gift{
     background-image: url("../emoji/16x16/gift-1f381.png");
     --medium-background-image: url("../emoji/64x64/gift-1f381.png");
@@ -2371,6 +2526,34 @@ img.emojikit.hamster{
     --original-background-image: url("../emoji/160x160/hamster-1f439.png");
 }
 
+img.emojikit.hand{
+    background-image: url("../emoji/16x16/hand-270b.png");
+    --medium-background-image: url("../emoji/64x64/hand-270b.png");
+    --large-background-image: url("../emoji/128x128/hand-270b.png");
+    --original-background-image: url("../emoji/160x160/hand-270b.png");
+}
+
+img.emojikit.hand-skin-tone-2{
+    background-image: url("../emoji/16x16/hand-skin-tone-2-270b-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/hand-skin-tone-2-270b-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/hand-skin-tone-2-270b-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/hand-skin-tone-2-270b-1f3fc.png");
+}
+
+img.emojikit.hand-skin-tone-3{
+    background-image: url("../emoji/16x16/hand-skin-tone-3-270b-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/hand-skin-tone-3-270b-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/hand-skin-tone-3-270b-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/hand-skin-tone-3-270b-1f3fc.png");
+}
+
+img.emojikit.hand-skin-tone-6{
+    background-image: url("../emoji/16x16/hand-skin-tone-6-270b-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/hand-skin-tone-6-270b-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/hand-skin-tone-6-270b-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/hand-skin-tone-6-270b-1f3ff.png");
+}
+
 img.emojikit.hatched_chick{
     background-image: url("../emoji/16x16/hatched_chick-1f425.png");
     --medium-background-image: url("../emoji/64x64/hatched_chick-1f425.png");
@@ -2397,6 +2580,13 @@ img.emojikit.hear_eyes_cat{
     --medium-background-image: url("../emoji/64x64/hear_eyes_cat-1f63b.png");
     --large-background-image: url("../emoji/128x128/hear_eyes_cat-1f63b.png");
     --original-background-image: url("../emoji/160x160/hear_eyes_cat-1f63b.png");
+}
+
+img.emojikit.heavy_division_sign{
+    background-image: url("../emoji/16x16/heavy_division_sign-2797.png");
+    --medium-background-image: url("../emoji/64x64/heavy_division_sign-2797.png");
+    --large-background-image: url("../emoji/128x128/heavy_division_sign-2797.png");
+    --original-background-image: url("../emoji/160x160/heavy_division_sign-2797.png");
 }
 
 img.emojikit.herb{
@@ -2469,11 +2659,32 @@ img.emojikit.ice_cream{
     --original-background-image: url("../emoji/160x160/ice_cream-1f368.png");
 }
 
+img.emojikit.imp{
+    background-image: url("../emoji/16x16/imp-1f47f.png");
+    --medium-background-image: url("../emoji/64x64/imp-1f47f.png");
+    --large-background-image: url("../emoji/128x128/imp-1f47f.png");
+    --original-background-image: url("../emoji/160x160/imp-1f47f.png");
+}
+
 img.emojikit.innocent{
     background-image: url("../emoji/16x16/innocent-1f607.png");
     --medium-background-image: url("../emoji/64x64/innocent-1f607.png");
     --large-background-image: url("../emoji/128x128/innocent-1f607.png");
     --original-background-image: url("../emoji/160x160/innocent-1f607.png");
+}
+
+img.emojikit.japanese_goblin{
+    background-image: url("../emoji/16x16/japanese_goblin-f47a.png");
+    --medium-background-image: url("../emoji/64x64/japanese_goblin-f47a.png");
+    --large-background-image: url("../emoji/128x128/japanese_goblin-f47a.png");
+    --original-background-image: url("../emoji/160x160/japanese_goblin-f47a.png");
+}
+
+img.emojikit.japanese_ogre{
+    background-image: url("../emoji/16x16/japanese_ogre-1f479.png");
+    --medium-background-image: url("../emoji/64x64/japanese_ogre-1f479.png");
+    --large-background-image: url("../emoji/128x128/japanese_ogre-1f479.png");
+    --original-background-image: url("../emoji/160x160/japanese_ogre-1f479.png");
 }
 
 img.emojikit.joy{
@@ -2567,11 +2778,32 @@ img.emojikit.lion_face{
     --original-background-image: url("../emoji/160x160/lion_face-1f981.png");
 }
 
+img.emojikit.lips{
+    background-image: url("../emoji/16x16/lips-1f444.png");
+    --medium-background-image: url("../emoji/64x64/lips-1f444.png");
+    --large-background-image: url("../emoji/128x128/lips-1f444.png");
+    --original-background-image: url("../emoji/160x160/lips-1f444.png");
+}
+
+img.emojikit.lipstick{
+    background-image: url("../emoji/16x16/lipstick-1f484.png");
+    --medium-background-image: url("../emoji/64x64/lipstick-1f484.png");
+    --large-background-image: url("../emoji/128x128/lipstick-1f484.png");
+    --original-background-image: url("../emoji/160x160/lipstick-1f484.png");
+}
+
 img.emojikit.lollipop{
     background-image: url("../emoji/16x16/lollipop-1f36d.png");
     --medium-background-image: url("../emoji/64x64/lollipop-1f36d.png");
     --large-background-image: url("../emoji/128x128/lollipop-1f36d.png");
     --original-background-image: url("../emoji/160x160/lollipop-1f36d.png");
+}
+
+img.emojikit.love_letter{
+    background-image: url("../emoji/16x16/love_letter-1f48c.png");
+    --medium-background-image: url("../emoji/64x64/love_letter-1f48c.png");
+    --large-background-image: url("../emoji/128x128/love_letter-1f48c.png");
+    --original-background-image: url("../emoji/160x160/love_letter-1f48c.png");
 }
 
 img.emojikit.maple_leaf{
@@ -2600,6 +2832,41 @@ img.emojikit.melon{
     --medium-background-image: url("../emoji/64x64/melon-1f348.png");
     --large-background-image: url("../emoji/128x128/melon-1f348.png");
     --original-background-image: url("../emoji/160x160/melon-1f348.png");
+}
+
+img.emojikit.modifier-skin-tone-2{
+    background-image: url("../emoji/16x16/modifier-skin-tone-2-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/modifier-skin-tone-2-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/modifier-skin-tone-2-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/modifier-skin-tone-2-1f3fb.png");
+}
+
+img.emojikit.modifier-skin-tone-3{
+    background-image: url("../emoji/16x16/modifier-skin-tone-3-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/modifier-skin-tone-3-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/modifier-skin-tone-3-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/modifier-skin-tone-3-1f3fc.png");
+}
+
+img.emojikit.modifier-skin-tone-4{
+    background-image: url("../emoji/16x16/modifier-skin-tone-4-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/modifier-skin-tone-4-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/modifier-skin-tone-4-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/modifier-skin-tone-4-1f3fd.png");
+}
+
+img.emojikit.modifier-skin-tone-6{
+    background-image: url("../emoji/16x16/modifier-skin-tone-6-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/modifier-skin-tone-6-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/modifier-skin-tone-6-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/modifier-skin-tone-6-1f3ff.png");
+}
+
+img.emojikit.modifier_skin-tone-5{
+    background-image: url("../emoji/16x16/modifier_skin-tone-5-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/modifier_skin-tone-5-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/modifier_skin-tone-5-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/modifier_skin-tone-5-1f3fe.png");
 }
 
 img.emojikit.money_mouth_face{
@@ -2656,6 +2923,48 @@ img.emojikit.neutral_face{
     --medium-background-image: url("../emoji/64x64/neutral_face-1f610.png");
     --large-background-image: url("../emoji/128x128/neutral_face-1f610.png");
     --original-background-image: url("../emoji/160x160/neutral_face-1f610.png");
+}
+
+img.emojikit.nose{
+    background-image: url("../emoji/16x16/nose-1f443.png");
+    --medium-background-image: url("../emoji/64x64/nose-1f443.png");
+    --large-background-image: url("../emoji/128x128/nose-1f443.png");
+    --original-background-image: url("../emoji/160x160/nose-1f443.png");
+}
+
+img.emojikit.nose-skin-tone-2{
+    background-image: url("../emoji/16x16/nose-skin-tone-2-1f443-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/nose-skin-tone-2-1f443-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/nose-skin-tone-2-1f443-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/nose-skin-tone-2-1f443-1f3fb.png");
+}
+
+img.emojikit.nose-skin-tone-3{
+    background-image: url("../emoji/16x16/nose-skin-tone-3-1f443-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/nose-skin-tone-3-1f443-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/nose-skin-tone-3-1f443-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/nose-skin-tone-3-1f443-1f3fc.png");
+}
+
+img.emojikit.nose-skin-tone-4{
+    background-image: url("../emoji/16x16/nose-skin-tone-4-1f443-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/nose-skin-tone-4-1f443-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/nose-skin-tone-4-1f443-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/nose-skin-tone-4-1f443-1f3fd.png");
+}
+
+img.emojikit.nose-skin-tone-5{
+    background-image: url("../emoji/16x16/nose-skin-tone-5-1f443-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/nose-skin-tone-5-1f443-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/nose-skin-tone-5-1f443-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/nose-skin-tone-5-1f443-1f3fe.png");
+}
+
+img.emojikit.nose-skin-tone-6{
+    background-image: url("../emoji/16x16/nose-skin-tone-6-1f443-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/nose-skin-tone-6-1f443-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/nose-skin-tone-6-1f443-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/nose-skin-tone-6-1f443-1f3ff.png");
 }
 
 img.emojikit.no_mouth{
@@ -2770,6 +3079,13 @@ img.emojikit.pig_nose{
     --original-background-image: url("../emoji/160x160/pig_nose-1f43d.png");
 }
 
+img.emojikit.pill{
+    background-image: url("../emoji/16x16/pill-1f48a.png");
+    --medium-background-image: url("../emoji/64x64/pill-1f48a.png");
+    --large-background-image: url("../emoji/128x128/pill-1f48a.png");
+    --original-background-image: url("../emoji/160x160/pill-1f48a.png");
+}
+
 img.emojikit.pineapple{
     background-image: url("../emoji/16x16/pineapple-1f34e.png");
     --medium-background-image: url("../emoji/64x64/pineapple-1f34e.png");
@@ -2782,6 +3098,216 @@ img.emojikit.pizza{
     --medium-background-image: url("../emoji/64x64/pizza-1f355.png");
     --large-background-image: url("../emoji/128x128/pizza-1f355.png");
     --original-background-image: url("../emoji/160x160/pizza-1f355.png");
+}
+
+img.emojikit.point-left-skin-tone-3{
+    background-image: url("../emoji/16x16/point-left-skin-tone-3-1f448-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/point-left-skin-tone-3-1f448-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/point-left-skin-tone-3-1f448-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/point-left-skin-tone-3-1f448-1f3fc.png");
+}
+
+img.emojikit.point_down{
+    background-image: url("../emoji/16x16/point_down-1f447-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/point_down-1f447-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/point_down-1f447-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/point_down-1f447-1f3ff.png");
+}
+
+img.emojikit.point_down{
+    background-image: url("../emoji/16x16/point_down-1f447.png");
+    --medium-background-image: url("../emoji/64x64/point_down-1f447.png");
+    --large-background-image: url("../emoji/128x128/point_down-1f447.png");
+    --original-background-image: url("../emoji/160x160/point_down-1f447.png");
+}
+
+img.emojikit.point_down-skin-tone-2{
+    background-image: url("../emoji/16x16/point_down-skin-tone-2-1f447-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/point_down-skin-tone-2-1f447-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/point_down-skin-tone-2-1f447-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/point_down-skin-tone-2-1f447-1f3fb.png");
+}
+
+img.emojikit.point_down-skin-tone-3{
+    background-image: url("../emoji/16x16/point_down-skin-tone-3-1f447-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/point_down-skin-tone-3-1f447-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/point_down-skin-tone-3-1f447-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/point_down-skin-tone-3-1f447-1f3fc.png");
+}
+
+img.emojikit.point_down-skin-tone-4{
+    background-image: url("../emoji/16x16/point_down-skin-tone-4-1f447-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/point_down-skin-tone-4-1f447-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/point_down-skin-tone-4-1f447-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/point_down-skin-tone-4-1f447-1f3fd.png");
+}
+
+img.emojikit.point_down-skin-tone-5{
+    background-image: url("../emoji/16x16/point_down-skin-tone-5-1f447-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/point_down-skin-tone-5-1f447-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/point_down-skin-tone-5-1f447-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/point_down-skin-tone-5-1f447-1f3fe.png");
+}
+
+img.emojikit.point_left{
+    background-image: url("../emoji/16x16/point_left-1f448.png");
+    --medium-background-image: url("../emoji/64x64/point_left-1f448.png");
+    --large-background-image: url("../emoji/128x128/point_left-1f448.png");
+    --original-background-image: url("../emoji/160x160/point_left-1f448.png");
+}
+
+img.emojikit.point_left-skin-tone-2{
+    background-image: url("../emoji/16x16/point_left-skin-tone-2-1f448-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/point_left-skin-tone-2-1f448-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/point_left-skin-tone-2-1f448-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/point_left-skin-tone-2-1f448-1f3fb.png");
+}
+
+img.emojikit.point_left-skin-tone-4{
+    background-image: url("../emoji/16x16/point_left-skin-tone-4-1f448-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/point_left-skin-tone-4-1f448-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/point_left-skin-tone-4-1f448-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/point_left-skin-tone-4-1f448-1f3fd.png");
+}
+
+img.emojikit.point_left-skin-tone-5{
+    background-image: url("../emoji/16x16/point_left-skin-tone-5-1f448-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/point_left-skin-tone-5-1f448-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/point_left-skin-tone-5-1f448-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/point_left-skin-tone-5-1f448-1f3fe.png");
+}
+
+img.emojikit.point_left-skin-tone-6{
+    background-image: url("../emoji/16x16/point_left-skin-tone-6-1f448-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/point_left-skin-tone-6-1f448-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/point_left-skin-tone-6-1f448-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/point_left-skin-tone-6-1f448-1f3ff.png");
+}
+
+img.emojikit.point_right{
+    background-image: url("../emoji/16x16/point_right-1f449.png");
+    --medium-background-image: url("../emoji/64x64/point_right-1f449.png");
+    --large-background-image: url("../emoji/128x128/point_right-1f449.png");
+    --original-background-image: url("../emoji/160x160/point_right-1f449.png");
+}
+
+img.emojikit.point_right-skin-tone-2{
+    background-image: url("../emoji/16x16/point_right-skin-tone-2-1f449-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/point_right-skin-tone-2-1f449-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/point_right-skin-tone-2-1f449-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/point_right-skin-tone-2-1f449-1f3fb.png");
+}
+
+img.emojikit.point_right-skin-tone-3{
+    background-image: url("../emoji/16x16/point_right-skin-tone-3-1f449-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/point_right-skin-tone-3-1f449-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/point_right-skin-tone-3-1f449-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/point_right-skin-tone-3-1f449-1f3fc.png");
+}
+
+img.emojikit.point_right-skin-tone-4{
+    background-image: url("../emoji/16x16/point_right-skin-tone-4-1f449-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/point_right-skin-tone-4-1f449-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/point_right-skin-tone-4-1f449-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/point_right-skin-tone-4-1f449-1f3fd.png");
+}
+
+img.emojikit.point_right-skin-tone-5{
+    background-image: url("../emoji/16x16/point_right-skin-tone-5-1f49-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/point_right-skin-tone-5-1f49-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/point_right-skin-tone-5-1f49-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/point_right-skin-tone-5-1f49-1f3fe.png");
+}
+
+img.emojikit.point_right-skin-tone-6{
+    background-image: url("../emoji/16x16/point_right-skin-tone-6-1f449-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/point_right-skin-tone-6-1f449-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/point_right-skin-tone-6-1f449-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/point_right-skin-tone-6-1f449-1f3ff.png");
+}
+
+img.emojikit.point_up{
+    background-image: url("../emoji/16x16/point_up-261d.png");
+    --medium-background-image: url("../emoji/64x64/point_up-261d.png");
+    --large-background-image: url("../emoji/128x128/point_up-261d.png");
+    --original-background-image: url("../emoji/160x160/point_up-261d.png");
+}
+
+img.emojikit.point_up-skin-tone-2{
+    background-image: url("../emoji/16x16/point_up-skin-tone-2-261d-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/point_up-skin-tone-2-261d-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/point_up-skin-tone-2-261d-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/point_up-skin-tone-2-261d-1f3fb.png");
+}
+
+img.emojikit.point_up-skin-tone-3{
+    background-image: url("../emoji/16x16/point_up-skin-tone-3-261d-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/point_up-skin-tone-3-261d-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/point_up-skin-tone-3-261d-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/point_up-skin-tone-3-261d-1f3fc.png");
+}
+
+img.emojikit.point_up-skin-tone-4{
+    background-image: url("../emoji/16x16/point_up-skin-tone-4-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/point_up-skin-tone-4-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/point_up-skin-tone-4-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/point_up-skin-tone-4-1f3fd.png");
+}
+
+img.emojikit.point_up-skin-tone-5{
+    background-image: url("../emoji/16x16/point_up-skin-tone-5-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/point_up-skin-tone-5-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/point_up-skin-tone-5-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/point_up-skin-tone-5-1f3fe.png");
+}
+
+img.emojikit.point_up-skin-tone-6{
+    background-image: url("../emoji/16x16/point_up-skin-tone-6-261d-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/point_up-skin-tone-6-261d-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/point_up-skin-tone-6-261d-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/point_up-skin-tone-6-261d-1f3ff.png");
+}
+
+img.emojikit.point_up_2{
+    background-image: url("../emoji/16x16/point_up_2-1f446.png");
+    --medium-background-image: url("../emoji/64x64/point_up_2-1f446.png");
+    --large-background-image: url("../emoji/128x128/point_up_2-1f446.png");
+    --original-background-image: url("../emoji/160x160/point_up_2-1f446.png");
+}
+
+img.emojikit.point_up_2-skin-tone-2{
+    background-image: url("../emoji/16x16/point_up_2-skin-tone-2-1f446-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/point_up_2-skin-tone-2-1f446-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/point_up_2-skin-tone-2-1f446-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/point_up_2-skin-tone-2-1f446-1f3fb.png");
+}
+
+img.emojikit.point_up_2-skin-tone-3{
+    background-image: url("../emoji/16x16/point_up_2-skin-tone-3-1f446-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/point_up_2-skin-tone-3-1f446-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/point_up_2-skin-tone-3-1f446-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/point_up_2-skin-tone-3-1f446-1f3fc.png");
+}
+
+img.emojikit.point_up_2-skin-tone-4{
+    background-image: url("../emoji/16x16/point_up_2-skin-tone-4-1f446-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/point_up_2-skin-tone-4-1f446-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/point_up_2-skin-tone-4-1f446-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/point_up_2-skin-tone-4-1f446-1f3fd.png");
+}
+
+img.emojikit.point_up_2-skin-tone-5{
+    background-image: url("../emoji/16x16/point_up_2-skin-tone-5-1f446-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/point_up_2-skin-tone-5-1f446-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/point_up_2-skin-tone-5-1f446-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/point_up_2-skin-tone-5-1f446-1f3fe.png");
+}
+
+img.emojikit.point_up_2-skin-tone-6{
+    background-image: url("../emoji/16x16/point_up_2-skin-tone-6-1f446-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/point_up_2-skin-tone-6-1f446-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/point_up_2-skin-tone-6-1f446-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/point_up_2-skin-tone-6-1f446-1f3ff.png");
 }
 
 img.emojikit.poodle{
@@ -2810,6 +3336,48 @@ img.emojikit.pouting_cat{
     --medium-background-image: url("../emoji/64x64/pouting_cat-1f63e.png");
     --large-background-image: url("../emoji/128x128/pouting_cat-1f63e.png");
     --original-background-image: url("../emoji/160x160/pouting_cat-1f63e.png");
+}
+
+img.emojikit.punch{
+    background-image: url("../emoji/16x16/punch-1f44a.png");
+    --medium-background-image: url("../emoji/64x64/punch-1f44a.png");
+    --large-background-image: url("../emoji/128x128/punch-1f44a.png");
+    --original-background-image: url("../emoji/160x160/punch-1f44a.png");
+}
+
+img.emojikit.punch-skin-tone-21f44a{
+    background-image: url("../emoji/16x16/punch-skin-tone-21f44a-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/punch-skin-tone-21f44a-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/punch-skin-tone-21f44a-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/punch-skin-tone-21f44a-1f3fb.png");
+}
+
+img.emojikit.punch-skin-tone-3{
+    background-image: url("../emoji/16x16/punch-skin-tone-3-1f44a-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/punch-skin-tone-3-1f44a-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/punch-skin-tone-3-1f44a-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/punch-skin-tone-3-1f44a-1f3fc.png");
+}
+
+img.emojikit.punch-skin-tone-4{
+    background-image: url("../emoji/16x16/punch-skin-tone-4-1f44a-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/punch-skin-tone-4-1f44a-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/punch-skin-tone-4-1f44a-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/punch-skin-tone-4-1f44a-1f3fd.png");
+}
+
+img.emojikit.punch-skin-tone-5{
+    background-image: url("../emoji/16x16/punch-skin-tone-5-1f44a-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/punch-skin-tone-5-1f44a-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/punch-skin-tone-5-1f44a-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/punch-skin-tone-5-1f44a-1f3fe.png");
+}
+
+img.emojikit.punch-skin-tone-6{
+    background-image: url("../emoji/16x16/punch-skin-tone-6-1f44a-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/punch-skin-tone-6-1f44a-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/punch-skin-tone-6-1f44a-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/punch-skin-tone-6-1f44a-1f3ff.png");
 }
 
 img.emojikit.rabbit{
@@ -2903,6 +3471,13 @@ img.emojikit.rice_cracker{
     --original-background-image: url("../emoji/160x160/rice_cracker-1f358.png");
 }
 
+img.emojikit.ring{
+    background-image: url("../emoji/16x16/ring-1f48d.png");
+    --medium-background-image: url("../emoji/64x64/ring-1f48d.png");
+    --large-background-image: url("../emoji/128x128/ring-1f48d.png");
+    --original-background-image: url("../emoji/160x160/ring-1f48d.png");
+}
+
 img.emojikit.robot_face{
     background-image: url("../emoji/16x16/robot_face-1f916.png");
     --medium-background-image: url("../emoji/64x64/robot_face-1f916.png");
@@ -2994,6 +3569,13 @@ img.emojikit.simple_smile{
     --original-background-image: url("../emoji/160x160/simple_smile-1f642.png");
 }
 
+img.emojikit.skull{
+    background-image: url("../emoji/16x16/skull-1f480.png");
+    --medium-background-image: url("../emoji/64x64/skull-1f480.png");
+    --large-background-image: url("../emoji/128x128/skull-1f480.png");
+    --original-background-image: url("../emoji/160x160/skull-1f480.png");
+}
+
 img.emojikit.sleeping{
     background-image: url("../emoji/16x16/sleeping-1f634.png");
     --medium-background-image: url("../emoji/64x64/sleeping-1f634.png");
@@ -3015,11 +3597,11 @@ img.emojikit.sleuth_or_spy{
     --original-background-image: url("../emoji/160x160/sleuth_or_spy-1f575.png");
 }
 
-img.emojikit.slight_frowning_face{
-    background-image: url("../emoji/16x16/slight_frowning_face-1f641.png");
-    --medium-background-image: url("../emoji/64x64/slight_frowning_face-1f641.png");
-    --large-background-image: url("../emoji/128x128/slight_frowning_face-1f641.png");
-    --original-background-image: url("../emoji/160x160/slight_frowning_face-1f641.png");
+img.emojikit.slightly_frowning_face{
+    background-image: url("../emoji/16x16/slightly_frowning_face-1f641.png");
+    --medium-background-image: url("../emoji/64x64/slightly_frowning_face-1f641.png");
+    --large-background-image: url("../emoji/128x128/slightly_frowning_face-1f641.png");
+    --original-background-image: url("../emoji/160x160/slightly_frowning_face-1f641.png");
 }
 
 img.emojikit.smile{
@@ -3090,6 +3672,13 @@ img.emojikit.sob{
     --medium-background-image: url("../emoji/64x64/sob-1f62d.png");
     --large-background-image: url("../emoji/128x128/sob-1f62d.png");
     --original-background-image: url("../emoji/160x160/sob-1f62d.png");
+}
+
+img.emojikit.space_invader{
+    background-image: url("../emoji/16x16/space_invader-1f47e.png");
+    --medium-background-image: url("../emoji/64x64/space_invader-1f47e.png");
+    --large-background-image: url("../emoji/128x128/space_invader-1f47e.png");
+    --original-background-image: url("../emoji/160x160/space_invader-1f47e.png");
 }
 
 img.emojikit.spaghetti{
@@ -3176,6 +3765,13 @@ img.emojikit.sweet_potato{
     --original-background-image: url("../emoji/160x160/sweet_potato-1f360.png");
 }
 
+img.emojikit.syringe{
+    background-image: url("../emoji/16x16/syringe-1f489.png");
+    --medium-background-image: url("../emoji/64x64/syringe-1f489.png");
+    --large-background-image: url("../emoji/128x128/syringe-1f489.png");
+    --original-background-image: url("../emoji/160x160/syringe-1f489.png");
+}
+
 img.emojikit.taco{
     background-image: url("../emoji/16x16/taco-1f32e.png");
     --medium-background-image: url("../emoji/64x64/taco-1f32e.png");
@@ -3230,6 +3826,13 @@ img.emojikit.tomato{
     --medium-background-image: url("../emoji/64x64/tomato-1f345.png");
     --large-background-image: url("../emoji/128x128/tomato-1f345.png");
     --original-background-image: url("../emoji/160x160/tomato-1f345.png");
+}
+
+img.emojikit.tongue{
+    background-image: url("../emoji/16x16/tongue-1f445.png");
+    --medium-background-image: url("../emoji/64x64/tongue-1f445.png");
+    --large-background-image: url("../emoji/128x128/tongue-1f445.png");
+    --original-background-image: url("../emoji/160x160/tongue-1f445.png");
 }
 
 img.emojikit.triumph{
@@ -3293,6 +3896,48 @@ img.emojikit.upside_down_face{
     --medium-background-image: url("../emoji/64x64/upside_down_face-1f643.png");
     --large-background-image: url("../emoji/128x128/upside_down_face-1f643.png");
     --original-background-image: url("../emoji/160x160/upside_down_face-1f643.png");
+}
+
+img.emojikit.v{
+    background-image: url("../emoji/16x16/v-270c-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/v-270c-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/v-270c-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/v-270c-1f3fc.png");
+}
+
+img.emojikit.v{
+    background-image: url("../emoji/16x16/v-270c.png");
+    --medium-background-image: url("../emoji/64x64/v-270c.png");
+    --large-background-image: url("../emoji/128x128/v-270c.png");
+    --original-background-image: url("../emoji/160x160/v-270c.png");
+}
+
+img.emojikit.v-skin-tone-2{
+    background-image: url("../emoji/16x16/v-skin-tone-2-270c-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/v-skin-tone-2-270c-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/v-skin-tone-2-270c-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/v-skin-tone-2-270c-1f3fc.png");
+}
+
+img.emojikit.v-skin-tone-4{
+    background-image: url("../emoji/16x16/v-skin-tone-4-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/v-skin-tone-4-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/v-skin-tone-4-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/v-skin-tone-4-1f3fd.png");
+}
+
+img.emojikit.v-skin-tone-5{
+    background-image: url("../emoji/16x16/v-skin-tone-5-270c-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/v-skin-tone-5-270c-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/v-skin-tone-5-270c-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/v-skin-tone-5-270c-1f3fe.png");
+}
+
+img.emojikit.v-skin-tone-6{
+    background-image: url("../emoji/16x16/v-skin-tone-6-270c-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/v-skin-tone-6-270c-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/v-skin-tone-6-270c-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/v-skin-tone-6-270c-1f3ff.png");
 }
 
 img.emojikit.watermelon{
@@ -3363,6 +4008,48 @@ img.emojikit.worried{
     --medium-background-image: url("../emoji/64x64/worried-1f61f.png");
     --large-background-image: url("../emoji/128x128/worried-1f61f.png");
     --original-background-image: url("../emoji/160x160/worried-1f61f.png");
+}
+
+img.emojikit.writing_hand{
+    background-image: url("../emoji/16x16/writing_hand-270d.png");
+    --medium-background-image: url("../emoji/64x64/writing_hand-270d.png");
+    --large-background-image: url("../emoji/128x128/writing_hand-270d.png");
+    --original-background-image: url("../emoji/160x160/writing_hand-270d.png");
+}
+
+img.emojikit.writing_hand-skin-tone-2{
+    background-image: url("../emoji/16x16/writing_hand-skin-tone-2-270d-1f3fb.png");
+    --medium-background-image: url("../emoji/64x64/writing_hand-skin-tone-2-270d-1f3fb.png");
+    --large-background-image: url("../emoji/128x128/writing_hand-skin-tone-2-270d-1f3fb.png");
+    --original-background-image: url("../emoji/160x160/writing_hand-skin-tone-2-270d-1f3fb.png");
+}
+
+img.emojikit.writing_hand-skin-tone-3{
+    background-image: url("../emoji/16x16/writing_hand-skin-tone-3-270d-1f3fc.png");
+    --medium-background-image: url("../emoji/64x64/writing_hand-skin-tone-3-270d-1f3fc.png");
+    --large-background-image: url("../emoji/128x128/writing_hand-skin-tone-3-270d-1f3fc.png");
+    --original-background-image: url("../emoji/160x160/writing_hand-skin-tone-3-270d-1f3fc.png");
+}
+
+img.emojikit.writing_hand-skin-tone-4{
+    background-image: url("../emoji/16x16/writing_hand-skin-tone-4-270d-1f3fd.png");
+    --medium-background-image: url("../emoji/64x64/writing_hand-skin-tone-4-270d-1f3fd.png");
+    --large-background-image: url("../emoji/128x128/writing_hand-skin-tone-4-270d-1f3fd.png");
+    --original-background-image: url("../emoji/160x160/writing_hand-skin-tone-4-270d-1f3fd.png");
+}
+
+img.emojikit.writing_hand-skin-tone-5{
+    background-image: url("../emoji/16x16/writing_hand-skin-tone-5-270d-1f3fe.png");
+    --medium-background-image: url("../emoji/64x64/writing_hand-skin-tone-5-270d-1f3fe.png");
+    --large-background-image: url("../emoji/128x128/writing_hand-skin-tone-5-270d-1f3fe.png");
+    --original-background-image: url("../emoji/160x160/writing_hand-skin-tone-5-270d-1f3fe.png");
+}
+
+img.emojikit.writing_hand-skin-tone-6{
+    background-image: url("../emoji/16x16/writing_hand-skin-tone-6-270d-1f3ff.png");
+    --medium-background-image: url("../emoji/64x64/writing_hand-skin-tone-6-270d-1f3ff.png");
+    --large-background-image: url("../emoji/128x128/writing_hand-skin-tone-6-270d-1f3ff.png");
+    --original-background-image: url("../emoji/160x160/writing_hand-skin-tone-6-270d-1f3ff.png");
 }
 
 img.emojikit.yum{
