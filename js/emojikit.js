@@ -31,8 +31,24 @@ for(var i=0; i<allEmojikitElements.length; i++) {
     var style = window.getComputedStyle(parentElement, null).getPropertyValue('font-size');
     var fontSize = parseFloat(style); 
 
+
+    //require next largest background image (16x16 is used by default)
+    if (fontSize <= 64.0) {
+        mediumEmoji = getRemoteStyle(allEmojikitElements[i], "--medium-background-image");
+        allEmojikitElements[i].style.backgroundImage = mediumEmoji;
+    }
+    else if (fontSize <= 128.0) {
+        largeEmoji = getRemoteStyle(allEmojikitElements[i], "--large-background-image");
+        allEmojikitElements[i].style.backgroundImage = largeEmoji;
+    }
+    else {
+        originalEmoji = getRemoteStyle(allEmojikitElements[i], "--original-background-image");
+        allEmojikitElements[i].style.backgroundImage = originalEmoji;
+    }
+
+
     //scale emoji to text font size
-    var scaleFactor = 0.7; //is of type floar
+    var scaleFactor = 0.7; //is of type float
     var dimension = (fontSize*scaleFactor).toString();
     allEmojikitElements[i].style.backgroundSize = dimension + "px " + dimension + "px";
     allEmojikitElements[i].style.width = dimension + "px";
