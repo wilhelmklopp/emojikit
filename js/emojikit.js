@@ -20,6 +20,12 @@ function getRemoteStyle(elem, name) {
 }
 
 for(var i=0; i<allEmojikitElements.length; i++) {
+
+    //backgroundURL is used and maniupaled throughout this loop
+    var fullBackgroundURL = getRemoteStyle(allEmojikitElements[i], "background-image")
+    var backgroundURL = fullBackgroundURL.slice(4, -1).replace(/["|']/g, "");
+
+
     //image neeeds src, otherwise a border and alt text appear
     allEmojikitElements[i].setAttribute("src", transparentBase64);
 
@@ -33,16 +39,19 @@ for(var i=0; i<allEmojikitElements.length; i++) {
 
 
     //require next largest background image (16x16 is used by default)
-    if (fontSize <= 64.0) {
-        mediumEmoji = getRemoteStyle(allEmojikitElements[i], "--medium-background-image");
+    if (fontSize <= 16.0) {
+        //Do nothing. Correct background image 
+    }
+    else if (fontSize <= 64.0 && fontSize > 16.0) {
+        mediumEmoji = fullBackgroundURL.replace("16x16", "64x64");
         allEmojikitElements[i].style.backgroundImage = mediumEmoji;
     }
     else if (fontSize <= 128.0) {
-        largeEmoji = getRemoteStyle(allEmojikitElements[i], "--large-background-image");
+        largeEmoji = fullBackgroundURL.replace("16x16", "128x128");
         allEmojikitElements[i].style.backgroundImage = largeEmoji;
     }
     else {
-        originalEmoji = getRemoteStyle(allEmojikitElements[i], "--original-background-image");
+        originalEmoji = fullBackgroundURL.replace("16x16", "160x160");
         allEmojikitElements[i].style.backgroundImage = originalEmoji;
     }
 
@@ -55,7 +64,6 @@ for(var i=0; i<allEmojikitElements.length; i++) {
     allEmojikitElements[i].style.height = dimension + "px";
 
     //set alt text to actual emoji
-    var backgroundURL = getRemoteStyle(allEmojikitElements[i], "background-image").slice(4, -1).replace(/["|']/g, "");
     var reverseBackgroundURL = backgroundURL.split("").reverse().join("");
     var emojiLongName = reverseBackgroundURL.slice(4).split("/")[0].split("").reverse().join("");
 
