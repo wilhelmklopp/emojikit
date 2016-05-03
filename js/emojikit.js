@@ -21,7 +21,7 @@ function getRemoteStyle(elem, name) {
 
 for(var i=0; i<allEmojikitElements.length; i++) {
 
-    //backgroundURL is used and maniupaled throughout this loop
+    //backgroundURL is used and manipulated throughout this loop
     var fullBackgroundURL = getRemoteStyle(allEmojikitElements[i], "background-image")
     var backgroundURL = fullBackgroundURL.slice(4, -1).replace(/["|']/g, "");
 
@@ -57,7 +57,7 @@ for(var i=0; i<allEmojikitElements.length; i++) {
 
 
     //scale emoji to text font size
-    var scaleFactor = 0.7; //is of type float
+    var scaleFactor = 1.1; //is of type float
     var dimension = (fontSize*scaleFactor).toString();
     allEmojikitElements[i].style.backgroundSize = dimension + "px " + dimension + "px";
     allEmojikitElements[i].style.width = dimension + "px";
@@ -67,7 +67,7 @@ for(var i=0; i<allEmojikitElements.length; i++) {
     var reverseBackgroundURL = backgroundURL.split("").reverse().join("");
     var emojiLongName = reverseBackgroundURL.slice(4).split("/")[0].split("").reverse().join("");
 
-    var pattern = /([0-9a-fA-F]{5})/g;
+    var pattern = /(?:-)([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})/g;
     var matches = emojiLongName.match(pattern);
     var emoji="";
     for(var j=0; j<matches.length; j++) {
