@@ -68,10 +68,11 @@ for(var i=0; i<allEmojikitElements.length; i++) {
     var emojiLongName = reverseBackgroundURL.slice(4).split("/")[0].split("").reverse().join("");
 
     var pattern = /(?:-)([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})?(?:-)?([0-9a-fA-F]{4,5})/g;
-    var matches = emojiLongName.match(pattern);
+    var match = emojiLongName.match(pattern)[0];
+    var matches = match.substr(1).split("-");
     var emoji="";
     for(var j=0; j<matches.length; j++) {
-        emoji += "&#x" + matches[j];
+        emoji += "&#x" + matches[j].replace("-", "");
         elem = document.createElement("p");
         elem.innerHTML = emoji;
         emoji = elem.innerHTML;
