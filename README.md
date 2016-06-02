@@ -7,5 +7,5 @@ We are making the world a better place every day. With emoji. :punch:
 UPDATE: It is now compulsory for all commit messages to have emoji! :fire:
 
 # Build process:
-- Run src/createCSS.py and copy the contents from the destination file to css/emojikit.css without replacing the top bit
-- run src/resize_emoji.py to resize and copy all the emoji from the 160x160 to all other size folders.
+- Run src/createCSS.py (This adds any new classes to css/emojikit.css)
+- run src/resize_emoji.py (This resizes all the emoji in emoji/160x160 to the relevant sizes and copies them to the relevant folders)
