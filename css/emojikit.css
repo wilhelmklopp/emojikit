@@ -65,6 +65,10 @@ img.emojikit.ab{
     background-image: url("../emoji/16x16/ab-1f18e.png");
 }
 
+img.emojikit.accept{
+    background-image: url("../emoji/16x16/accept-1f251.png");
+}
+
 img.emojikit.admission_tickets{
     background-image: url("../emoji/16x16/admission_tickets-1f39f.png");
 }
@@ -101,6 +105,10 @@ img.emojikit.ambulance{
     background-image: url("../emoji/16x16/ambulance-1f691.png");
 }
 
+img.emojikit.anchor{
+    background-image: url("../emoji/16x16/anchor-2693.png");
+}
+
 img.emojikit.angry{
     background-image: url("../emoji/16x16/angry-1f620.png");
 }
@@ -117,8 +125,76 @@ img.emojikit.apple{
     background-image: url("../emoji/16x16/apple-1f34e.png");
 }
 
+img.emojikit.aquarius{
+    background-image: url("../emoji/16x16/aquarius-2652.png");
+}
+
+img.emojikit.aries{
+    background-image: url("../emoji/16x16/aries-2648.png");
+}
+
+img.emojikit.arrow_backward{
+    background-image: url("../emoji/16x16/arrow_backward-25c0.png");
+}
+
+img.emojikit.arrow_double_down{
+    background-image: url("../emoji/16x16/arrow_double_down-23ec.png");
+}
+
+img.emojikit.arrow_double_up{
+    background-image: url("../emoji/16x16/arrow_double_up-23eb.png");
+}
+
+img.emojikit.arrow_down{
+    background-image: url("../emoji/16x16/arrow_down-2b07.png");
+}
+
+img.emojikit.arrow_forward{
+    background-image: url("../emoji/16x16/arrow_forward-25b6.png");
+}
+
+img.emojikit.arrow_heading_down{
+    background-image: url("../emoji/16x16/arrow_heading_down-2935.png");
+}
+
+img.emojikit.arrow_heading_up{
+    background-image: url("../emoji/16x16/arrow_heading_up-2934.png");
+}
+
+img.emojikit.arrow_left{
+    background-image: url("../emoji/16x16/arrow_left-2b05.png");
+}
+
+img.emojikit.arrow_lower_left{
+    background-image: url("../emoji/16x16/arrow_lower_left-2199.png");
+}
+
+img.emojikit.arrow_lower_right{
+    background-image: url("../emoji/16x16/arrow_lower_right-2198.png");
+}
+
 img.emojikit.arrow_right{
     background-image: url("../emoji/16x16/arrow_right-27a1.png");
+}
+
+img.emojikit.arrow_right_hook{
+    background-image: url("../emoji/16x16/arrow_right_hook-21aa.png");
+}
+
+img.emojikit.arrow_up{
+    background-image: url("../emoji/16x16/arrow_up-2b06.png");
+}
+
+img.emojikit.arrow_upper_left{
+    background-image: url("../emoji/16x16/arrow_upper_left-2196.png");
+}
+
+img.emojikit.arrow_upper_right{
+    background-image: url("../emoji/16x16/arrow_upper_right-2197.png");
+}
+
+img.emojikit.arrow_up_down{
+    background-image: url("../emoji/16x16/arrow_up_down-2195.png");
 }
 
 img.emojikit.art{
@@ -131,6 +207,10 @@ img.emojikit.articulated_lorry{
 
 img.emojikit.astonished{
     background-image: url("../emoji/16x16/astonished-1f632.png");
+}
+
+img.emojikit.atom_symbol{
+    background-image: url("../emoji/16x16/atom_symbol-269b.png");
 }
 
 img.emojikit.b{
@@ -153,12 +233,20 @@ img.emojikit.baggage_claim{
     background-image: url("../emoji/16x16/baggage_claim-1f6c4.png");
 }
 
+img.emojikit.ballot_box_with_check{
+    background-image: url("../emoji/16x16/ballot_box_with_check-2611.png");
+}
+
 img.emojikit.banana{
     background-image: url("../emoji/16x16/banana-1f34c.png");
 }
 
 img.emojikit.bar_chart{
     background-image: url("../emoji/16x16/bar_chart-1f4ca.png");
+}
+
+img.emojikit.baseball{
+    background-image: url("../emoji/16x16/baseball-26be.png");
 }
 
 img.emojikit.bath{
@@ -253,6 +341,10 @@ img.emojikit.bike{
     background-image: url("../emoji/16x16/bike-1f6b2.png");
 }
 
+img.emojikit.biohazard_sign{
+    background-image: url("../emoji/16x16/biohazard_sign-2623.png");
+}
+
 img.emojikit.bird{
     background-image: url("../emoji/16x16/bird-1f426.png");
 }
@@ -261,8 +353,52 @@ img.emojikit.birthday{
     background-image: url("../emoji/16x16/birthday-1f382.png");
 }
 
+img.emojikit.black_circle{
+    background-image: url("../emoji/16x16/black_circle-26ab.png");
+}
+
+img.emojikit.black_circle_for_record{
+    background-image: url("../emoji/16x16/black_circle_for_record-23fa.png");
+}
+
+img.emojikit.black_joker{
+    background-image: url("../emoji/16x16/black_joker-1f0cf.png");
+}
+
+img.emojikit.black_large_square{
+    background-image: url("../emoji/16x16/black_large_square-2b1b.png");
+}
+
+img.emojikit.black_left_pointing_double_triangle_with_vertical_bar{
+    background-image: url("../emoji/16x16/black_left_pointing_double_triangle_with_vertical_bar-23ee.png");
+}
+
+img.emojikit.black_medium_small_square{
+    background-image: url("../emoji/16x16/black_medium_small_square-25fe.png");
+}
+
+img.emojikit.black_medium_square{
+    background-image: url("../emoji/16x16/black_medium_square-25fc.png");
+}
+
 img.emojikit.black_nib{
     background-image: url("../emoji/16x16/black_nib-2712.png");
+}
+
+img.emojikit.black_right_pointing_double_triangle_with_vertical_bar{
+    background-image: url("../emoji/16x16/black_right_pointing_double_triangle_with_vertical_bar-23ed.png");
+}
+
+img.emojikit.black_right_pointing_triangle_with_double_vertical_bar{
+    background-image: url("../emoji/16x16/black_right_pointing_triangle_with_double_vertical_bar-23ef.png");
+}
+
+img.emojikit.black_small_square{
+    background-image: url("../emoji/16x16/black_small_square-25aa.png");
+}
+
+img.emojikit.black_square_for_stop{
+    background-image: url("../emoji/16x16/black_square_for_stop-23f9.png");
 }
 
 img.emojikit.blossom{
@@ -357,8 +493,16 @@ img.emojikit.camera_with_flash{
     background-image: url("../emoji/16x16/camera_with_flash-1f4f8.png");
 }
 
+img.emojikit.cancer{
+    background-image: url("../emoji/16x16/cancer-264b.png");
+}
+
 img.emojikit.candy{
     background-image: url("../emoji/16x16/candy-1f36c.png");
+}
+
+img.emojikit.capricorn{
+    background-image: url("../emoji/16x16/capricorn-2651.png");
 }
 
 img.emojikit.car{
@@ -553,8 +697,24 @@ img.emojikit.closed_umbrella{
     background-image: url("../emoji/16x16/closed_umbrella-1f302.png");
 }
 
+img.emojikit.cloud{
+    background-image: url("../emoji/16x16/cloud-2601.png");
+}
+
+img.emojikit.clubs{
+    background-image: url("../emoji/16x16/clubs-2663.png");
+}
+
 img.emojikit.cocktail{
     background-image: url("../emoji/16x16/cocktail-1f378.png");
+}
+
+img.emojikit.coffee{
+    background-image: url("../emoji/16x16/coffee-2615.png");
+}
+
+img.emojikit.coffin{
+    background-image: url("../emoji/16x16/coffin-26b0.png");
 }
 
 img.emojikit.cold_sweat{
@@ -563,6 +723,10 @@ img.emojikit.cold_sweat{
 
 img.emojikit.collision{
     background-image: url("../emoji/16x16/collision-1f4a5.png");
+}
+
+img.emojikit.comet{
+    background-image: url("../emoji/16x16/comet-2604.png");
 }
 
 img.emojikit.computer{
@@ -575,6 +739,10 @@ img.emojikit.confounded{
 
 img.emojikit.confused{
     background-image: url("../emoji/16x16/confused-1f615.png");
+}
+
+img.emojikit.congratulations{
+    background-image: url("../emoji/16x16/congratulations-3297.png");
 }
 
 img.emojikit.construction{
@@ -591,6 +759,10 @@ img.emojikit.cookie{
 
 img.emojikit.cool{
     background-image: url("../emoji/16x16/cool-1f192.png");
+}
+
+img.emojikit.copyright{
+    background-image: url("../emoji/16x16/copyright-00a9.png");
 }
 
 img.emojikit.corn{
@@ -641,6 +813,10 @@ img.emojikit.crying_cat_face{
     background-image: url("../emoji/16x16/crying_cat_face-1f63f.png");
 }
 
+img.emojikit.curly_loop{
+    background-image: url("../emoji/16x16/curly_loop-27b0.png");
+}
+
 img.emojikit.curry{
     background-image: url("../emoji/16x16/curry-1f35b.png");
 }
@@ -651,6 +827,10 @@ img.emojikit.custard{
 
 img.emojikit.customs{
     background-image: url("../emoji/16x16/customs-1f6c3.png");
+}
+
+img.emojikit.cyclone{
+    background-image: url("../emoji/16x16/cyclone-1f300.png");
 }
 
 img.emojikit.dancers{
@@ -679,6 +859,10 @@ img.emojikit.deciduous_tree{
 
 img.emojikit.desktop_computer{
     background-image: url("../emoji/16x16/desktop_computer-1f5a8.png");
+}
+
+img.emojikit.diamons{
+    background-image: url("../emoji/16x16/diamons-2666.png");
 }
 
 img.emojikit.disappointed{
@@ -711,6 +895,14 @@ img.emojikit.dolphin{
 
 img.emojikit.door{
     background-image: url("../emoji/16x16/door-1f6aa.png");
+}
+
+img.emojikit.double_exclamation{
+    background-image: url("../emoji/16x16/double_exclamation-2049.png");
+}
+
+img.emojikit.double_vertical_bar{
+    background-image: url("../emoji/16x16/double_vertical_bar-23f8.png");
 }
 
 img.emojikit.doughnut{
@@ -793,6 +985,14 @@ img.emojikit.eight{
     background-image: url("../emoji/16x16/eight-0038-fe0f-20e3.png");
 }
 
+img.emojikit.eight_pointed_black_star{
+    background-image: url("../emoji/16x16/eight_pointed_black_star-2734.png");
+}
+
+img.emojikit.eight_spoked_asterisk{
+    background-image: url("../emoji/16x16/eight_spoked_asterisk-2733.png");
+}
+
 img.emojikit.electric_plug{
     background-image: url("../emoji/16x16/electric_plug-1f50c.png");
 }
@@ -815,6 +1015,10 @@ img.emojikit.euro{
 
 img.emojikit.evergreen_tree{
     background-image: url("../emoji/16x16/evergreen_tree-1f332.png");
+}
+
+img.emojikit.exclamation{
+    background-image: url("../emoji/16x16/exclamation-2757.png");
 }
 
 img.emojikit.expressionless{
@@ -851,6 +1055,10 @@ img.emojikit.face_with_thermometer{
 
 img.emojikit.fallen_leaf{
     background-image: url("../emoji/16x16/fallen_leaf-1f342.png");
+}
+
+img.emojikit.fast_forward{
+    background-image: url("../emoji/16x16/fast_forward-23e9.png");
 }
 
 img.emojikit.fearful{
@@ -1901,6 +2109,10 @@ img.emojikit.flag-zw{
     background-image: url("../emoji/16x16/flag-zw-1f1ff-1f1fc.png");
 }
 
+img.emojikit.fleur_de_lis{
+    background-image: url("../emoji/16x16/fleur_de_lis-269c.png");
+}
+
 img.emojikit.floppy_disk{
     background-image: url("../emoji/16x16/floppy_disk-1f4be.png");
 }
@@ -1961,6 +2173,10 @@ img.emojikit.full_moon_with_face{
     background-image: url("../emoji/16x16/full_moon_with_face-1f31d.png");
 }
 
+img.emojikit.funeral_urn{
+    background-image: url("../emoji/16x16/funeral_urn-26b1.png");
+}
+
 img.emojikit.game_die{
     background-image: url("../emoji/16x16/game_die-1f3b2.png");
 }
@@ -1971,6 +2187,10 @@ img.emojikit.gear{
 
 img.emojikit.gem{
     background-image: url("../emoji/16x16/gem-1f48e.png");
+}
+
+img.emojikit.gemini{
+    background-image: url("../emoji/16x16/gemini-264a.png");
 }
 
 img.emojikit.ghost{
@@ -1995,6 +2215,14 @@ img.emojikit.grapes{
 
 img.emojikit.green_apple{
     background-image: url("../emoji/16x16/green_apple-1f34f.png");
+}
+
+img.emojikit.grey_exclamation{
+    background-image: url("../emoji/16x16/grey_exclamation-2755.png");
+}
+
+img.emojikit.grey_question{
+    background-image: url("../emoji/16x16/grey_question-2754.png");
 }
 
 img.emojikit.grimmacing{
@@ -2053,6 +2281,10 @@ img.emojikit.hand-skin-tone-6{
     background-image: url("../emoji/16x16/hand-skin-tone-6-270b-1f3ff.png");
 }
 
+img.emojikit.hash{
+    background-image: url("../emoji/16x16/hash-0023-fe0f-20e3.png");
+}
+
 img.emojikit.hatched_chick{
     background-image: url("../emoji/16x16/hatched_chick-1f425.png");
 }
@@ -2069,6 +2301,10 @@ img.emojikit.heart{
     background-image: url("../emoji/16x16/heart-2764.png");
 }
 
+img.emojikit.hearts{
+    background-image: url("../emoji/16x16/hearts-2665.png");
+}
+
 img.emojikit.heart_eyes{
     background-image: url("../emoji/16x16/heart_eyes-1f60d.png");
 }
@@ -2081,8 +2317,28 @@ img.emojikit.hear_no_evil{
     background-image: url("../emoji/16x16/hear_no_evil-1f649.png");
 }
 
+img.emojikit.heavy_check_mark{
+    background-image: url("../emoji/16x16/heavy_check_mark-2714.png");
+}
+
 img.emojikit.heavy_division_sign{
     background-image: url("../emoji/16x16/heavy_division_sign-2797.png");
+}
+
+img.emojikit.heavy_heart_exclamation_mark_ornament{
+    background-image: url("../emoji/16x16/heavy_heart_exclamation_mark_ornament-2763.png");
+}
+
+img.emojikit.heavy_minus_sign{
+    background-image: url("../emoji/16x16/heavy_minus_sign-2796.png");
+}
+
+img.emojikit.heavy_multiplication_x{
+    background-image: url("../emoji/16x16/heavy_multiplication_x-2716.png");
+}
+
+img.emojikit.heavy_plus_sign{
+    background-image: url("../emoji/16x16/heavy_plus_sign-2795.png");
 }
 
 img.emojikit.helicopter{
@@ -2107,6 +2363,10 @@ img.emojikit.horse{
 
 img.emojikit.hotdog{
     background-image: url("../emoji/16x16/hotdog-1f32d.png");
+}
+
+img.emojikit.hotsprings{
+    background-image: url("../emoji/16x16/hotsprings-2668.png");
 }
 
 img.emojikit.hot_pepper{
@@ -2141,6 +2401,10 @@ img.emojikit.id{
     background-image: url("../emoji/16x16/id-1f194.png");
 }
 
+img.emojikit.ideograph_advantage{
+    background-image: url("../emoji/16x16/ideograph_advantage-1f250.png");
+}
+
 img.emojikit.imp{
     background-image: url("../emoji/16x16/imp-1f47f.png");
 }
@@ -2153,8 +2417,16 @@ img.emojikit.incoming_envelope{
     background-image: url("../emoji/16x16/incoming_envelope-1f4e8.png");
 }
 
+img.emojikit.information_source{
+    background-image: url("../emoji/16x16/information_source-2139.png");
+}
+
 img.emojikit.innocent{
     background-image: url("../emoji/16x16/innocent-1f607.png");
+}
+
+img.emojikit.interrobang{
+    background-image: url("../emoji/16x16/interrobang-2049.png");
 }
 
 img.emojikit.iphone{
@@ -2187,6 +2459,10 @@ img.emojikit.key{
 
 img.emojikit.keyboard{
     background-image: url("../emoji/16x16/keyboard-2328.png");
+}
+
+img.emojikit.keycap_star{
+    background-image: url("../emoji/16x16/keycap_star-0023-fe0f-20e3.png");
 }
 
 img.emojikit.keycap_ten{
@@ -2225,6 +2501,10 @@ img.emojikit.koala{
     background-image: url("../emoji/16x16/koala-1f428.png");
 }
 
+img.emojikit.koko{
+    background-image: url("../emoji/16x16/koko-1f201.png");
+}
+
 img.emojikit.last_quarter_moon{
     background-image: url("../emoji/16x16/last_quarter_moon-1f317.png");
 }
@@ -2233,16 +2513,32 @@ img.emojikit.last_quarter_moon_with_face{
     background-image: url("../emoji/16x16/last_quarter_moon_with_face-1f31c.png");
 }
 
+img.emojikit.latin_cross{
+    background-image: url("../emoji/16x16/latin_cross-271d.png");
+}
+
 img.emojikit.leaves{
     background-image: url("../emoji/16x16/leaves-1f343.png");
+}
+
+img.emojikit.leftwards_arrow_with_hook{
+    background-image: url("../emoji/16x16/leftwards_arrow_with_hook-21a9.png");
 }
 
 img.emojikit.left_luggage{
     background-image: url("../emoji/16x16/left_luggage-1f6c5.png");
 }
 
+img.emojikit.left_right_arrow{
+    background-image: url("../emoji/16x16/left_right_arrow-2194.png");
+}
+
 img.emojikit.lemon{
     background-image: url("../emoji/16x16/lemon-1f34b.png");
+}
+
+img.emojikit.leo{
+    background-image: url("../emoji/16x16/leo-264c.png");
 }
 
 img.emojikit.leopard{
@@ -2251,6 +2547,10 @@ img.emojikit.leopard{
 
 img.emojikit.level_slider{
     background-image: url("../emoji/16x16/level_slider-1f39a.png");
+}
+
+img.emojikit.libra{
+    background-image: url("../emoji/16x16/libra-264e.png");
 }
 
 img.emojikit.lightning_cloud{
@@ -2285,6 +2585,10 @@ img.emojikit.lollipop{
     background-image: url("../emoji/16x16/lollipop-1f36d.png");
 }
 
+img.emojikit.loop{
+    background-image: url("../emoji/16x16/loop-27bf.png");
+}
+
 img.emojikit.loudspeaker{
     background-image: url("../emoji/16x16/loudspeaker-1f4e3.png");
 }
@@ -2295,6 +2599,14 @@ img.emojikit.loud_sound{
 
 img.emojikit.love_letter{
     background-image: url("../emoji/16x16/love_letter-1f48c.png");
+}
+
+img.emojikit.m{
+    background-image: url("../emoji/16x16/m-24c2.png");
+}
+
+img.emojikit.mahjong{
+    background-image: url("../emoji/16x16/mahjong-1f004.png");
 }
 
 img.emojikit.man_in_business_suit_levitating{
@@ -2489,6 +2801,10 @@ img.emojikit.mute{
     background-image: url("../emoji/16x16/mute-1f507.png");
 }
 
+img.emojikit.negative_squared_cross_mark{
+    background-image: url("../emoji/16x16/negative_squared_cross_mark-274e.png");
+}
+
 img.emojikit.nerd_face{
     background-image: url("../emoji/16x16/nerd_face-1f913.png");
 }
@@ -2507,6 +2823,10 @@ img.emojikit.new_moon{
 
 img.emojikit.new_moon_with_face{
     background-image: url("../emoji/16x16/new_moon_with_face-1f31a.png");
+}
+
+img.emojikit.ng{
+    background-image: url("../emoji/16x16/ng-1f196.png");
 }
 
 img.emojikit.night_with_stars{
@@ -2575,6 +2895,10 @@ img.emojikit.no_smoking{
 
 img.emojikit.nut_and_bolt{
     background-image: url("../emoji/16x16/nut_and_bolt-1f529.png");
+}
+
+img.emojikit.o{
+    background-image: url("../emoji/16x16/o-2b55.png");
 }
 
 img.emojikit.o2{
@@ -2649,6 +2973,14 @@ img.emojikit.open_mouth{
     background-image: url("../emoji/16x16/open_mouth-1f62e.png");
 }
 
+img.emojikit.ophiuchus{
+    background-image: url("../emoji/16x16/ophiuchus-26ce.png");
+}
+
+img.emojikit.orthodox_cross{
+    background-image: url("../emoji/16x16/orthodox_cross-2626.png");
+}
+
 img.emojikit.outbodx_tray{
     background-image: url("../emoji/16x16/outbodx_tray-1f4e4.png");
 }
@@ -2673,6 +3005,10 @@ img.emojikit.parking{
     background-image: url("../emoji/16x16/parking-1f17f.png");
 }
 
+img.emojikit.part_alternation_mark{
+    background-image: url("../emoji/16x16/part_alternation_mark-303d.png");
+}
+
 img.emojikit.passenger_ship{
     background-image: url("../emoji/16x16/passenger_ship-1f6f3.png");
 }
@@ -2683,6 +3019,10 @@ img.emojikit.passport_control{
 
 img.emojikit.paw_prints{
     background-image: url("../emoji/16x16/paw_prints-1f43e.png");
+}
+
+img.emojikit.peace_symbol{
+    background-image: url("../emoji/16x16/peace_symbol-262e.png");
 }
 
 img.emojikit.peach{
@@ -2735,6 +3075,10 @@ img.emojikit.pill{
 
 img.emojikit.pineapple{
     background-image: url("../emoji/16x16/pineapple-1f34e.png");
+}
+
+img.emojikit.pisces{
+    background-image: url("../emoji/16x16/pisces-2653.png");
 }
 
 img.emojikit.pizza{
@@ -2925,6 +3269,10 @@ img.emojikit.put_litter_in_its_place{
     background-image: url("../emoji/16x16/put_litter_in_its_place-1f6ae.png");
 }
 
+img.emojikit.question{
+    background-image: url("../emoji/16x16/question-2753.png");
+}
+
 img.emojikit.rabbit{
     background-image: url("../emoji/16x16/rabbit-1f430.png");
 }
@@ -2947,6 +3295,10 @@ img.emojikit.racing_motorcycle{
 
 img.emojikit.radio{
     background-image: url("../emoji/16x16/radio-1f4fb.png");
+}
+
+img.emojikit.radioactive_sign{
+    background-image: url("../emoji/16x16/radioactive_sign-2622.png");
 }
 
 img.emojikit.rage{
@@ -3029,6 +3381,14 @@ img.emojikit.rat{
     background-image: url("../emoji/16x16/rat-1f400.png");
 }
 
+img.emojikit.recycle{
+    background-image: url("../emoji/16x16/recycle-267b.png");
+}
+
+img.emojikit.registered{
+    background-image: url("../emoji/16x16/registered-00a9.png");
+}
+
 img.emojikit.relaxed{
     background-image: url("../emoji/16x16/relaxed-263a.png");
 }
@@ -3039,6 +3399,10 @@ img.emojikit.relieved{
 
 img.emojikit.restroom{
     background-image: url("../emoji/16x16/restroom-1f6bb.png");
+}
+
+img.emojikit.rewind{
+    background-image: url("../emoji/16x16/rewind-23ea.png");
 }
 
 img.emojikit.ribbon{
@@ -3105,6 +3469,14 @@ img.emojikit.rowboat-skin-tone-6{
     background-image: url("../emoji/16x16/rowboat-skin-tone-6-1f6a3-1f3ff.png");
 }
 
+img.emojikit.sa{
+    background-image: url("../emoji/16x16/sa-1f202.png");
+}
+
+img.emojikit.sagittarius{
+    background-image: url("../emoji/16x16/sagittarius-2650.png");
+}
+
 img.emojikit.sake{
     background-image: url("../emoji/16x16/sake-1f376.png");
 }
@@ -3137,12 +3509,20 @@ img.emojikit.scorpion{
     background-image: url("../emoji/16x16/scorpion-1f982.png");
 }
 
+img.emojikit.scorpius{
+    background-image: url("../emoji/16x16/scorpius-264f.png");
+}
+
 img.emojikit.scream{
     background-image: url("../emoji/16x16/scream-1f631.png");
 }
 
 img.emojikit.scream_cat{
     background-image: url("../emoji/16x16/scream_cat-1f640.png");
+}
+
+img.emojikit.secret{
+    background-image: url("../emoji/16x16/secret-3299.png");
 }
 
 img.emojikit.seedling{
@@ -3155,6 +3535,10 @@ img.emojikit.see_no_evil{
 
 img.emojikit.seven{
     background-image: url("../emoji/16x16/seven-0037-fe0f-20e3.png");
+}
+
+img.emojikit.shamrock{
+    background-image: url("../emoji/16x16/shamrock-2618.png");
 }
 
 img.emojikit.shaved_ice{
@@ -3229,6 +3613,10 @@ img.emojikit.skull{
     background-image: url("../emoji/16x16/skull-1f480.png");
 }
 
+img.emojikit.skull_and_crossbones{
+    background-image: url("../emoji/16x16/skull_and_crossbones-2620.png");
+}
+
 img.emojikit.sleeping{
     background-image: url("../emoji/16x16/sleeping-1f634.png");
 }
@@ -3298,6 +3686,10 @@ img.emojikit.snake{
 }
 
 img.emojikit.snowman{
+    background-image: url("../emoji/16x16/snowman-2603.png");
+}
+
+img.emojikit.snowman{
     background-image: url("../emoji/16x16/snowman-26c4.png");
 }
 
@@ -3313,6 +3705,10 @@ img.emojikit.soccer{
     background-image: url("../emoji/16x16/soccer-26bd.png");
 }
 
+img.emojikit.sos{
+    background-image: url("../emoji/16x16/sos-1f198.png");
+}
+
 img.emojikit.sound{
     background-image: url("../emoji/16x16/sound-1f509.png");
 }
@@ -3321,8 +3717,20 @@ img.emojikit.space_invader{
     background-image: url("../emoji/16x16/space_invader-1f47e.png");
 }
 
+img.emojikit.spades{
+    background-image: url("../emoji/16x16/spades-2660.png");
+}
+
 img.emojikit.spaghetti{
     background-image: url("../emoji/16x16/spaghetti-1f35d.png");
+}
+
+img.emojikit.sparkle{
+    background-image: url("../emoji/16x16/sparkle-2747.png");
+}
+
+img.emojikit.sparkles{
+    background-image: url("../emoji/16x16/sparkles-2728.png");
 }
 
 img.emojikit.speaker{
@@ -3359,6 +3767,14 @@ img.emojikit.star2{
 
 img.emojikit.stars{
     background-image: url("../emoji/16x16/stars-1f320.png");
+}
+
+img.emojikit.star_and_crescent{
+    background-image: url("../emoji/16x16/star_and_crescent-262a.png");
+}
+
+img.emojikit.star_of_david{
+    background-image: url("../emoji/16x16/star_of_david-2721.png");
 }
 
 img.emojikit.station{
@@ -3403,6 +3819,10 @@ img.emojikit.sunflower{
 
 img.emojikit.sunglasses{
     background-image: url("../emoji/16x16/sunglasses-1f60e.png");
+}
+
+img.emojikit.sunny{
+    background-image: url("../emoji/16x16/sunny-2600.png");
 }
 
 img.emojikit.sunrise{
@@ -3463,6 +3883,10 @@ img.emojikit.tada{
 
 img.emojikit.tangerine{
     background-image: url("../emoji/16x16/tangerine-1f34a.png");
+}
+
+img.emojikit.taurus{
+    background-image: url("../emoji/16x16/taurus-2649.png");
 }
 
 img.emojikit.taxi{
@@ -3537,6 +3961,10 @@ img.emojikit.tractor{
     background-image: url("../emoji/16x16/tractor-1f69c.png");
 }
 
+img.emojikit.trademark{
+    background-image: url("../emoji/16x16/trademark-2122.png");
+}
+
 img.emojikit.traffic_light{
     background-image: url("../emoji/16x16/traffic_light-1f6a5.png");
 }
@@ -3601,6 +4029,58 @@ img.emojikit.two{
     background-image: url("../emoji/16x16/two-0032-fe0f-20e3.png");
 }
 
+img.emojikit.u5272{
+    background-image: url("../emoji/16x16/u5272-1f239.png");
+}
+
+img.emojikit.u5408{
+    background-image: url("../emoji/16x16/u5408-1f234.png");
+}
+
+img.emojikit.u55b6{
+    background-image: url("../emoji/16x16/u55b6-1f23a.png");
+}
+
+img.emojikit.u6307{
+    background-image: url("../emoji/16x16/u6307-1f22f.png");
+}
+
+img.emojikit.u6708{
+    background-image: url("../emoji/16x16/u6708-1f237.png");
+}
+
+img.emojikit.u6709{
+    background-image: url("../emoji/16x16/u6709-1f236.png");
+}
+
+img.emojikit.u6e80{
+    background-image: url("../emoji/16x16/u6e80-1f235.png");
+}
+
+img.emojikit.u7121{
+    background-image: url("../emoji/16x16/u7121-1f21a.png");
+}
+
+img.emojikit.u7533{
+    background-image: url("../emoji/16x16/u7533-1f238.png");
+}
+
+img.emojikit.u7981{
+    background-image: url("../emoji/16x16/u7981-1f232.png");
+}
+
+img.emojikit.u7a7a{
+    background-image: url("../emoji/16x16/u7a7a-1f233.png");
+}
+
+img.emojikit.umbrella{
+    background-image: url("../emoji/16x16/umbrella-2602.png");
+}
+
+img.emojikit.umbrella_with_rain_drops{
+    background-image: url("../emoji/16x16/umbrella_with_rain_drops-2614.png");
+}
+
 img.emojikit.unamused{
     background-image: url("../emoji/16x16/unamused-1f612.png");
 }
@@ -3615,6 +4095,10 @@ img.emojikit.unicorn_face{
 
 img.emojikit.unlock{
     background-image: url("../emoji/16x16/unlock-1f513.png");
+}
+
+img.emojikit.up{
+    background-image: url("../emoji/16x16/up-1f199.png");
 }
 
 img.emojikit.upside_down_face{
@@ -3665,8 +4149,16 @@ img.emojikit.violin{
     background-image: url("../emoji/16x16/violin-1f3bb.png");
 }
 
+img.emojikit.virgo{
+    background-image: url("../emoji/16x16/virgo-264d.png");
+}
+
 img.emojikit.volcano{
     background-image: url("../emoji/16x16/volcano-1f30b.png");
+}
+
+img.emojikit.vs{
+    background-image: url("../emoji/16x16/vs-1f19a.png");
 }
 
 img.emojikit.walking{
@@ -3717,6 +4209,10 @@ img.emojikit.water_buffalo{
     background-image: url("../emoji/16x16/water_buffalo-1f403.png");
 }
 
+img.emojikit.wavy_dash{
+    background-image: url("../emoji/16x16/wavy_dash-3030.png");
+}
+
 img.emojikit.waxing_crescent_moon{
     background-image: url("../emoji/16x16/waxing_crescent_moon-1f312.png");
 }
@@ -3741,12 +4237,40 @@ img.emojikit.whale2{
     background-image: url("../emoji/16x16/whale2-1f40b.png");
 }
 
+img.emojikit.wheelchair{
+    background-image: url("../emoji/16x16/wheelchair-267f.png");
+}
+
+img.emojikit.wheel_of_dharma{
+    background-image: url("../emoji/16x16/wheel_of_dharma-2638.png");
+}
+
 img.emojikit.white_check_mark{
     background-image: url("../emoji/16x16/white_check_mark-2705.png");
 }
 
+img.emojikit.white_circle{
+    background-image: url("../emoji/16x16/white_circle-26aa.png");
+}
+
 img.emojikit.white_frowning_face{
     background-image: url("../emoji/16x16/white_frowning_face-2639.png");
+}
+
+img.emojikit.white_large_square{
+    background-image: url("../emoji/16x16/white_large_square-2b1c.png");
+}
+
+img.emojikit.white_medium_small_square{
+    background-image: url("../emoji/16x16/white_medium_small_square-25fd.png");
+}
+
+img.emojikit.white_medium_square{
+    background-image: url("../emoji/16x16/white_medium_square-25fc.png");
+}
+
+img.emojikit.white_small_square{
+    background-image: url("../emoji/16x16/white_small_square-25ab.png");
 }
 
 img.emojikit.wind_blowing_face{
@@ -3805,8 +4329,16 @@ img.emojikit.writing_hand-skin-tone-6{
     background-image: url("../emoji/16x16/writing_hand-skin-tone-6-270d-1f3ff.png");
 }
 
+img.emojikit.x{
+    background-image: url("../emoji/16x16/x-274c.png");
+}
+
 img.emojikit.yen{
     background-image: url("../emoji/16x16/yen-1f4b4.png");
+}
+
+img.emojikit.yin_yang{
+    background-image: url("../emoji/16x16/yin_yang-262f.png");
 }
 
 img.emojikit.yum{
