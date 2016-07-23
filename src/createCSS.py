@@ -5,7 +5,7 @@ filepaths = glob.glob("../emoji/160x160/*.png")
 
 images = []
 for filepath in filepaths:
-    image = filepath.replace("../emoji/160x160\\", "")
+    image = filepath.replace("../emoji/160x160/", "")
     images.append(image)
 # print images
 
@@ -28,12 +28,6 @@ for image in images:
 
     emojiName = noFileName.replace(fullHexValue, "")
     emojis.append(emojiName)
-
-images = []
-for filepath in filepaths:
-    image = filepath.replace("../emoji/160x160\\", "")
-    images.append(image)
-
 
 # overwrite everything in file and add top part
 with open("../css/emojikit.css", "w") as f:
