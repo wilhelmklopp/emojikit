@@ -1,3 +1,5 @@
 workshop
 npm-debug.log
 css/.sass-cache
+
+*.DS_Store
