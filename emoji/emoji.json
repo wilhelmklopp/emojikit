@@ -1,0 +1,6806 @@
+[
+    {
+        "hex": "00a9", 
+        "name": "copyright"
+    }, 
+    {
+        "hex": "00ae", 
+        "name": "registered"
+    }, 
+    {
+        "hex": "203c", 
+        "name": "bangbang"
+    }, 
+    {
+        "hex": "2049", 
+        "name": "interrobang"
+    }, 
+    {
+        "hex": "2122", 
+        "name": "tm"
+    }, 
+    {
+        "hex": "2139", 
+        "name": "information_source"
+    }, 
+    {
+        "hex": "2194", 
+        "name": "left_right_arrow"
+    }, 
+    {
+        "hex": "2195", 
+        "name": "arrow_up_down"
+    }, 
+    {
+        "hex": "2196", 
+        "name": "arrow_upper_left"
+    }, 
+    {
+        "hex": "2197", 
+        "name": "arrow_upper_right"
+    }, 
+    {
+        "hex": "2198", 
+        "name": "arrow_lower_right"
+    }, 
+    {
+        "hex": "2199", 
+        "name": "arrow_lower_left"
+    }, 
+    {
+        "hex": "21a9", 
+        "name": "leftwards_arrow_with_hook"
+    }, 
+    {
+        "hex": "21aa", 
+        "name": "arrow_right_hook"
+    }, 
+    {
+        "hex": "231a", 
+        "name": "watch"
+    }, 
+    {
+        "hex": "231b", 
+        "name": "hourglass"
+    }, 
+    {
+        "hex": "2328", 
+        "name": "keyboard"
+    }, 
+    {
+        "hex": "23cf", 
+        "name": "eject"
+    }, 
+    {
+        "hex": "23e9", 
+        "name": "fast_forward"
+    }, 
+    {
+        "hex": "23ea", 
+        "name": "rewind"
+    }, 
+    {
+        "hex": "23eb", 
+        "name": "arrow_double_up"
+    }, 
+    {
+        "hex": "23ec", 
+        "name": "arrow_double_down"
+    }, 
+    {
+        "hex": "23ed", 
+        "name": "black_right_pointing_double_triangle_with_vertical_bar"
+    }, 
+    {
+        "hex": "23ee", 
+        "name": "black_left_pointing_double_triangle_with_vertical_bar"
+    }, 
+    {
+        "hex": "23ef", 
+        "name": "black_right_pointing_triangle_with_double_vertical_bar"
+    }, 
+    {
+        "hex": "23f0", 
+        "name": "alarm_clock"
+    }, 
+    {
+        "hex": "23f1", 
+        "name": "stopwatch"
+    }, 
+    {
+        "hex": "23f2", 
+        "name": "timer_clock"
+    }, 
+    {
+        "hex": "23f3", 
+        "name": "hourglass_flowing_sand"
+    }, 
+    {
+        "hex": "23f8", 
+        "name": "double_vertical_bar"
+    }, 
+    {
+        "hex": "23f9", 
+        "name": "black_square_for_stop"
+    }, 
+    {
+        "hex": "23fa", 
+        "name": "black_circle_for_record"
+    }, 
+    {
+        "hex": "24c2", 
+        "name": "m"
+    }, 
+    {
+        "hex": "25aa", 
+        "name": "black_small_square"
+    }, 
+    {
+        "hex": "25ab", 
+        "name": "white_small_square"
+    }, 
+    {
+        "hex": "25b6", 
+        "name": "arrow_forward"
+    }, 
+    {
+        "hex": "25c0", 
+        "name": "arrow_backward"
+    }, 
+    {
+        "hex": "25fb", 
+        "name": "white_medium_square"
+    }, 
+    {
+        "hex": "25fc", 
+        "name": "black_medium_square"
+    }, 
+    {
+        "hex": "25fd", 
+        "name": "white_medium_small_square"
+    }, 
+    {
+        "hex": "25fe", 
+        "name": "black_medium_small_square"
+    }, 
+    {
+        "hex": "2600", 
+        "name": "sunny"
+    }, 
+    {
+        "hex": "2601", 
+        "name": "cloud"
+    }, 
+    {
+        "hex": "2602", 
+        "name": "umbrella"
+    }, 
+    {
+        "hex": "2603", 
+        "name": "snowman"
+    }, 
+    {
+        "hex": "2604", 
+        "name": "comet"
+    }, 
+    {
+        "hex": "260e", 
+        "name": "phone"
+    }, 
+    {
+        "hex": "260e", 
+        "name": "telephone"
+    }, 
+    {
+        "hex": "2611", 
+        "name": "ballot_box_with_check"
+    }, 
+    {
+        "hex": "2614", 
+        "name": "umbrella_with_rain_drops"
+    }, 
+    {
+        "hex": "2615", 
+        "name": "coffee"
+    }, 
+    {
+        "hex": "2618", 
+        "name": "shamrock"
+    }, 
+    {
+        "hex": "261d", 
+        "name": "point_up"
+    }, 
+    {
+        "hex": "261d-1f3fd", 
+        "name": "point_up-skin-tone-4"
+    }, 
+    {
+        "hex": "261d-1f3fe", 
+        "name": "point_up-skin-tone-5"
+    }, 
+    {
+        "hex": "261d-1f3ff", 
+        "name": "point_up-skin-tone-6"
+    }, 
+    {
+        "hex": "261d-1f3fb", 
+        "name": "point_up-skin-tone-2"
+    }, 
+    {
+        "hex": "261d-1f3fc", 
+        "name": "point_up-skin-tone-3"
+    }, 
+    {
+        "hex": "2620", 
+        "name": "skull_and_crossbones"
+    }, 
+    {
+        "hex": "2622", 
+        "name": "radioactive_sign"
+    }, 
+    {
+        "hex": "2623", 
+        "name": "biohazard_sign"
+    }, 
+    {
+        "hex": "2626", 
+        "name": "orthodox_cross"
+    }, 
+    {
+        "hex": "262a", 
+        "name": "star_and_crescent"
+    }, 
+    {
+        "hex": "262e", 
+        "name": "peace_symbol"
+    }, 
+    {
+        "hex": "262f", 
+        "name": "yin_yang"
+    }, 
+    {
+        "hex": "2638", 
+        "name": "wheel_of_dharma"
+    }, 
+    {
+        "hex": "2639", 
+        "name": "white_frowning_face"
+    }, 
+    {
+        "hex": "263a", 
+        "name": "relaxed"
+    }, 
+    {
+        "hex": "2648", 
+        "name": "aries"
+    }, 
+    {
+        "hex": "2649", 
+        "name": "taurus"
+    }, 
+    {
+        "hex": "264a", 
+        "name": "gemini"
+    }, 
+    {
+        "hex": "264b", 
+        "name": "cancer"
+    }, 
+    {
+        "hex": "264c", 
+        "name": "leo"
+    }, 
+    {
+        "hex": "264d", 
+        "name": "virgo"
+    }, 
+    {
+        "hex": "264e", 
+        "name": "libra"
+    }, 
+    {
+        "hex": "264f", 
+        "name": "scorpius"
+    }, 
+    {
+        "hex": "2650", 
+        "name": "sagittarius"
+    }, 
+    {
+        "hex": "2651", 
+        "name": "capricorn"
+    }, 
+    {
+        "hex": "2652", 
+        "name": "aquarius"
+    }, 
+    {
+        "hex": "2653", 
+        "name": "pisces"
+    }, 
+    {
+        "hex": "2660", 
+        "name": "spades"
+    }, 
+    {
+        "hex": "2663", 
+        "name": "clubs"
+    }, 
+    {
+        "hex": "2665", 
+        "name": "hearts"
+    }, 
+    {
+        "hex": "2666", 
+        "name": "diamonds"
+    }, 
+    {
+        "hex": "2668", 
+        "name": "hotsprings"
+    }, 
+    {
+        "hex": "267b", 
+        "name": "recycle"
+    }, 
+    {
+        "hex": "267f", 
+        "name": "wheelchair"
+    }, 
+    {
+        "hex": "2692", 
+        "name": "hammer_and_pick"
+    }, 
+    {
+        "hex": "2693", 
+        "name": "anchor"
+    }, 
+    {
+        "hex": "2694", 
+        "name": "crossed_swords"
+    }, 
+    {
+        "hex": "2696", 
+        "name": "scales"
+    }, 
+    {
+        "hex": "2697", 
+        "name": "alembic"
+    }, 
+    {
+        "hex": "2699", 
+        "name": "gear"
+    }, 
+    {
+        "hex": "269b", 
+        "name": "atom_symbol"
+    }, 
+    {
+        "hex": "269c", 
+        "name": "fleur_de_lis"
+    }, 
+    {
+        "hex": "26a0", 
+        "name": "warning"
+    }, 
+    {
+        "hex": "26a1", 
+        "name": "zap"
+    }, 
+    {
+        "hex": "26aa", 
+        "name": "white_circle"
+    }, 
+    {
+        "hex": "26ab", 
+        "name": "black_circle"
+    }, 
+    {
+        "hex": "26b0", 
+        "name": "coffin"
+    }, 
+    {
+        "hex": "26b1", 
+        "name": "funeral_urn"
+    }, 
+    {
+        "hex": "26bd", 
+        "name": "soccer"
+    }, 
+    {
+        "hex": "26be", 
+        "name": "baseball"
+    }, 
+    {
+        "hex": "26c4", 
+        "name": "snowman_without_snow"
+    }, 
+    {
+        "hex": "26c5", 
+        "name": "partly_sunny"
+    }, 
+    {
+        "hex": "26c8", 
+        "name": "thunder_cloud_and_rain"
+    }, 
+    {
+        "hex": "26ce", 
+        "name": "ophiuchus"
+    }, 
+    {
+        "hex": "26cf", 
+        "name": "pick"
+    }, 
+    {
+        "hex": "26d1", 
+        "name": "helmet_with_white_cross"
+    }, 
+    {
+        "hex": "26d3", 
+        "name": "chains"
+    }, 
+    {
+        "hex": "26d4", 
+        "name": "no_entry"
+    }, 
+    {
+        "hex": "26e9", 
+        "name": "shinto_shrine"
+    }, 
+    {
+        "hex": "26ea", 
+        "name": "church"
+    }, 
+    {
+        "hex": "26f0", 
+        "name": "mountain"
+    }, 
+    {
+        "hex": "26f1", 
+        "name": "umbrella_on_ground"
+    }, 
+    {
+        "hex": "26f2", 
+        "name": "fountain"
+    }, 
+    {
+        "hex": "26f3", 
+        "name": "golf"
+    }, 
+    {
+        "hex": "26f4", 
+        "name": "ferry"
+    }, 
+    {
+        "hex": "26f5", 
+        "name": "boat"
+    }, 
+    {
+        "hex": "26f5", 
+        "name": "sailboat"
+    }, 
+    {
+        "hex": "26f7", 
+        "name": "skier"
+    }, 
+    {
+        "hex": "26f8", 
+        "name": "ice_skate"
+    }, 
+    {
+        "hex": "26f9", 
+        "name": "person_with_ball"
+    }, 
+    {
+        "hex": "26f9-1f3fb", 
+        "name": "person_with_ball-skin-tone-2"
+    }, 
+    {
+        "hex": "26f9-1f3fc", 
+        "name": "person_with_ball-skin-tone-3"
+    }, 
+    {
+        "hex": "26f9-1f3fd", 
+        "name": "person_with_ball-skin-tone-4"
+    }, 
+    {
+        "hex": "26f9-1f3fe", 
+        "name": "person_with_ball-skin-tone-5"
+    }, 
+    {
+        "hex": "26f9-1f3ff", 
+        "name": "person_with_ball-skin-tone-6"
+    }, 
+    {
+        "hex": "26fa", 
+        "name": "tent"
+    }, 
+    {
+        "hex": "26fd", 
+        "name": "fuelpump"
+    }, 
+    {
+        "hex": "2702", 
+        "name": "scissors"
+    }, 
+    {
+        "hex": "2705", 
+        "name": "white_check_mark"
+    }, 
+    {
+        "hex": "2708", 
+        "name": "airplane"
+    }, 
+    {
+        "hex": "2709", 
+        "name": "email"
+    }, 
+    {
+        "hex": "2709", 
+        "name": "envelope"
+    }, 
+    {
+        "hex": "270a", 
+        "name": "fist"
+    }, 
+    {
+        "hex": "270a-1f3fc", 
+        "name": "fist-skin-tone-3"
+    }, 
+    {
+        "hex": "270a-1f3fb", 
+        "name": "fist-skin-tone-2"
+    }, 
+    {
+        "hex": "270a-1f3ff", 
+        "name": "fist-skin-tone-6"
+    }, 
+    {
+        "hex": "270a-1f3fe", 
+        "name": "fist-skin-tone-5"
+    }, 
+    {
+        "hex": "270a-1f3fd", 
+        "name": "fist-skin-tone-4"
+    }, 
+    {
+        "hex": "270b", 
+        "name": "hand"
+    }, 
+    {
+        "hex": "270b", 
+        "name": "raised_hand"
+    }, 
+    {
+        "hex": "270b-1f3fb", 
+        "name": "hand-skin-tone-2"
+    }, 
+    {
+        "hex": "270b-1f3fb", 
+        "name": "raised_hand-skin-tone-2"
+    }, 
+    {
+        "hex": "270b-1f3fc", 
+        "name": "hand-skin-tone-3"
+    }, 
+    {
+        "hex": "270b-1f3fc", 
+        "name": "raised_hand-skin-tone-3"
+    }, 
+    {
+        "hex": "270b-1f3fd", 
+        "name": "hand-skin-tone-4"
+    }, 
+    {
+        "hex": "270b-1f3fd", 
+        "name": "raised_hand-skin-tone-4"
+    }, 
+    {
+        "hex": "270b-1f3fe", 
+        "name": "hand-skin-tone-5"
+    }, 
+    {
+        "hex": "270b-1f3fe", 
+        "name": "raised_hand-skin-tone-5"
+    }, 
+    {
+        "hex": "270b-1f3ff", 
+        "name": "hand-skin-tone-6"
+    }, 
+    {
+        "hex": "270b-1f3ff", 
+        "name": "raised_hand-skin-tone-6"
+    }, 
+    {
+        "hex": "270c", 
+        "name": "v"
+    }, 
+    {
+        "hex": "270c-1f3fe", 
+        "name": "v-skin-tone-5"
+    }, 
+    {
+        "hex": "270c-1f3fd", 
+        "name": "v-skin-tone-4"
+    }, 
+    {
+        "hex": "270c-1f3ff", 
+        "name": "v-skin-tone-6"
+    }, 
+    {
+        "hex": "270c-1f3fc", 
+        "name": "v-skin-tone-3"
+    }, 
+    {
+        "hex": "270c-1f3fb", 
+        "name": "v-skin-tone-2"
+    }, 
+    {
+        "hex": "270d", 
+        "name": "writing_hand"
+    }, 
+    {
+        "hex": "270d-1f3fb", 
+        "name": "writing_hand-skin-tone-2"
+    }, 
+    {
+        "hex": "270d-1f3fc", 
+        "name": "writing_hand-skin-tone-3"
+    }, 
+    {
+        "hex": "270d-1f3ff", 
+        "name": "writing_hand-skin-tone-6"
+    }, 
+    {
+        "hex": "270d-1f3fd", 
+        "name": "writing_hand-skin-tone-4"
+    }, 
+    {
+        "hex": "270d-1f3fe", 
+        "name": "writing_hand-skin-tone-5"
+    }, 
+    {
+        "hex": "270f", 
+        "name": "pencil2"
+    }, 
+    {
+        "hex": "2712", 
+        "name": "black_nib"
+    }, 
+    {
+        "hex": "2714", 
+        "name": "heavy_check_mark"
+    }, 
+    {
+        "hex": "2716", 
+        "name": "heavy_multiplication_x"
+    }, 
+    {
+        "hex": "271d", 
+        "name": "latin_cross"
+    }, 
+    {
+        "hex": "2721", 
+        "name": "star_of_david"
+    }, 
+    {
+        "hex": "2728", 
+        "name": "sparkles"
+    }, 
+    {
+        "hex": "2733", 
+        "name": "eight_spoked_asterisk"
+    }, 
+    {
+        "hex": "2734", 
+        "name": "eight_pointed_black_star"
+    }, 
+    {
+        "hex": "2744", 
+        "name": "snowflake"
+    }, 
+    {
+        "hex": "2747", 
+        "name": "sparkle"
+    }, 
+    {
+        "hex": "274c", 
+        "name": "x"
+    }, 
+    {
+        "hex": "274e", 
+        "name": "negative_squared_cross_mark"
+    }, 
+    {
+        "hex": "2753", 
+        "name": "question"
+    }, 
+    {
+        "hex": "2754", 
+        "name": "grey_question"
+    }, 
+    {
+        "hex": "2755", 
+        "name": "grey_exclamation"
+    }, 
+    {
+        "hex": "2757", 
+        "name": "exclamation"
+    }, 
+    {
+        "hex": "2757", 
+        "name": "heavy_exclamation_mark"
+    }, 
+    {
+        "hex": "2763", 
+        "name": "heavy_heart_exclamation_mark_ornament"
+    }, 
+    {
+        "hex": "2764", 
+        "name": "heart"
+    }, 
+    {
+        "hex": "2795", 
+        "name": "heavy_plus_sign"
+    }, 
+    {
+        "hex": "2796", 
+        "name": "heavy_minus_sign"
+    }, 
+    {
+        "hex": "2797", 
+        "name": "heavy_division_sign"
+    }, 
+    {
+        "hex": "27a1", 
+        "name": "arrow_right"
+    }, 
+    {
+        "hex": "27b0", 
+        "name": "curly_loop"
+    }, 
+    {
+        "hex": "27bf", 
+        "name": "loop"
+    }, 
+    {
+        "hex": "2934", 
+        "name": "arrow_heading_up"
+    }, 
+    {
+        "hex": "2935", 
+        "name": "arrow_heading_down"
+    }, 
+    {
+        "hex": "2b05", 
+        "name": "arrow_left"
+    }, 
+    {
+        "hex": "2b06", 
+        "name": "arrow_up"
+    }, 
+    {
+        "hex": "2b07", 
+        "name": "arrow_down"
+    }, 
+    {
+        "hex": "2b1b", 
+        "name": "black_large_square"
+    }, 
+    {
+        "hex": "2b1c", 
+        "name": "white_large_square"
+    }, 
+    {
+        "hex": "2b50", 
+        "name": "star"
+    }, 
+    {
+        "hex": "2b55", 
+        "name": "o"
+    }, 
+    {
+        "hex": "3030", 
+        "name": "wavy_dash"
+    }, 
+    {
+        "hex": "303d", 
+        "name": "part_alternation_mark"
+    }, 
+    {
+        "hex": "3297", 
+        "name": "congratulations"
+    }, 
+    {
+        "hex": "3299", 
+        "name": "secret"
+    }, 
+    {
+        "hex": "1f004", 
+        "name": "mahjong"
+    }, 
+    {
+        "hex": "1f0cf", 
+        "name": "black_joker"
+    }, 
+    {
+        "hex": "1f170", 
+        "name": "a"
+    }, 
+    {
+        "hex": "1f171", 
+        "name": "b"
+    }, 
+    {
+        "hex": "1f17e", 
+        "name": "o2"
+    }, 
+    {
+        "hex": "1f17f", 
+        "name": "parking"
+    }, 
+    {
+        "hex": "1f18e", 
+        "name": "ab"
+    }, 
+    {
+        "hex": "1f191", 
+        "name": "cl"
+    }, 
+    {
+        "hex": "1f192", 
+        "name": "cool"
+    }, 
+    {
+        "hex": "1f193", 
+        "name": "free"
+    }, 
+    {
+        "hex": "1f194", 
+        "name": "id"
+    }, 
+    {
+        "hex": "1f195", 
+        "name": "new"
+    }, 
+    {
+        "hex": "1f196", 
+        "name": "ng"
+    }, 
+    {
+        "hex": "1f197", 
+        "name": "ok"
+    }, 
+    {
+        "hex": "1f198", 
+        "name": "sos"
+    }, 
+    {
+        "hex": "1f199", 
+        "name": "up"
+    }, 
+    {
+        "hex": "1f19a", 
+        "name": "vs"
+    }, 
+    {
+        "hex": "1f201", 
+        "name": "koko"
+    }, 
+    {
+        "hex": "1f202", 
+        "name": "sa"
+    }, 
+    {
+        "hex": "1f21a", 
+        "name": "u7121"
+    }, 
+    {
+        "hex": "1f22f", 
+        "name": "u6307"
+    }, 
+    {
+        "hex": "1f232", 
+        "name": "u7981"
+    }, 
+    {
+        "hex": "1f233", 
+        "name": "u7a7a"
+    }, 
+    {
+        "hex": "1f234", 
+        "name": "u5408"
+    }, 
+    {
+        "hex": "1f235", 
+        "name": "u6e80"
+    }, 
+    {
+        "hex": "1f236", 
+        "name": "u6709"
+    }, 
+    {
+        "hex": "1f237", 
+        "name": "u6708"
+    }, 
+    {
+        "hex": "1f238", 
+        "name": "u7533"
+    }, 
+    {
+        "hex": "1f239", 
+        "name": "u5272"
+    }, 
+    {
+        "hex": "1f23a", 
+        "name": "u55b6"
+    }, 
+    {
+        "hex": "1f250", 
+        "name": "ideograph_advantage"
+    }, 
+    {
+        "hex": "1f251", 
+        "name": "accept"
+    }, 
+    {
+        "hex": "1f300", 
+        "name": "cyclone"
+    }, 
+    {
+        "hex": "1f301", 
+        "name": "foggy"
+    }, 
+    {
+        "hex": "1f302", 
+        "name": "closed_umbrella"
+    }, 
+    {
+        "hex": "1f303", 
+        "name": "night_with_stars"
+    }, 
+    {
+        "hex": "1f304", 
+        "name": "sunrise_over_mountains"
+    }, 
+    {
+        "hex": "1f305", 
+        "name": "sunrise"
+    }, 
+    {
+        "hex": "1f306", 
+        "name": "city_sunset"
+    }, 
+    {
+        "hex": "1f307", 
+        "name": "city_sunrise"
+    }, 
+    {
+        "hex": "1f308", 
+        "name": "rainbow"
+    }, 
+    {
+        "hex": "1f309", 
+        "name": "bridge_at_night"
+    }, 
+    {
+        "hex": "1f30a", 
+        "name": "ocean"
+    }, 
+    {
+        "hex": "1f30b", 
+        "name": "volcano"
+    }, 
+    {
+        "hex": "1f30c", 
+        "name": "milky_way"
+    }, 
+    {
+        "hex": "1f30d", 
+        "name": "earth_africa"
+    }, 
+    {
+        "hex": "1f30e", 
+        "name": "earth_americas"
+    }, 
+    {
+        "hex": "1f30f", 
+        "name": "earth_asia"
+    }, 
+    {
+        "hex": "1f310", 
+        "name": "globe_with_meridians"
+    }, 
+    {
+        "hex": "1f311", 
+        "name": "new_moon"
+    }, 
+    {
+        "hex": "1f312", 
+        "name": "waxing_crescent_moon"
+    }, 
+    {
+        "hex": "1f313", 
+        "name": "first_quarter_moon"
+    }, 
+    {
+        "hex": "1f314", 
+        "name": "moon"
+    }, 
+    {
+        "hex": "1f314", 
+        "name": "waxing_gibbous_moon"
+    }, 
+    {
+        "hex": "1f315", 
+        "name": "full_moon"
+    }, 
+    {
+        "hex": "1f316", 
+        "name": "waning_gibbous_moon"
+    }, 
+    {
+        "hex": "1f317", 
+        "name": "last_quarter_moon"
+    }, 
+    {
+        "hex": "1f318", 
+        "name": "waning_crescent_moon"
+    }, 
+    {
+        "hex": "1f319", 
+        "name": "crescent_moon"
+    }, 
+    {
+        "hex": "1f31a", 
+        "name": "new_moon_with_face"
+    }, 
+    {
+        "hex": "1f31b", 
+        "name": "first_quarter_moon_with_face"
+    }, 
+    {
+        "hex": "1f31c", 
+        "name": "last_quarter_moon_with_face"
+    }, 
+    {
+        "hex": "1f31d", 
+        "name": "full_moon_with_face"
+    }, 
+    {
+        "hex": "1f31e", 
+        "name": "sun_with_face"
+    }, 
+    {
+        "hex": "1f31f", 
+        "name": "star2"
+    }, 
+    {
+        "hex": "1f320", 
+        "name": "stars"
+    }, 
+    {
+        "hex": "1f321", 
+        "name": "thermometer"
+    }, 
+    {
+        "hex": "1f324", 
+        "name": "mostly_sunny"
+    }, 
+    {
+        "hex": "1f324", 
+        "name": "sun_small_cloud"
+    }, 
+    {
+        "hex": "1f325", 
+        "name": "barely_sunny"
+    }, 
+    {
+        "hex": "1f325", 
+        "name": "sun_behind_cloud"
+    }, 
+    {
+        "hex": "1f326", 
+        "name": "partly_sunny_rain"
+    }, 
+    {
+        "hex": "1f326", 
+        "name": "sun_behind_rain_cloud"
+    }, 
+    {
+        "hex": "1f327", 
+        "name": "rain_cloud"
+    }, 
+    {
+        "hex": "1f328", 
+        "name": "snow_cloud"
+    }, 
+    {
+        "hex": "1f329", 
+        "name": "lightning"
+    }, 
+    {
+        "hex": "1f329", 
+        "name": "lightning_cloud"
+    }, 
+    {
+        "hex": "1f32a", 
+        "name": "tornado"
+    }, 
+    {
+        "hex": "1f32a", 
+        "name": "tornado_cloud"
+    }, 
+    {
+        "hex": "1f32b", 
+        "name": "fog"
+    }, 
+    {
+        "hex": "1f32c", 
+        "name": "wind_blowing_face"
+    }, 
+    {
+        "hex": "1f32d", 
+        "name": "hotdog"
+    }, 
+    {
+        "hex": "1f32e", 
+        "name": "taco"
+    }, 
+    {
+        "hex": "1f32f", 
+        "name": "burrito"
+    }, 
+    {
+        "hex": "1f330", 
+        "name": "chestnut"
+    }, 
+    {
+        "hex": "1f331", 
+        "name": "seedling"
+    }, 
+    {
+        "hex": "1f332", 
+        "name": "evergreen_tree"
+    }, 
+    {
+        "hex": "1f333", 
+        "name": "deciduous_tree"
+    }, 
+    {
+        "hex": "1f334", 
+        "name": "palm_tree"
+    }, 
+    {
+        "hex": "1f335", 
+        "name": "cactus"
+    }, 
+    {
+        "hex": "1f336", 
+        "name": "hot_pepper"
+    }, 
+    {
+        "hex": "1f337", 
+        "name": "tulip"
+    }, 
+    {
+        "hex": "1f338", 
+        "name": "cherry_blossom"
+    }, 
+    {
+        "hex": "1f339", 
+        "name": "rose"
+    }, 
+    {
+        "hex": "1f33a", 
+        "name": "hibiscus"
+    }, 
+    {
+        "hex": "1f33b", 
+        "name": "sunflower"
+    }, 
+    {
+        "hex": "1f33c", 
+        "name": "blossom"
+    }, 
+    {
+        "hex": "1f33d", 
+        "name": "corn"
+    }, 
+    {
+        "hex": "1f33e", 
+        "name": "ear_of_rice"
+    }, 
+    {
+        "hex": "1f33f", 
+        "name": "herb"
+    }, 
+    {
+        "hex": "1f340", 
+        "name": "four_leaf_clover"
+    }, 
+    {
+        "hex": "1f341", 
+        "name": "maple_leaf"
+    }, 
+    {
+        "hex": "1f342", 
+        "name": "fallen_leaf"
+    }, 
+    {
+        "hex": "1f343", 
+        "name": "leaves"
+    }, 
+    {
+        "hex": "1f344", 
+        "name": "mushroom"
+    }, 
+    {
+        "hex": "1f345", 
+        "name": "tomato"
+    }, 
+    {
+        "hex": "1f346", 
+        "name": "eggplant"
+    }, 
+    {
+        "hex": "1f347", 
+        "name": "grapes"
+    }, 
+    {
+        "hex": "1f348", 
+        "name": "melon"
+    }, 
+    {
+        "hex": "1f349", 
+        "name": "watermelon"
+    }, 
+    {
+        "hex": "1f34a", 
+        "name": "tangerine"
+    }, 
+    {
+        "hex": "1f34b", 
+        "name": "lemon"
+    }, 
+    {
+        "hex": "1f34c", 
+        "name": "banana"
+    }, 
+    {
+        "hex": "1f34d", 
+        "name": "pineapple"
+    }, 
+    {
+        "hex": "1f34e", 
+        "name": "apple"
+    }, 
+    {
+        "hex": "1f34f", 
+        "name": "green_apple"
+    }, 
+    {
+        "hex": "1f350", 
+        "name": "pear"
+    }, 
+    {
+        "hex": "1f351", 
+        "name": "peach"
+    }, 
+    {
+        "hex": "1f352", 
+        "name": "cherries"
+    }, 
+    {
+        "hex": "1f353", 
+        "name": "strawberry"
+    }, 
+    {
+        "hex": "1f354", 
+        "name": "hamburger"
+    }, 
+    {
+        "hex": "1f355", 
+        "name": "pizza"
+    }, 
+    {
+        "hex": "1f356", 
+        "name": "meat_on_bone"
+    }, 
+    {
+        "hex": "1f357", 
+        "name": "poultry_leg"
+    }, 
+    {
+        "hex": "1f358", 
+        "name": "rice_cracker"
+    }, 
+    {
+        "hex": "1f359", 
+        "name": "rice_ball"
+    }, 
+    {
+        "hex": "1f35a", 
+        "name": "rice"
+    }, 
+    {
+        "hex": "1f35b", 
+        "name": "curry"
+    }, 
+    {
+        "hex": "1f35c", 
+        "name": "ramen"
+    }, 
+    {
+        "hex": "1f35d", 
+        "name": "spaghetti"
+    }, 
+    {
+        "hex": "1f35e", 
+        "name": "bread"
+    }, 
+    {
+        "hex": "1f35f", 
+        "name": "fries"
+    }, 
+    {
+        "hex": "1f360", 
+        "name": "sweet_potato"
+    }, 
+    {
+        "hex": "1f361", 
+        "name": "dango"
+    }, 
+    {
+        "hex": "1f362", 
+        "name": "oden"
+    }, 
+    {
+        "hex": "1f363", 
+        "name": "sushi"
+    }, 
+    {
+        "hex": "1f364", 
+        "name": "fried_shrimp"
+    }, 
+    {
+        "hex": "1f365", 
+        "name": "fish_cake"
+    }, 
+    {
+        "hex": "1f366", 
+        "name": "icecream"
+    }, 
+    {
+        "hex": "1f367", 
+        "name": "shaved_ice"
+    }, 
+    {
+        "hex": "1f368", 
+        "name": "ice_cream"
+    }, 
+    {
+        "hex": "1f369", 
+        "name": "doughnut"
+    }, 
+    {
+        "hex": "1f36a", 
+        "name": "cookie"
+    }, 
+    {
+        "hex": "1f36b", 
+        "name": "chocolate_bar"
+    }, 
+    {
+        "hex": "1f36c", 
+        "name": "candy"
+    }, 
+    {
+        "hex": "1f36d", 
+        "name": "lollipop"
+    }, 
+    {
+        "hex": "1f36e", 
+        "name": "custard"
+    }, 
+    {
+        "hex": "1f36f", 
+        "name": "honey_pot"
+    }, 
+    {
+        "hex": "1f370", 
+        "name": "cake"
+    }, 
+    {
+        "hex": "1f371", 
+        "name": "bento"
+    }, 
+    {
+        "hex": "1f372", 
+        "name": "stew"
+    }, 
+    {
+        "hex": "1f373", 
+        "name": "egg"
+    }, 
+    {
+        "hex": "1f374", 
+        "name": "fork_and_knife"
+    }, 
+    {
+        "hex": "1f375", 
+        "name": "tea"
+    }, 
+    {
+        "hex": "1f376", 
+        "name": "sake"
+    }, 
+    {
+        "hex": "1f377", 
+        "name": "wine_glass"
+    }, 
+    {
+        "hex": "1f378", 
+        "name": "cocktail"
+    }, 
+    {
+        "hex": "1f379", 
+        "name": "tropical_drink"
+    }, 
+    {
+        "hex": "1f37a", 
+        "name": "beer"
+    }, 
+    {
+        "hex": "1f37b", 
+        "name": "beers"
+    }, 
+    {
+        "hex": "1f37c", 
+        "name": "baby_bottle"
+    }, 
+    {
+        "hex": "1f37d", 
+        "name": "knife_fork_plate"
+    }, 
+    {
+        "hex": "1f37e", 
+        "name": "champagne"
+    }, 
+    {
+        "hex": "1f37f", 
+        "name": "popcorn"
+    }, 
+    {
+        "hex": "1f380", 
+        "name": "ribbon"
+    }, 
+    {
+        "hex": "1f381", 
+        "name": "gift"
+    }, 
+    {
+        "hex": "1f382", 
+        "name": "birthday"
+    }, 
+    {
+        "hex": "1f383", 
+        "name": "jack_o_lantern"
+    }, 
+    {
+        "hex": "1f384", 
+        "name": "christmas_tree"
+    }, 
+    {
+        "hex": "1f385", 
+        "name": "santa"
+    }, 
+    {
+        "hex": "1f385-1f3ff", 
+        "name": "santa-skin-tone-6"
+    }, 
+    {
+        "hex": "1f385-1f3fe", 
+        "name": "santa-skin-tone-5"
+    }, 
+    {
+        "hex": "1f385-1f3fd", 
+        "name": "santa-skin-tone-4"
+    }, 
+    {
+        "hex": "1f385-1f3fc", 
+        "name": "santa-skin-tone-3"
+    }, 
+    {
+        "hex": "1f385-1f3fb", 
+        "name": "santa-skin-tone-2"
+    }, 
+    {
+        "hex": "1f386", 
+        "name": "fireworks"
+    }, 
+    {
+        "hex": "1f387", 
+        "name": "sparkler"
+    }, 
+    {
+        "hex": "1f388", 
+        "name": "balloon"
+    }, 
+    {
+        "hex": "1f389", 
+        "name": "tada"
+    }, 
+    {
+        "hex": "1f38a", 
+        "name": "confetti_ball"
+    }, 
+    {
+        "hex": "1f38b", 
+        "name": "tanabata_tree"
+    }, 
+    {
+        "hex": "1f38c", 
+        "name": "crossed_flags"
+    }, 
+    {
+        "hex": "1f38d", 
+        "name": "bamboo"
+    }, 
+    {
+        "hex": "1f38e", 
+        "name": "dolls"
+    }, 
+    {
+        "hex": "1f38f", 
+        "name": "flags"
+    }, 
+    {
+        "hex": "1f390", 
+        "name": "wind_chime"
+    }, 
+    {
+        "hex": "1f391", 
+        "name": "rice_scene"
+    }, 
+    {
+        "hex": "1f392", 
+        "name": "school_satchel"
+    }, 
+    {
+        "hex": "1f393", 
+        "name": "mortar_board"
+    }, 
+    {
+        "hex": "1f396", 
+        "name": "medal"
+    }, 
+    {
+        "hex": "1f397", 
+        "name": "reminder_ribbon"
+    }, 
+    {
+        "hex": "1f399", 
+        "name": "studio_microphone"
+    }, 
+    {
+        "hex": "1f39a", 
+        "name": "level_slider"
+    }, 
+    {
+        "hex": "1f39b", 
+        "name": "control_knobs"
+    }, 
+    {
+        "hex": "1f39e", 
+        "name": "film_frames"
+    }, 
+    {
+        "hex": "1f39f", 
+        "name": "admission_tickets"
+    }, 
+    {
+        "hex": "1f3a0", 
+        "name": "carousel_horse"
+    }, 
+    {
+        "hex": "1f3a1", 
+        "name": "ferris_wheel"
+    }, 
+    {
+        "hex": "1f3a2", 
+        "name": "roller_coaster"
+    }, 
+    {
+        "hex": "1f3a3", 
+        "name": "fishing_pole_and_fish"
+    }, 
+    {
+        "hex": "1f3a4", 
+        "name": "microphone"
+    }, 
+    {
+        "hex": "1f3a5", 
+        "name": "movie_camera"
+    }, 
+    {
+        "hex": "1f3a6", 
+        "name": "cinema"
+    }, 
+    {
+        "hex": "1f3a7", 
+        "name": "headphones"
+    }, 
+    {
+        "hex": "1f3a8", 
+        "name": "art"
+    }, 
+    {
+        "hex": "1f3a9", 
+        "name": "tophat"
+    }, 
+    {
+        "hex": "1f3aa", 
+        "name": "circus_tent"
+    }, 
+    {
+        "hex": "1f3ab", 
+        "name": "ticket"
+    }, 
+    {
+        "hex": "1f3ac", 
+        "name": "clapper"
+    }, 
+    {
+        "hex": "1f3ad", 
+        "name": "performing_arts"
+    }, 
+    {
+        "hex": "1f3ae", 
+        "name": "video_game"
+    }, 
+    {
+        "hex": "1f3af", 
+        "name": "dart"
+    }, 
+    {
+        "hex": "1f3b0", 
+        "name": "slot_machine"
+    }, 
+    {
+        "hex": "1f3b1", 
+        "name": "8ball"
+    }, 
+    {
+        "hex": "1f3b2", 
+        "name": "game_die"
+    }, 
+    {
+        "hex": "1f3b3", 
+        "name": "bowling"
+    }, 
+    {
+        "hex": "1f3b4", 
+        "name": "flower_playing_cards"
+    }, 
+    {
+        "hex": "1f3b5", 
+        "name": "musical_note"
+    }, 
+    {
+        "hex": "1f3b6", 
+        "name": "notes"
+    }, 
+    {
+        "hex": "1f3b7", 
+        "name": "saxophone"
+    }, 
+    {
+        "hex": "1f3b8", 
+        "name": "guitar"
+    }, 
+    {
+        "hex": "1f3b9", 
+        "name": "musical_keyboard"
+    }, 
+    {
+        "hex": "1f3ba", 
+        "name": "trumpet"
+    }, 
+    {
+        "hex": "1f3bb", 
+        "name": "violin"
+    }, 
+    {
+        "hex": "1f3bc", 
+        "name": "musical_score"
+    }, 
+    {
+        "hex": "1f3bd", 
+        "name": "running_shirt_with_sash"
+    }, 
+    {
+        "hex": "1f3be", 
+        "name": "tennis"
+    }, 
+    {
+        "hex": "1f3bf", 
+        "name": "ski"
+    }, 
+    {
+        "hex": "1f3c0", 
+        "name": "basketball"
+    }, 
+    {
+        "hex": "1f3c1", 
+        "name": "checkered_flag"
+    }, 
+    {
+        "hex": "1f3c2", 
+        "name": "snowboarder"
+    }, 
+    {
+        "hex": "1f3c3", 
+        "name": "runner"
+    }, 
+    {
+        "hex": "1f3c3", 
+        "name": "running"
+    }, 
+    {
+        "hex": "1f3c3-1f3fb", 
+        "name": "runner-skin-tone-2"
+    }, 
+    {
+        "hex": "1f3c3-1f3fb", 
+        "name": "running-skin-tone-2"
+    }, 
+    {
+        "hex": "1f3c3-1f3fc", 
+        "name": "runner-skin-tone-3"
+    }, 
+    {
+        "hex": "1f3c3-1f3fc", 
+        "name": "running-skin-tone-3"
+    }, 
+    {
+        "hex": "1f3c3-1f3fd", 
+        "name": "runner-skin-tone-4"
+    }, 
+    {
+        "hex": "1f3c3-1f3fd", 
+        "name": "running-skin-tone-4"
+    }, 
+    {
+        "hex": "1f3c3-1f3fe", 
+        "name": "runner-skin-tone-5"
+    }, 
+    {
+        "hex": "1f3c3-1f3fe", 
+        "name": "running-skin-tone-5"
+    }, 
+    {
+        "hex": "1f3c3-1f3ff", 
+        "name": "runner-skin-tone-6"
+    }, 
+    {
+        "hex": "1f3c3-1f3ff", 
+        "name": "running-skin-tone-6"
+    }, 
+    {
+        "hex": "1f3c4", 
+        "name": "surfer"
+    }, 
+    {
+        "hex": "1f3c4-1f3ff", 
+        "name": "surfer-skin-tone-6"
+    }, 
+    {
+        "hex": "1f3c4-1f3fe", 
+        "name": "surfer-skin-tone-5"
+    }, 
+    {
+        "hex": "1f3c4-1f3fd", 
+        "name": "surfer-skin-tone-4"
+    }, 
+    {
+        "hex": "1f3c4-1f3fc", 
+        "name": "surfer-skin-tone-3"
+    }, 
+    {
+        "hex": "1f3c4-1f3fb", 
+        "name": "surfer-skin-tone-2"
+    }, 
+    {
+        "hex": "1f3c5", 
+        "name": "sports_medal"
+    }, 
+    {
+        "hex": "1f3c6", 
+        "name": "trophy"
+    }, 
+    {
+        "hex": "1f3c7", 
+        "name": "horse_racing"
+    }, 
+    {
+        "hex": "1f3c8", 
+        "name": "football"
+    }, 
+    {
+        "hex": "1f3c9", 
+        "name": "rugby_football"
+    }, 
+    {
+        "hex": "1f3ca", 
+        "name": "swimmer"
+    }, 
+    {
+        "hex": "1f3ca-1f3ff", 
+        "name": "swimmer-skin-tone-6"
+    }, 
+    {
+        "hex": "1f3ca-1f3fd", 
+        "name": "swimmer-skin-tone-4"
+    }, 
+    {
+        "hex": "1f3ca-1f3fe", 
+        "name": "swimmer-skin-tone-5"
+    }, 
+    {
+        "hex": "1f3ca-1f3fb", 
+        "name": "swimmer-skin-tone-2"
+    }, 
+    {
+        "hex": "1f3ca-1f3fc", 
+        "name": "swimmer-skin-tone-3"
+    }, 
+    {
+        "hex": "1f3cb", 
+        "name": "weight_lifter"
+    }, 
+    {
+        "hex": "1f3cb-1f3fe", 
+        "name": "weight_lifter-skin-tone-5"
+    }, 
+    {
+        "hex": "1f3cb-1f3fd", 
+        "name": "weight_lifter-skin-tone-4"
+    }, 
+    {
+        "hex": "1f3cb-1f3ff", 
+        "name": "weight_lifter-skin-tone-6"
+    }, 
+    {
+        "hex": "1f3cb-1f3fc", 
+        "name": "weight_lifter-skin-tone-3"
+    }, 
+    {
+        "hex": "1f3cb-1f3fb", 
+        "name": "weight_lifter-skin-tone-2"
+    }, 
+    {
+        "hex": "1f3cc", 
+        "name": "golfer"
+    }, 
+    {
+        "hex": "1f3cd", 
+        "name": "racing_motorcycle"
+    }, 
+    {
+        "hex": "1f3ce", 
+        "name": "racing_car"
+    }, 
+    {
+        "hex": "1f3cf", 
+        "name": "cricket_bat_and_ball"
+    }, 
+    {
+        "hex": "1f3d0", 
+        "name": "volleyball"
+    }, 
+    {
+        "hex": "1f3d1", 
+        "name": "field_hockey_stick_and_ball"
+    }, 
+    {
+        "hex": "1f3d2", 
+        "name": "ice_hockey_stick_and_puck"
+    }, 
+    {
+        "hex": "1f3d3", 
+        "name": "table_tennis_paddle_and_ball"
+    }, 
+    {
+        "hex": "1f3d4", 
+        "name": "snow_capped_mountain"
+    }, 
+    {
+        "hex": "1f3d5", 
+        "name": "camping"
+    }, 
+    {
+        "hex": "1f3d6", 
+        "name": "beach_with_umbrella"
+    }, 
+    {
+        "hex": "1f3d7", 
+        "name": "building_construction"
+    }, 
+    {
+        "hex": "1f3d8", 
+        "name": "house_buildings"
+    }, 
+    {
+        "hex": "1f3d9", 
+        "name": "cityscape"
+    }, 
+    {
+        "hex": "1f3da", 
+        "name": "derelict_house_building"
+    }, 
+    {
+        "hex": "1f3db", 
+        "name": "classical_building"
+    }, 
+    {
+        "hex": "1f3dc", 
+        "name": "desert"
+    }, 
+    {
+        "hex": "1f3dd", 
+        "name": "desert_island"
+    }, 
+    {
+        "hex": "1f3de", 
+        "name": "national_park"
+    }, 
+    {
+        "hex": "1f3df", 
+        "name": "stadium"
+    }, 
+    {
+        "hex": "1f3e0", 
+        "name": "house"
+    }, 
+    {
+        "hex": "1f3e1", 
+        "name": "house_with_garden"
+    }, 
+    {
+        "hex": "1f3e2", 
+        "name": "office"
+    }, 
+    {
+        "hex": "1f3e3", 
+        "name": "post_office"
+    }, 
+    {
+        "hex": "1f3e4", 
+        "name": "european_post_office"
+    }, 
+    {
+        "hex": "1f3e5", 
+        "name": "hospital"
+    }, 
+    {
+        "hex": "1f3e6", 
+        "name": "bank"
+    }, 
+    {
+        "hex": "1f3e7", 
+        "name": "atm"
+    }, 
+    {
+        "hex": "1f3e8", 
+        "name": "hotel"
+    }, 
+    {
+        "hex": "1f3e9", 
+        "name": "love_hotel"
+    }, 
+    {
+        "hex": "1f3ea", 
+        "name": "convenience_store"
+    }, 
+    {
+        "hex": "1f3eb", 
+        "name": "school"
+    }, 
+    {
+        "hex": "1f3ec", 
+        "name": "department_store"
+    }, 
+    {
+        "hex": "1f3ed", 
+        "name": "factory"
+    }, 
+    {
+        "hex": "1f3ee", 
+        "name": "izakaya_lantern"
+    }, 
+    {
+        "hex": "1f3ee", 
+        "name": "lantern"
+    }, 
+    {
+        "hex": "1f3ef", 
+        "name": "japanese_castle"
+    }, 
+    {
+        "hex": "1f3f0", 
+        "name": "european_castle"
+    }, 
+    {
+        "hex": "1f3f3", 
+        "name": "waving_white_flag"
+    }, 
+    {
+        "hex": "1f3f4", 
+        "name": "waving_black_flag"
+    }, 
+    {
+        "hex": "1f3f5", 
+        "name": "rosette"
+    }, 
+    {
+        "hex": "1f3f7", 
+        "name": "label"
+    }, 
+    {
+        "hex": "1f3f8", 
+        "name": "badminton_racquet_and_shuttlecock"
+    }, 
+    {
+        "hex": "1f3f9", 
+        "name": "bow_and_arrow"
+    }, 
+    {
+        "hex": "1f3fa", 
+        "name": "amphora"
+    }, 
+    {
+        "hex": "1f3fb", 
+        "name": "skin-tone-2"
+    }, 
+    {
+        "hex": "1f3fc", 
+        "name": "skin-tone-3"
+    }, 
+    {
+        "hex": "1f3fd", 
+        "name": "skin-tone-4"
+    }, 
+    {
+        "hex": "1f3fe", 
+        "name": "skin-tone-5"
+    }, 
+    {
+        "hex": "1f3ff", 
+        "name": "skin-tone-6"
+    }, 
+    {
+        "hex": "1f400", 
+        "name": "rat"
+    }, 
+    {
+        "hex": "1f401", 
+        "name": "mouse2"
+    }, 
+    {
+        "hex": "1f402", 
+        "name": "ox"
+    }, 
+    {
+        "hex": "1f403", 
+        "name": "water_buffalo"
+    }, 
+    {
+        "hex": "1f404", 
+        "name": "cow2"
+    }, 
+    {
+        "hex": "1f405", 
+        "name": "tiger2"
+    }, 
+    {
+        "hex": "1f406", 
+        "name": "leopard"
+    }, 
+    {
+        "hex": "1f407", 
+        "name": "rabbit2"
+    }, 
+    {
+        "hex": "1f408", 
+        "name": "cat2"
+    }, 
+    {
+        "hex": "1f409", 
+        "name": "dragon"
+    }, 
+    {
+        "hex": "1f40a", 
+        "name": "crocodile"
+    }, 
+    {
+        "hex": "1f40b", 
+        "name": "whale2"
+    }, 
+    {
+        "hex": "1f40c", 
+        "name": "snail"
+    }, 
+    {
+        "hex": "1f40d", 
+        "name": "snake"
+    }, 
+    {
+        "hex": "1f40e", 
+        "name": "racehorse"
+    }, 
+    {
+        "hex": "1f40f", 
+        "name": "ram"
+    }, 
+    {
+        "hex": "1f410", 
+        "name": "goat"
+    }, 
+    {
+        "hex": "1f411", 
+        "name": "sheep"
+    }, 
+    {
+        "hex": "1f412", 
+        "name": "monkey"
+    }, 
+    {
+        "hex": "1f413", 
+        "name": "rooster"
+    }, 
+    {
+        "hex": "1f414", 
+        "name": "chicken"
+    }, 
+    {
+        "hex": "1f415", 
+        "name": "dog2"
+    }, 
+    {
+        "hex": "1f416", 
+        "name": "pig2"
+    }, 
+    {
+        "hex": "1f417", 
+        "name": "boar"
+    }, 
+    {
+        "hex": "1f418", 
+        "name": "elephant"
+    }, 
+    {
+        "hex": "1f419", 
+        "name": "octopus"
+    }, 
+    {
+        "hex": "1f41a", 
+        "name": "shell"
+    }, 
+    {
+        "hex": "1f41b", 
+        "name": "bug"
+    }, 
+    {
+        "hex": "1f41c", 
+        "name": "ant"
+    }, 
+    {
+        "hex": "1f41d", 
+        "name": "bee"
+    }, 
+    {
+        "hex": "1f41d", 
+        "name": "honeybee"
+    }, 
+    {
+        "hex": "1f41e", 
+        "name": "beetle"
+    }, 
+    {
+        "hex": "1f41f", 
+        "name": "fish"
+    }, 
+    {
+        "hex": "1f420", 
+        "name": "tropical_fish"
+    }, 
+    {
+        "hex": "1f421", 
+        "name": "blowfish"
+    }, 
+    {
+        "hex": "1f422", 
+        "name": "turtle"
+    }, 
+    {
+        "hex": "1f423", 
+        "name": "hatching_chick"
+    }, 
+    {
+        "hex": "1f424", 
+        "name": "baby_chick"
+    }, 
+    {
+        "hex": "1f425", 
+        "name": "hatched_chick"
+    }, 
+    {
+        "hex": "1f426", 
+        "name": "bird"
+    }, 
+    {
+        "hex": "1f427", 
+        "name": "penguin"
+    }, 
+    {
+        "hex": "1f428", 
+        "name": "koala"
+    }, 
+    {
+        "hex": "1f429", 
+        "name": "poodle"
+    }, 
+    {
+        "hex": "1f42a", 
+        "name": "dromedary_camel"
+    }, 
+    {
+        "hex": "1f42b", 
+        "name": "camel"
+    }, 
+    {
+        "hex": "1f42c", 
+        "name": "dolphin"
+    }, 
+    {
+        "hex": "1f42c", 
+        "name": "flipper"
+    }, 
+    {
+        "hex": "1f42d", 
+        "name": "mouse"
+    }, 
+    {
+        "hex": "1f42e", 
+        "name": "cow"
+    }, 
+    {
+        "hex": "1f42f", 
+        "name": "tiger"
+    }, 
+    {
+        "hex": "1f430", 
+        "name": "rabbit"
+    }, 
+    {
+        "hex": "1f431", 
+        "name": "cat"
+    }, 
+    {
+        "hex": "1f432", 
+        "name": "dragon_face"
+    }, 
+    {
+        "hex": "1f433", 
+        "name": "whale"
+    }, 
+    {
+        "hex": "1f434", 
+        "name": "horse"
+    }, 
+    {
+        "hex": "1f435", 
+        "name": "monkey_face"
+    }, 
+    {
+        "hex": "1f436", 
+        "name": "dog"
+    }, 
+    {
+        "hex": "1f437", 
+        "name": "pig"
+    }, 
+    {
+        "hex": "1f438", 
+        "name": "frog"
+    }, 
+    {
+        "hex": "1f439", 
+        "name": "hamster"
+    }, 
+    {
+        "hex": "1f43a", 
+        "name": "wolf"
+    }, 
+    {
+        "hex": "1f43b", 
+        "name": "bear"
+    }, 
+    {
+        "hex": "1f43c", 
+        "name": "panda_face"
+    }, 
+    {
+        "hex": "1f43d", 
+        "name": "pig_nose"
+    }, 
+    {
+        "hex": "1f43e", 
+        "name": "feet"
+    }, 
+    {
+        "hex": "1f43e", 
+        "name": "paw_prints"
+    }, 
+    {
+        "hex": "1f43f", 
+        "name": "chipmunk"
+    }, 
+    {
+        "hex": "1f440", 
+        "name": "eyes"
+    }, 
+    {
+        "hex": "1f441", 
+        "name": "eye"
+    }, 
+    {
+        "hex": "1f442", 
+        "name": "ear"
+    }, 
+    {
+        "hex": "1f442-1f3fc", 
+        "name": "ear-skin-tone-3"
+    }, 
+    {
+        "hex": "1f442-1f3fb", 
+        "name": "ear-skin-tone-2"
+    }, 
+    {
+        "hex": "1f442-1f3ff", 
+        "name": "ear-skin-tone-6"
+    }, 
+    {
+        "hex": "1f442-1f3fe", 
+        "name": "ear-skin-tone-5"
+    }, 
+    {
+        "hex": "1f442-1f3fd", 
+        "name": "ear-skin-tone-4"
+    }, 
+    {
+        "hex": "1f443", 
+        "name": "nose"
+    }, 
+    {
+        "hex": "1f443-1f3ff", 
+        "name": "nose-skin-tone-6"
+    }, 
+    {
+        "hex": "1f443-1f3fd", 
+        "name": "nose-skin-tone-4"
+    }, 
+    {
+        "hex": "1f443-1f3fe", 
+        "name": "nose-skin-tone-5"
+    }, 
+    {
+        "hex": "1f443-1f3fb", 
+        "name": "nose-skin-tone-2"
+    }, 
+    {
+        "hex": "1f443-1f3fc", 
+        "name": "nose-skin-tone-3"
+    }, 
+    {
+        "hex": "1f444", 
+        "name": "lips"
+    }, 
+    {
+        "hex": "1f445", 
+        "name": "tongue"
+    }, 
+    {
+        "hex": "1f446", 
+        "name": "point_up_2"
+    }, 
+    {
+        "hex": "1f446-1f3ff", 
+        "name": "point_up_2-skin-tone-6"
+    }, 
+    {
+        "hex": "1f446-1f3fe", 
+        "name": "point_up_2-skin-tone-5"
+    }, 
+    {
+        "hex": "1f446-1f3fd", 
+        "name": "point_up_2-skin-tone-4"
+    }, 
+    {
+        "hex": "1f446-1f3fc", 
+        "name": "point_up_2-skin-tone-3"
+    }, 
+    {
+        "hex": "1f446-1f3fb", 
+        "name": "point_up_2-skin-tone-2"
+    }, 
+    {
+        "hex": "1f447", 
+        "name": "point_down"
+    }, 
+    {
+        "hex": "1f447-1f3fb", 
+        "name": "point_down-skin-tone-2"
+    }, 
+    {
+        "hex": "1f447-1f3fc", 
+        "name": "point_down-skin-tone-3"
+    }, 
+    {
+        "hex": "1f447-1f3ff", 
+        "name": "point_down-skin-tone-6"
+    }, 
+    {
+        "hex": "1f447-1f3fd", 
+        "name": "point_down-skin-tone-4"
+    }, 
+    {
+        "hex": "1f447-1f3fe", 
+        "name": "point_down-skin-tone-5"
+    }, 
+    {
+        "hex": "1f448", 
+        "name": "point_left"
+    }, 
+    {
+        "hex": "1f448-1f3fe", 
+        "name": "point_left-skin-tone-5"
+    }, 
+    {
+        "hex": "1f448-1f3fd", 
+        "name": "point_left-skin-tone-4"
+    }, 
+    {
+        "hex": "1f448-1f3ff", 
+        "name": "point_left-skin-tone-6"
+    }, 
+    {
+        "hex": "1f448-1f3fc", 
+        "name": "point_left-skin-tone-3"
+    }, 
+    {
+        "hex": "1f448-1f3fb", 
+        "name": "point_left-skin-tone-2"
+    }, 
+    {
+        "hex": "1f449", 
+        "name": "point_right"
+    }, 
+    {
+        "hex": "1f449-1f3fb", 
+        "name": "point_right-skin-tone-2"
+    }, 
+    {
+        "hex": "1f449-1f3fc", 
+        "name": "point_right-skin-tone-3"
+    }, 
+    {
+        "hex": "1f449-1f3fd", 
+        "name": "point_right-skin-tone-4"
+    }, 
+    {
+        "hex": "1f449-1f3fe", 
+        "name": "point_right-skin-tone-5"
+    }, 
+    {
+        "hex": "1f449-1f3ff", 
+        "name": "point_right-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44a", 
+        "name": "facepunch"
+    }, 
+    {
+        "hex": "1f44a", 
+        "name": "punch"
+    }, 
+    {
+        "hex": "1f44a-1f3fb", 
+        "name": "facepunch-skin-tone-2"
+    }, 
+    {
+        "hex": "1f44a-1f3fb", 
+        "name": "punch-skin-tone-2"
+    }, 
+    {
+        "hex": "1f44a-1f3fc", 
+        "name": "facepunch-skin-tone-3"
+    }, 
+    {
+        "hex": "1f44a-1f3fc", 
+        "name": "punch-skin-tone-3"
+    }, 
+    {
+        "hex": "1f44a-1f3fd", 
+        "name": "facepunch-skin-tone-4"
+    }, 
+    {
+        "hex": "1f44a-1f3fd", 
+        "name": "punch-skin-tone-4"
+    }, 
+    {
+        "hex": "1f44a-1f3fe", 
+        "name": "facepunch-skin-tone-5"
+    }, 
+    {
+        "hex": "1f44a-1f3fe", 
+        "name": "punch-skin-tone-5"
+    }, 
+    {
+        "hex": "1f44a-1f3ff", 
+        "name": "facepunch-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44a-1f3ff", 
+        "name": "punch-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44b", 
+        "name": "wave"
+    }, 
+    {
+        "hex": "1f44b-1f3fc", 
+        "name": "wave-skin-tone-3"
+    }, 
+    {
+        "hex": "1f44b-1f3fb", 
+        "name": "wave-skin-tone-2"
+    }, 
+    {
+        "hex": "1f44b-1f3ff", 
+        "name": "wave-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44b-1f3fe", 
+        "name": "wave-skin-tone-5"
+    }, 
+    {
+        "hex": "1f44b-1f3fd", 
+        "name": "wave-skin-tone-4"
+    }, 
+    {
+        "hex": "1f44c", 
+        "name": "ok_hand"
+    }, 
+    {
+        "hex": "1f44c-1f3ff", 
+        "name": "ok_hand-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44c-1f3fd", 
+        "name": "ok_hand-skin-tone-4"
+    }, 
+    {
+        "hex": "1f44c-1f3fe", 
+        "name": "ok_hand-skin-tone-5"
+    }, 
+    {
+        "hex": "1f44c-1f3fb", 
+        "name": "ok_hand-skin-tone-2"
+    }, 
+    {
+        "hex": "1f44c-1f3fc", 
+        "name": "ok_hand-skin-tone-3"
+    }, 
+    {
+        "hex": "1f44d", 
+        "name": "+1"
+    }, 
+    {
+        "hex": "1f44d", 
+        "name": "thumbsup"
+    }, 
+    {
+        "hex": "1f44d-1f3fc", 
+        "name": "+1-skin-tone-3"
+    }, 
+    {
+        "hex": "1f44d-1f3fc", 
+        "name": "thumbsup-skin-tone-3"
+    }, 
+    {
+        "hex": "1f44d-1f3fb", 
+        "name": "+1-skin-tone-2"
+    }, 
+    {
+        "hex": "1f44d-1f3fb", 
+        "name": "thumbsup-skin-tone-2"
+    }, 
+    {
+        "hex": "1f44d-1f3fe", 
+        "name": "+1-skin-tone-5"
+    }, 
+    {
+        "hex": "1f44d-1f3fe", 
+        "name": "thumbsup-skin-tone-5"
+    }, 
+    {
+        "hex": "1f44d-1f3fd", 
+        "name": "+1-skin-tone-4"
+    }, 
+    {
+        "hex": "1f44d-1f3fd", 
+        "name": "thumbsup-skin-tone-4"
+    }, 
+    {
+        "hex": "1f44d-1f3ff", 
+        "name": "+1-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44d-1f3ff", 
+        "name": "thumbsup-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44e", 
+        "name": "-1"
+    }, 
+    {
+        "hex": "1f44e", 
+        "name": "thumbsdown"
+    }, 
+    {
+        "hex": "1f44e-1f3fd", 
+        "name": "-1-skin-tone-4"
+    }, 
+    {
+        "hex": "1f44e-1f3fd", 
+        "name": "thumbsdown-skin-tone-4"
+    }, 
+    {
+        "hex": "1f44e-1f3fe", 
+        "name": "-1-skin-tone-5"
+    }, 
+    {
+        "hex": "1f44e-1f3fe", 
+        "name": "thumbsdown-skin-tone-5"
+    }, 
+    {
+        "hex": "1f44e-1f3ff", 
+        "name": "-1-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44e-1f3ff", 
+        "name": "thumbsdown-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44e-1f3fb", 
+        "name": "-1-skin-tone-2"
+    }, 
+    {
+        "hex": "1f44e-1f3fb", 
+        "name": "thumbsdown-skin-tone-2"
+    }, 
+    {
+        "hex": "1f44e-1f3fc", 
+        "name": "-1-skin-tone-3"
+    }, 
+    {
+        "hex": "1f44e-1f3fc", 
+        "name": "thumbsdown-skin-tone-3"
+    }, 
+    {
+        "hex": "1f44f", 
+        "name": "clap"
+    }, 
+    {
+        "hex": "1f44f-1f3ff", 
+        "name": "clap-skin-tone-6"
+    }, 
+    {
+        "hex": "1f44f-1f3fe", 
+        "name": "clap-skin-tone-5"
+    }, 
+    {
+        "hex": "1f44f-1f3fd", 
+        "name": "clap-skin-tone-4"
+    }, 
+    {
+        "hex": "1f44f-1f3fc", 
+        "name": "clap-skin-tone-3"
+    }, 
+    {
+        "hex": "1f44f-1f3fb", 
+        "name": "clap-skin-tone-2"
+    }, 
+    {
+        "hex": "1f450", 
+        "name": "open_hands"
+    }, 
+    {
+        "hex": "1f450-1f3ff", 
+        "name": "open_hands-skin-tone-6"
+    }, 
+    {
+        "hex": "1f450-1f3fd", 
+        "name": "open_hands-skin-tone-4"
+    }, 
+    {
+        "hex": "1f450-1f3fe", 
+        "name": "open_hands-skin-tone-5"
+    }, 
+    {
+        "hex": "1f450-1f3fb", 
+        "name": "open_hands-skin-tone-2"
+    }, 
+    {
+        "hex": "1f450-1f3fc", 
+        "name": "open_hands-skin-tone-3"
+    }, 
+    {
+        "hex": "1f451", 
+        "name": "crown"
+    }, 
+    {
+        "hex": "1f452", 
+        "name": "womans_hat"
+    }, 
+    {
+        "hex": "1f453", 
+        "name": "eyeglasses"
+    }, 
+    {
+        "hex": "1f454", 
+        "name": "necktie"
+    }, 
+    {
+        "hex": "1f455", 
+        "name": "shirt"
+    }, 
+    {
+        "hex": "1f455", 
+        "name": "tshirt"
+    }, 
+    {
+        "hex": "1f456", 
+        "name": "jeans"
+    }, 
+    {
+        "hex": "1f457", 
+        "name": "dress"
+    }, 
+    {
+        "hex": "1f458", 
+        "name": "kimono"
+    }, 
+    {
+        "hex": "1f459", 
+        "name": "bikini"
+    }, 
+    {
+        "hex": "1f45a", 
+        "name": "womans_clothes"
+    }, 
+    {
+        "hex": "1f45b", 
+        "name": "purse"
+    }, 
+    {
+        "hex": "1f45c", 
+        "name": "handbag"
+    }, 
+    {
+        "hex": "1f45d", 
+        "name": "pouch"
+    }, 
+    {
+        "hex": "1f45e", 
+        "name": "mans_shoe"
+    }, 
+    {
+        "hex": "1f45e", 
+        "name": "shoe"
+    }, 
+    {
+        "hex": "1f45f", 
+        "name": "athletic_shoe"
+    }, 
+    {
+        "hex": "1f460", 
+        "name": "high_heel"
+    }, 
+    {
+        "hex": "1f461", 
+        "name": "sandal"
+    }, 
+    {
+        "hex": "1f462", 
+        "name": "boot"
+    }, 
+    {
+        "hex": "1f463", 
+        "name": "footprints"
+    }, 
+    {
+        "hex": "1f464", 
+        "name": "bust_in_silhouette"
+    }, 
+    {
+        "hex": "1f465", 
+        "name": "busts_in_silhouette"
+    }, 
+    {
+        "hex": "1f466", 
+        "name": "boy"
+    }, 
+    {
+        "hex": "1f466-1f3fc", 
+        "name": "boy-skin-tone-3"
+    }, 
+    {
+        "hex": "1f466-1f3fb", 
+        "name": "boy-skin-tone-2"
+    }, 
+    {
+        "hex": "1f466-1f3fe", 
+        "name": "boy-skin-tone-5"
+    }, 
+    {
+        "hex": "1f466-1f3fd", 
+        "name": "boy-skin-tone-4"
+    }, 
+    {
+        "hex": "1f466-1f3ff", 
+        "name": "boy-skin-tone-6"
+    }, 
+    {
+        "hex": "1f467", 
+        "name": "girl"
+    }, 
+    {
+        "hex": "1f467-1f3fd", 
+        "name": "girl-skin-tone-4"
+    }, 
+    {
+        "hex": "1f467-1f3fe", 
+        "name": "girl-skin-tone-5"
+    }, 
+    {
+        "hex": "1f467-1f3ff", 
+        "name": "girl-skin-tone-6"
+    }, 
+    {
+        "hex": "1f467-1f3fb", 
+        "name": "girl-skin-tone-2"
+    }, 
+    {
+        "hex": "1f467-1f3fc", 
+        "name": "girl-skin-tone-3"
+    }, 
+    {
+        "hex": "1f468", 
+        "name": "man"
+    }, 
+    {
+        "hex": "1f468-1f3fc", 
+        "name": "man-skin-tone-3"
+    }, 
+    {
+        "hex": "1f468-1f3fb", 
+        "name": "man-skin-tone-2"
+    }, 
+    {
+        "hex": "1f468-1f3ff", 
+        "name": "man-skin-tone-6"
+    }, 
+    {
+        "hex": "1f468-1f3fe", 
+        "name": "man-skin-tone-5"
+    }, 
+    {
+        "hex": "1f468-1f3fd", 
+        "name": "man-skin-tone-4"
+    }, 
+    {
+        "hex": "1f469", 
+        "name": "woman"
+    }, 
+    {
+        "hex": "1f469-1f3ff", 
+        "name": "woman-skin-tone-6"
+    }, 
+    {
+        "hex": "1f469-1f3fd", 
+        "name": "woman-skin-tone-4"
+    }, 
+    {
+        "hex": "1f469-1f3fe", 
+        "name": "woman-skin-tone-5"
+    }, 
+    {
+        "hex": "1f469-1f3fb", 
+        "name": "woman-skin-tone-2"
+    }, 
+    {
+        "hex": "1f469-1f3fc", 
+        "name": "woman-skin-tone-3"
+    }, 
+    {
+        "hex": "1f46a", 
+        "name": "family"
+    }, 
+    {
+        "hex": "1f46a", 
+        "name": "man-woman-boy"
+    }, 
+    {
+        "hex": "1f46b", 
+        "name": "couple"
+    }, 
+    {
+        "hex": "1f46b", 
+        "name": "man_and_woman_holding_hands"
+    }, 
+    {
+        "hex": "1f46c", 
+        "name": "two_men_holding_hands"
+    }, 
+    {
+        "hex": "1f46d", 
+        "name": "two_women_holding_hands"
+    }, 
+    {
+        "hex": "1f46e", 
+        "name": "cop"
+    }, 
+    {
+        "hex": "1f46e-1f3fb", 
+        "name": "cop-skin-tone-2"
+    }, 
+    {
+        "hex": "1f46e-1f3fc", 
+        "name": "cop-skin-tone-3"
+    }, 
+    {
+        "hex": "1f46e-1f3ff", 
+        "name": "cop-skin-tone-6"
+    }, 
+    {
+        "hex": "1f46e-1f3fd", 
+        "name": "cop-skin-tone-4"
+    }, 
+    {
+        "hex": "1f46e-1f3fe", 
+        "name": "cop-skin-tone-5"
+    }, 
+    {
+        "hex": "1f46f", 
+        "name": "dancers"
+    }, 
+    {
+        "hex": "1f470", 
+        "name": "bride_with_veil"
+    }, 
+    {
+        "hex": "1f470-1f3fd", 
+        "name": "bride_with_veil-skin-tone-4"
+    }, 
+    {
+        "hex": "1f470-1f3fe", 
+        "name": "bride_with_veil-skin-tone-5"
+    }, 
+    {
+        "hex": "1f470-1f3ff", 
+        "name": "bride_with_veil-skin-tone-6"
+    }, 
+    {
+        "hex": "1f470-1f3fb", 
+        "name": "bride_with_veil-skin-tone-2"
+    }, 
+    {
+        "hex": "1f470-1f3fc", 
+        "name": "bride_with_veil-skin-tone-3"
+    }, 
+    {
+        "hex": "1f471", 
+        "name": "person_with_blond_hair"
+    }, 
+    {
+        "hex": "1f471-1f3fc", 
+        "name": "person_with_blond_hair-skin-tone-3"
+    }, 
+    {
+        "hex": "1f471-1f3fb", 
+        "name": "person_with_blond_hair-skin-tone-2"
+    }, 
+    {
+        "hex": "1f471-1f3fe", 
+        "name": "person_with_blond_hair-skin-tone-5"
+    }, 
+    {
+        "hex": "1f471-1f3fd", 
+        "name": "person_with_blond_hair-skin-tone-4"
+    }, 
+    {
+        "hex": "1f471-1f3ff", 
+        "name": "person_with_blond_hair-skin-tone-6"
+    }, 
+    {
+        "hex": "1f472", 
+        "name": "man_with_gua_pi_mao"
+    }, 
+    {
+        "hex": "1f472-1f3fb", 
+        "name": "man_with_gua_pi_mao-skin-tone-2"
+    }, 
+    {
+        "hex": "1f472-1f3fc", 
+        "name": "man_with_gua_pi_mao-skin-tone-3"
+    }, 
+    {
+        "hex": "1f472-1f3ff", 
+        "name": "man_with_gua_pi_mao-skin-tone-6"
+    }, 
+    {
+        "hex": "1f472-1f3fd", 
+        "name": "man_with_gua_pi_mao-skin-tone-4"
+    }, 
+    {
+        "hex": "1f472-1f3fe", 
+        "name": "man_with_gua_pi_mao-skin-tone-5"
+    }, 
+    {
+        "hex": "1f473", 
+        "name": "man_with_turban"
+    }, 
+    {
+        "hex": "1f473-1f3ff", 
+        "name": "man_with_turban-skin-tone-6"
+    }, 
+    {
+        "hex": "1f473-1f3fe", 
+        "name": "man_with_turban-skin-tone-5"
+    }, 
+    {
+        "hex": "1f473-1f3fd", 
+        "name": "man_with_turban-skin-tone-4"
+    }, 
+    {
+        "hex": "1f473-1f3fc", 
+        "name": "man_with_turban-skin-tone-3"
+    }, 
+    {
+        "hex": "1f473-1f3fb", 
+        "name": "man_with_turban-skin-tone-2"
+    }, 
+    {
+        "hex": "1f474", 
+        "name": "older_man"
+    }, 
+    {
+        "hex": "1f474-1f3fb", 
+        "name": "older_man-skin-tone-2"
+    }, 
+    {
+        "hex": "1f474-1f3fc", 
+        "name": "older_man-skin-tone-3"
+    }, 
+    {
+        "hex": "1f474-1f3fd", 
+        "name": "older_man-skin-tone-4"
+    }, 
+    {
+        "hex": "1f474-1f3fe", 
+        "name": "older_man-skin-tone-5"
+    }, 
+    {
+        "hex": "1f474-1f3ff", 
+        "name": "older_man-skin-tone-6"
+    }, 
+    {
+        "hex": "1f475", 
+        "name": "older_woman"
+    }, 
+    {
+        "hex": "1f475-1f3fe", 
+        "name": "older_woman-skin-tone-5"
+    }, 
+    {
+        "hex": "1f475-1f3fd", 
+        "name": "older_woman-skin-tone-4"
+    }, 
+    {
+        "hex": "1f475-1f3ff", 
+        "name": "older_woman-skin-tone-6"
+    }, 
+    {
+        "hex": "1f475-1f3fc", 
+        "name": "older_woman-skin-tone-3"
+    }, 
+    {
+        "hex": "1f475-1f3fb", 
+        "name": "older_woman-skin-tone-2"
+    }, 
+    {
+        "hex": "1f476", 
+        "name": "baby"
+    }, 
+    {
+        "hex": "1f476-1f3ff", 
+        "name": "baby-skin-tone-6"
+    }, 
+    {
+        "hex": "1f476-1f3fd", 
+        "name": "baby-skin-tone-4"
+    }, 
+    {
+        "hex": "1f476-1f3fe", 
+        "name": "baby-skin-tone-5"
+    }, 
+    {
+        "hex": "1f476-1f3fb", 
+        "name": "baby-skin-tone-2"
+    }, 
+    {
+        "hex": "1f476-1f3fc", 
+        "name": "baby-skin-tone-3"
+    }, 
+    {
+        "hex": "1f477", 
+        "name": "construction_worker"
+    }, 
+    {
+        "hex": "1f477-1f3fc", 
+        "name": "construction_worker-skin-tone-3"
+    }, 
+    {
+        "hex": "1f477-1f3fb", 
+        "name": "construction_worker-skin-tone-2"
+    }, 
+    {
+        "hex": "1f477-1f3ff", 
+        "name": "construction_worker-skin-tone-6"
+    }, 
+    {
+        "hex": "1f477-1f3fe", 
+        "name": "construction_worker-skin-tone-5"
+    }, 
+    {
+        "hex": "1f477-1f3fd", 
+        "name": "construction_worker-skin-tone-4"
+    }, 
+    {
+        "hex": "1f478", 
+        "name": "princess"
+    }, 
+    {
+        "hex": "1f478-1f3fd", 
+        "name": "princess-skin-tone-4"
+    }, 
+    {
+        "hex": "1f478-1f3fe", 
+        "name": "princess-skin-tone-5"
+    }, 
+    {
+        "hex": "1f478-1f3ff", 
+        "name": "princess-skin-tone-6"
+    }, 
+    {
+        "hex": "1f478-1f3fb", 
+        "name": "princess-skin-tone-2"
+    }, 
+    {
+        "hex": "1f478-1f3fc", 
+        "name": "princess-skin-tone-3"
+    }, 
+    {
+        "hex": "1f479", 
+        "name": "japanese_ogre"
+    }, 
+    {
+        "hex": "1f47a", 
+        "name": "japanese_goblin"
+    }, 
+    {
+        "hex": "1f47b", 
+        "name": "ghost"
+    }, 
+    {
+        "hex": "1f47c", 
+        "name": "angel"
+    }, 
+    {
+        "hex": "1f47c-1f3ff", 
+        "name": "angel-skin-tone-6"
+    }, 
+    {
+        "hex": "1f47c-1f3fe", 
+        "name": "angel-skin-tone-5"
+    }, 
+    {
+        "hex": "1f47c-1f3fd", 
+        "name": "angel-skin-tone-4"
+    }, 
+    {
+        "hex": "1f47c-1f3fc", 
+        "name": "angel-skin-tone-3"
+    }, 
+    {
+        "hex": "1f47c-1f3fb", 
+        "name": "angel-skin-tone-2"
+    }, 
+    {
+        "hex": "1f47d", 
+        "name": "alien"
+    }, 
+    {
+        "hex": "1f47e", 
+        "name": "space_invader"
+    }, 
+    {
+        "hex": "1f47f", 
+        "name": "imp"
+    }, 
+    {
+        "hex": "1f480", 
+        "name": "skull"
+    }, 
+    {
+        "hex": "1f481", 
+        "name": "information_desk_person"
+    }, 
+    {
+        "hex": "1f481-1f3fd", 
+        "name": "information_desk_person-skin-tone-4"
+    }, 
+    {
+        "hex": "1f481-1f3fe", 
+        "name": "information_desk_person-skin-tone-5"
+    }, 
+    {
+        "hex": "1f481-1f3ff", 
+        "name": "information_desk_person-skin-tone-6"
+    }, 
+    {
+        "hex": "1f481-1f3fb", 
+        "name": "information_desk_person-skin-tone-2"
+    }, 
+    {
+        "hex": "1f481-1f3fc", 
+        "name": "information_desk_person-skin-tone-3"
+    }, 
+    {
+        "hex": "1f482", 
+        "name": "guardsman"
+    }, 
+    {
+        "hex": "1f482-1f3ff", 
+        "name": "guardsman-skin-tone-6"
+    }, 
+    {
+        "hex": "1f482-1f3fe", 
+        "name": "guardsman-skin-tone-5"
+    }, 
+    {
+        "hex": "1f482-1f3fd", 
+        "name": "guardsman-skin-tone-4"
+    }, 
+    {
+        "hex": "1f482-1f3fc", 
+        "name": "guardsman-skin-tone-3"
+    }, 
+    {
+        "hex": "1f482-1f3fb", 
+        "name": "guardsman-skin-tone-2"
+    }, 
+    {
+        "hex": "1f483", 
+        "name": "dancer"
+    }, 
+    {
+        "hex": "1f483-1f3fb", 
+        "name": "dancer-skin-tone-2"
+    }, 
+    {
+        "hex": "1f483-1f3fc", 
+        "name": "dancer-skin-tone-3"
+    }, 
+    {
+        "hex": "1f483-1f3ff", 
+        "name": "dancer-skin-tone-6"
+    }, 
+    {
+        "hex": "1f483-1f3fd", 
+        "name": "dancer-skin-tone-4"
+    }, 
+    {
+        "hex": "1f483-1f3fe", 
+        "name": "dancer-skin-tone-5"
+    }, 
+    {
+        "hex": "1f484", 
+        "name": "lipstick"
+    }, 
+    {
+        "hex": "1f485", 
+        "name": "nail_care"
+    }, 
+    {
+        "hex": "1f485-1f3fb", 
+        "name": "nail_care-skin-tone-2"
+    }, 
+    {
+        "hex": "1f485-1f3fc", 
+        "name": "nail_care-skin-tone-3"
+    }, 
+    {
+        "hex": "1f485-1f3fd", 
+        "name": "nail_care-skin-tone-4"
+    }, 
+    {
+        "hex": "1f485-1f3fe", 
+        "name": "nail_care-skin-tone-5"
+    }, 
+    {
+        "hex": "1f485-1f3ff", 
+        "name": "nail_care-skin-tone-6"
+    }, 
+    {
+        "hex": "1f486", 
+        "name": "massage"
+    }, 
+    {
+        "hex": "1f486-1f3fc", 
+        "name": "massage-skin-tone-3"
+    }, 
+    {
+        "hex": "1f486-1f3fb", 
+        "name": "massage-skin-tone-2"
+    }, 
+    {
+        "hex": "1f486-1f3ff", 
+        "name": "massage-skin-tone-6"
+    }, 
+    {
+        "hex": "1f486-1f3fe", 
+        "name": "massage-skin-tone-5"
+    }, 
+    {
+        "hex": "1f486-1f3fd", 
+        "name": "massage-skin-tone-4"
+    }, 
+    {
+        "hex": "1f487", 
+        "name": "haircut"
+    }, 
+    {
+        "hex": "1f487-1f3ff", 
+        "name": "haircut-skin-tone-6"
+    }, 
+    {
+        "hex": "1f487-1f3fd", 
+        "name": "haircut-skin-tone-4"
+    }, 
+    {
+        "hex": "1f487-1f3fe", 
+        "name": "haircut-skin-tone-5"
+    }, 
+    {
+        "hex": "1f487-1f3fb", 
+        "name": "haircut-skin-tone-2"
+    }, 
+    {
+        "hex": "1f487-1f3fc", 
+        "name": "haircut-skin-tone-3"
+    }, 
+    {
+        "hex": "1f488", 
+        "name": "barber"
+    }, 
+    {
+        "hex": "1f489", 
+        "name": "syringe"
+    }, 
+    {
+        "hex": "1f48a", 
+        "name": "pill"
+    }, 
+    {
+        "hex": "1f48b", 
+        "name": "kiss"
+    }, 
+    {
+        "hex": "1f48c", 
+        "name": "love_letter"
+    }, 
+    {
+        "hex": "1f48d", 
+        "name": "ring"
+    }, 
+    {
+        "hex": "1f48e", 
+        "name": "gem"
+    }, 
+    {
+        "hex": "1f48f", 
+        "name": "couplekiss"
+    }, 
+    {
+        "hex": "1f490", 
+        "name": "bouquet"
+    }, 
+    {
+        "hex": "1f491", 
+        "name": "couple_with_heart"
+    }, 
+    {
+        "hex": "1f492", 
+        "name": "wedding"
+    }, 
+    {
+        "hex": "1f493", 
+        "name": "heartbeat"
+    }, 
+    {
+        "hex": "1f494", 
+        "name": "broken_heart"
+    }, 
+    {
+        "hex": "1f495", 
+        "name": "two_hearts"
+    }, 
+    {
+        "hex": "1f496", 
+        "name": "sparkling_heart"
+    }, 
+    {
+        "hex": "1f497", 
+        "name": "heartpulse"
+    }, 
+    {
+        "hex": "1f498", 
+        "name": "cupid"
+    }, 
+    {
+        "hex": "1f499", 
+        "name": "blue_heart"
+    }, 
+    {
+        "hex": "1f49a", 
+        "name": "green_heart"
+    }, 
+    {
+        "hex": "1f49b", 
+        "name": "yellow_heart"
+    }, 
+    {
+        "hex": "1f49c", 
+        "name": "purple_heart"
+    }, 
+    {
+        "hex": "1f49d", 
+        "name": "gift_heart"
+    }, 
+    {
+        "hex": "1f49e", 
+        "name": "revolving_hearts"
+    }, 
+    {
+        "hex": "1f49f", 
+        "name": "heart_decoration"
+    }, 
+    {
+        "hex": "1f4a0", 
+        "name": "diamond_shape_with_a_dot_inside"
+    }, 
+    {
+        "hex": "1f4a1", 
+        "name": "bulb"
+    }, 
+    {
+        "hex": "1f4a2", 
+        "name": "anger"
+    }, 
+    {
+        "hex": "1f4a3", 
+        "name": "bomb"
+    }, 
+    {
+        "hex": "1f4a4", 
+        "name": "zzz"
+    }, 
+    {
+        "hex": "1f4a5", 
+        "name": "boom"
+    }, 
+    {
+        "hex": "1f4a5", 
+        "name": "collision"
+    }, 
+    {
+        "hex": "1f4a6", 
+        "name": "sweat_drops"
+    }, 
+    {
+        "hex": "1f4a7", 
+        "name": "droplet"
+    }, 
+    {
+        "hex": "1f4a8", 
+        "name": "dash"
+    }, 
+    {
+        "hex": "1f4a9", 
+        "name": "hankey"
+    }, 
+    {
+        "hex": "1f4a9", 
+        "name": "poop"
+    }, 
+    {
+        "hex": "1f4a9", 
+        "name": "shit"
+    }, 
+    {
+        "hex": "1f4aa", 
+        "name": "muscle"
+    }, 
+    {
+        "hex": "1f4aa-1f3ff", 
+        "name": "muscle-skin-tone-6"
+    }, 
+    {
+        "hex": "1f4aa-1f3fe", 
+        "name": "muscle-skin-tone-5"
+    }, 
+    {
+        "hex": "1f4aa-1f3fd", 
+        "name": "muscle-skin-tone-4"
+    }, 
+    {
+        "hex": "1f4aa-1f3fc", 
+        "name": "muscle-skin-tone-3"
+    }, 
+    {
+        "hex": "1f4aa-1f3fb", 
+        "name": "muscle-skin-tone-2"
+    }, 
+    {
+        "hex": "1f4ab", 
+        "name": "dizzy"
+    }, 
+    {
+        "hex": "1f4ac", 
+        "name": "speech_balloon"
+    }, 
+    {
+        "hex": "1f4ad", 
+        "name": "thought_balloon"
+    }, 
+    {
+        "hex": "1f4ae", 
+        "name": "white_flower"
+    }, 
+    {
+        "hex": "1f4af", 
+        "name": "100"
+    }, 
+    {
+        "hex": "1f4b0", 
+        "name": "moneybag"
+    }, 
+    {
+        "hex": "1f4b1", 
+        "name": "currency_exchange"
+    }, 
+    {
+        "hex": "1f4b2", 
+        "name": "heavy_dollar_sign"
+    }, 
+    {
+        "hex": "1f4b3", 
+        "name": "credit_card"
+    }, 
+    {
+        "hex": "1f4b4", 
+        "name": "yen"
+    }, 
+    {
+        "hex": "1f4b5", 
+        "name": "dollar"
+    }, 
+    {
+        "hex": "1f4b6", 
+        "name": "euro"
+    }, 
+    {
+        "hex": "1f4b7", 
+        "name": "pound"
+    }, 
+    {
+        "hex": "1f4b8", 
+        "name": "money_with_wings"
+    }, 
+    {
+        "hex": "1f4b9", 
+        "name": "chart"
+    }, 
+    {
+        "hex": "1f4ba", 
+        "name": "seat"
+    }, 
+    {
+        "hex": "1f4bb", 
+        "name": "computer"
+    }, 
+    {
+        "hex": "1f4bc", 
+        "name": "briefcase"
+    }, 
+    {
+        "hex": "1f4bd", 
+        "name": "minidisc"
+    }, 
+    {
+        "hex": "1f4be", 
+        "name": "floppy_disk"
+    }, 
+    {
+        "hex": "1f4bf", 
+        "name": "cd"
+    }, 
+    {
+        "hex": "1f4c0", 
+        "name": "dvd"
+    }, 
+    {
+        "hex": "1f4c1", 
+        "name": "file_folder"
+    }, 
+    {
+        "hex": "1f4c2", 
+        "name": "open_file_folder"
+    }, 
+    {
+        "hex": "1f4c3", 
+        "name": "page_with_curl"
+    }, 
+    {
+        "hex": "1f4c4", 
+        "name": "page_facing_up"
+    }, 
+    {
+        "hex": "1f4c5", 
+        "name": "date"
+    }, 
+    {
+        "hex": "1f4c6", 
+        "name": "calendar"
+    }, 
+    {
+        "hex": "1f4c7", 
+        "name": "card_index"
+    }, 
+    {
+        "hex": "1f4c8", 
+        "name": "chart_with_upwards_trend"
+    }, 
+    {
+        "hex": "1f4c9", 
+        "name": "chart_with_downwards_trend"
+    }, 
+    {
+        "hex": "1f4ca", 
+        "name": "bar_chart"
+    }, 
+    {
+        "hex": "1f4cb", 
+        "name": "clipboard"
+    }, 
+    {
+        "hex": "1f4cc", 
+        "name": "pushpin"
+    }, 
+    {
+        "hex": "1f4cd", 
+        "name": "round_pushpin"
+    }, 
+    {
+        "hex": "1f4ce", 
+        "name": "paperclip"
+    }, 
+    {
+        "hex": "1f4cf", 
+        "name": "straight_ruler"
+    }, 
+    {
+        "hex": "1f4d0", 
+        "name": "triangular_ruler"
+    }, 
+    {
+        "hex": "1f4d1", 
+        "name": "bookmark_tabs"
+    }, 
+    {
+        "hex": "1f4d2", 
+        "name": "ledger"
+    }, 
+    {
+        "hex": "1f4d3", 
+        "name": "notebook"
+    }, 
+    {
+        "hex": "1f4d4", 
+        "name": "notebook_with_decorative_cover"
+    }, 
+    {
+        "hex": "1f4d5", 
+        "name": "closed_book"
+    }, 
+    {
+        "hex": "1f4d6", 
+        "name": "book"
+    }, 
+    {
+        "hex": "1f4d6", 
+        "name": "open_book"
+    }, 
+    {
+        "hex": "1f4d7", 
+        "name": "green_book"
+    }, 
+    {
+        "hex": "1f4d8", 
+        "name": "blue_book"
+    }, 
+    {
+        "hex": "1f4d9", 
+        "name": "orange_book"
+    }, 
+    {
+        "hex": "1f4da", 
+        "name": "books"
+    }, 
+    {
+        "hex": "1f4db", 
+        "name": "name_badge"
+    }, 
+    {
+        "hex": "1f4dc", 
+        "name": "scroll"
+    }, 
+    {
+        "hex": "1f4dd", 
+        "name": "memo"
+    }, 
+    {
+        "hex": "1f4dd", 
+        "name": "pencil"
+    }, 
+    {
+        "hex": "1f4de", 
+        "name": "telephone_receiver"
+    }, 
+    {
+        "hex": "1f4df", 
+        "name": "pager"
+    }, 
+    {
+        "hex": "1f4e0", 
+        "name": "fax"
+    }, 
+    {
+        "hex": "1f4e1", 
+        "name": "satellite_antenna"
+    }, 
+    {
+        "hex": "1f4e2", 
+        "name": "loudspeaker"
+    }, 
+    {
+        "hex": "1f4e3", 
+        "name": "mega"
+    }, 
+    {
+        "hex": "1f4e4", 
+        "name": "outbox_tray"
+    }, 
+    {
+        "hex": "1f4e5", 
+        "name": "inbox_tray"
+    }, 
+    {
+        "hex": "1f4e6", 
+        "name": "package"
+    }, 
+    {
+        "hex": "1f4e7", 
+        "name": "e-mail"
+    }, 
+    {
+        "hex": "1f4e8", 
+        "name": "incoming_envelope"
+    }, 
+    {
+        "hex": "1f4e9", 
+        "name": "envelope_with_arrow"
+    }, 
+    {
+        "hex": "1f4ea", 
+        "name": "mailbox_closed"
+    }, 
+    {
+        "hex": "1f4eb", 
+        "name": "mailbox"
+    }, 
+    {
+        "hex": "1f4ec", 
+        "name": "mailbox_with_mail"
+    }, 
+    {
+        "hex": "1f4ed", 
+        "name": "mailbox_with_no_mail"
+    }, 
+    {
+        "hex": "1f4ee", 
+        "name": "postbox"
+    }, 
+    {
+        "hex": "1f4ef", 
+        "name": "postal_horn"
+    }, 
+    {
+        "hex": "1f4f0", 
+        "name": "newspaper"
+    }, 
+    {
+        "hex": "1f4f1", 
+        "name": "iphone"
+    }, 
+    {
+        "hex": "1f4f2", 
+        "name": "calling"
+    }, 
+    {
+        "hex": "1f4f3", 
+        "name": "vibration_mode"
+    }, 
+    {
+        "hex": "1f4f4", 
+        "name": "mobile_phone_off"
+    }, 
+    {
+        "hex": "1f4f5", 
+        "name": "no_mobile_phones"
+    }, 
+    {
+        "hex": "1f4f6", 
+        "name": "signal_strength"
+    }, 
+    {
+        "hex": "1f4f7", 
+        "name": "camera"
+    }, 
+    {
+        "hex": "1f4f8", 
+        "name": "camera_with_flash"
+    }, 
+    {
+        "hex": "1f4f9", 
+        "name": "video_camera"
+    }, 
+    {
+        "hex": "1f4fa", 
+        "name": "tv"
+    }, 
+    {
+        "hex": "1f4fb", 
+        "name": "radio"
+    }, 
+    {
+        "hex": "1f4fc", 
+        "name": "vhs"
+    }, 
+    {
+        "hex": "1f4fd", 
+        "name": "film_projector"
+    }, 
+    {
+        "hex": "1f4ff", 
+        "name": "prayer_beads"
+    }, 
+    {
+        "hex": "1f500", 
+        "name": "twisted_rightwards_arrows"
+    }, 
+    {
+        "hex": "1f501", 
+        "name": "repeat"
+    }, 
+    {
+        "hex": "1f502", 
+        "name": "repeat_one"
+    }, 
+    {
+        "hex": "1f503", 
+        "name": "arrows_clockwise"
+    }, 
+    {
+        "hex": "1f504", 
+        "name": "arrows_counterclockwise"
+    }, 
+    {
+        "hex": "1f505", 
+        "name": "low_brightness"
+    }, 
+    {
+        "hex": "1f506", 
+        "name": "high_brightness"
+    }, 
+    {
+        "hex": "1f507", 
+        "name": "mute"
+    }, 
+    {
+        "hex": "1f508", 
+        "name": "speaker"
+    }, 
+    {
+        "hex": "1f509", 
+        "name": "sound"
+    }, 
+    {
+        "hex": "1f50a", 
+        "name": "loud_sound"
+    }, 
+    {
+        "hex": "1f50b", 
+        "name": "battery"
+    }, 
+    {
+        "hex": "1f50c", 
+        "name": "electric_plug"
+    }, 
+    {
+        "hex": "1f50d", 
+        "name": "mag"
+    }, 
+    {
+        "hex": "1f50e", 
+        "name": "mag_right"
+    }, 
+    {
+        "hex": "1f50f", 
+        "name": "lock_with_ink_pen"
+    }, 
+    {
+        "hex": "1f510", 
+        "name": "closed_lock_with_key"
+    }, 
+    {
+        "hex": "1f511", 
+        "name": "key"
+    }, 
+    {
+        "hex": "1f512", 
+        "name": "lock"
+    }, 
+    {
+        "hex": "1f513", 
+        "name": "unlock"
+    }, 
+    {
+        "hex": "1f514", 
+        "name": "bell"
+    }, 
+    {
+        "hex": "1f515", 
+        "name": "no_bell"
+    }, 
+    {
+        "hex": "1f516", 
+        "name": "bookmark"
+    }, 
+    {
+        "hex": "1f517", 
+        "name": "link"
+    }, 
+    {
+        "hex": "1f518", 
+        "name": "radio_button"
+    }, 
+    {
+        "hex": "1f519", 
+        "name": "back"
+    }, 
+    {
+        "hex": "1f51a", 
+        "name": "end"
+    }, 
+    {
+        "hex": "1f51b", 
+        "name": "on"
+    }, 
+    {
+        "hex": "1f51c", 
+        "name": "soon"
+    }, 
+    {
+        "hex": "1f51d", 
+        "name": "top"
+    }, 
+    {
+        "hex": "1f51e", 
+        "name": "underage"
+    }, 
+    {
+        "hex": "1f51f", 
+        "name": "keycap_ten"
+    }, 
+    {
+        "hex": "1f520", 
+        "name": "capital_abcd"
+    }, 
+    {
+        "hex": "1f521", 
+        "name": "abcd"
+    }, 
+    {
+        "hex": "1f522", 
+        "name": "1234"
+    }, 
+    {
+        "hex": "1f523", 
+        "name": "symbols"
+    }, 
+    {
+        "hex": "1f524", 
+        "name": "abc"
+    }, 
+    {
+        "hex": "1f525", 
+        "name": "fire"
+    }, 
+    {
+        "hex": "1f526", 
+        "name": "flashlight"
+    }, 
+    {
+        "hex": "1f527", 
+        "name": "wrench"
+    }, 
+    {
+        "hex": "1f528", 
+        "name": "hammer"
+    }, 
+    {
+        "hex": "1f529", 
+        "name": "nut_and_bolt"
+    }, 
+    {
+        "hex": "1f52a", 
+        "name": "hocho"
+    }, 
+    {
+        "hex": "1f52a", 
+        "name": "knife"
+    }, 
+    {
+        "hex": "1f52b", 
+        "name": "gun"
+    }, 
+    {
+        "hex": "1f52c", 
+        "name": "microscope"
+    }, 
+    {
+        "hex": "1f52d", 
+        "name": "telescope"
+    }, 
+    {
+        "hex": "1f52e", 
+        "name": "crystal_ball"
+    }, 
+    {
+        "hex": "1f52f", 
+        "name": "six_pointed_star"
+    }, 
+    {
+        "hex": "1f530", 
+        "name": "beginner"
+    }, 
+    {
+        "hex": "1f531", 
+        "name": "trident"
+    }, 
+    {
+        "hex": "1f532", 
+        "name": "black_square_button"
+    }, 
+    {
+        "hex": "1f533", 
+        "name": "white_square_button"
+    }, 
+    {
+        "hex": "1f534", 
+        "name": "red_circle"
+    }, 
+    {
+        "hex": "1f535", 
+        "name": "large_blue_circle"
+    }, 
+    {
+        "hex": "1f536", 
+        "name": "large_orange_diamond"
+    }, 
+    {
+        "hex": "1f537", 
+        "name": "large_blue_diamond"
+    }, 
+    {
+        "hex": "1f538", 
+        "name": "small_orange_diamond"
+    }, 
+    {
+        "hex": "1f539", 
+        "name": "small_blue_diamond"
+    }, 
+    {
+        "hex": "1f53a", 
+        "name": "small_red_triangle"
+    }, 
+    {
+        "hex": "1f53b", 
+        "name": "small_red_triangle_down"
+    }, 
+    {
+        "hex": "1f53c", 
+        "name": "arrow_up_small"
+    }, 
+    {
+        "hex": "1f53d", 
+        "name": "arrow_down_small"
+    }, 
+    {
+        "hex": "1f549", 
+        "name": "om_symbol"
+    }, 
+    {
+        "hex": "1f54a", 
+        "name": "dove_of_peace"
+    }, 
+    {
+        "hex": "1f54b", 
+        "name": "kaaba"
+    }, 
+    {
+        "hex": "1f54c", 
+        "name": "mosque"
+    }, 
+    {
+        "hex": "1f54d", 
+        "name": "synagogue"
+    }, 
+    {
+        "hex": "1f54e", 
+        "name": "menorah_with_nine_branches"
+    }, 
+    {
+        "hex": "1f550", 
+        "name": "clock1"
+    }, 
+    {
+        "hex": "1f551", 
+        "name": "clock2"
+    }, 
+    {
+        "hex": "1f552", 
+        "name": "clock3"
+    }, 
+    {
+        "hex": "1f553", 
+        "name": "clock4"
+    }, 
+    {
+        "hex": "1f554", 
+        "name": "clock5"
+    }, 
+    {
+        "hex": "1f555", 
+        "name": "clock6"
+    }, 
+    {
+        "hex": "1f556", 
+        "name": "clock7"
+    }, 
+    {
+        "hex": "1f557", 
+        "name": "clock8"
+    }, 
+    {
+        "hex": "1f558", 
+        "name": "clock9"
+    }, 
+    {
+        "hex": "1f559", 
+        "name": "clock10"
+    }, 
+    {
+        "hex": "1f55a", 
+        "name": "clock11"
+    }, 
+    {
+        "hex": "1f55b", 
+        "name": "clock12"
+    }, 
+    {
+        "hex": "1f55c", 
+        "name": "clock130"
+    }, 
+    {
+        "hex": "1f55d", 
+        "name": "clock230"
+    }, 
+    {
+        "hex": "1f55e", 
+        "name": "clock330"
+    }, 
+    {
+        "hex": "1f55f", 
+        "name": "clock430"
+    }, 
+    {
+        "hex": "1f560", 
+        "name": "clock530"
+    }, 
+    {
+        "hex": "1f561", 
+        "name": "clock630"
+    }, 
+    {
+        "hex": "1f562", 
+        "name": "clock730"
+    }, 
+    {
+        "hex": "1f563", 
+        "name": "clock830"
+    }, 
+    {
+        "hex": "1f564", 
+        "name": "clock930"
+    }, 
+    {
+        "hex": "1f565", 
+        "name": "clock1030"
+    }, 
+    {
+        "hex": "1f566", 
+        "name": "clock1130"
+    }, 
+    {
+        "hex": "1f567", 
+        "name": "clock1230"
+    }, 
+    {
+        "hex": "1f56f", 
+        "name": "candle"
+    }, 
+    {
+        "hex": "1f570", 
+        "name": "mantelpiece_clock"
+    }, 
+    {
+        "hex": "1f573", 
+        "name": "hole"
+    }, 
+    {
+        "hex": "1f574", 
+        "name": "man_in_business_suit_levitating"
+    }, 
+    {
+        "hex": "1f575", 
+        "name": "sleuth_or_spy"
+    }, 
+    {
+        "hex": "1f575-1f3fb", 
+        "name": "sleuth_or_spy-skin-tone-2"
+    }, 
+    {
+        "hex": "1f575-1f3fc", 
+        "name": "sleuth_or_spy-skin-tone-3"
+    }, 
+    {
+        "hex": "1f575-1f3fd", 
+        "name": "sleuth_or_spy-skin-tone-4"
+    }, 
+    {
+        "hex": "1f575-1f3fe", 
+        "name": "sleuth_or_spy-skin-tone-5"
+    }, 
+    {
+        "hex": "1f575-1f3ff", 
+        "name": "sleuth_or_spy-skin-tone-6"
+    }, 
+    {
+        "hex": "1f576", 
+        "name": "dark_sunglasses"
+    }, 
+    {
+        "hex": "1f577", 
+        "name": "spider"
+    }, 
+    {
+        "hex": "1f578", 
+        "name": "spider_web"
+    }, 
+    {
+        "hex": "1f579", 
+        "name": "joystick"
+    }, 
+    {
+        "hex": "1f587", 
+        "name": "linked_paperclips"
+    }, 
+    {
+        "hex": "1f58a", 
+        "name": "lower_left_ballpoint_pen"
+    }, 
+    {
+        "hex": "1f58b", 
+        "name": "lower_left_fountain_pen"
+    }, 
+    {
+        "hex": "1f58c", 
+        "name": "lower_left_paintbrush"
+    }, 
+    {
+        "hex": "1f58d", 
+        "name": "lower_left_crayon"
+    }, 
+    {
+        "hex": "1f590", 
+        "name": "raised_hand_with_fingers_splayed"
+    }, 
+    {
+        "hex": "1f590-1f3fc", 
+        "name": "raised_hand_with_fingers_splayed-skin-tone-3"
+    }, 
+    {
+        "hex": "1f590-1f3fb", 
+        "name": "raised_hand_with_fingers_splayed-skin-tone-2"
+    }, 
+    {
+        "hex": "1f590-1f3ff", 
+        "name": "raised_hand_with_fingers_splayed-skin-tone-6"
+    }, 
+    {
+        "hex": "1f590-1f3fe", 
+        "name": "raised_hand_with_fingers_splayed-skin-tone-5"
+    }, 
+    {
+        "hex": "1f590-1f3fd", 
+        "name": "raised_hand_with_fingers_splayed-skin-tone-4"
+    }, 
+    {
+        "hex": "1f595", 
+        "name": "middle_finger"
+    }, 
+    {
+        "hex": "1f595", 
+        "name": "reversed_hand_with_middle_finger_extended"
+    }, 
+    {
+        "hex": "1f595-1f3fb", 
+        "name": "middle_finger-skin-tone-2"
+    }, 
+    {
+        "hex": "1f595-1f3fb", 
+        "name": "reversed_hand_with_middle_finger_extended-skin-tone-2"
+    }, 
+    {
+        "hex": "1f595-1f3fc", 
+        "name": "middle_finger-skin-tone-3"
+    }, 
+    {
+        "hex": "1f595-1f3fc", 
+        "name": "reversed_hand_with_middle_finger_extended-skin-tone-3"
+    }, 
+    {
+        "hex": "1f595-1f3ff", 
+        "name": "middle_finger-skin-tone-6"
+    }, 
+    {
+        "hex": "1f595-1f3ff", 
+        "name": "reversed_hand_with_middle_finger_extended-skin-tone-6"
+    }, 
+    {
+        "hex": "1f595-1f3fd", 
+        "name": "middle_finger-skin-tone-4"
+    }, 
+    {
+        "hex": "1f595-1f3fd", 
+        "name": "reversed_hand_with_middle_finger_extended-skin-tone-4"
+    }, 
+    {
+        "hex": "1f595-1f3fe", 
+        "name": "middle_finger-skin-tone-5"
+    }, 
+    {
+        "hex": "1f595-1f3fe", 
+        "name": "reversed_hand_with_middle_finger_extended-skin-tone-5"
+    }, 
+    {
+        "hex": "1f596", 
+        "name": "spock-hand"
+    }, 
+    {
+        "hex": "1f596-1f3fc", 
+        "name": "spock-hand-skin-tone-3"
+    }, 
+    {
+        "hex": "1f596-1f3fb", 
+        "name": "spock-hand-skin-tone-2"
+    }, 
+    {
+        "hex": "1f596-1f3fe", 
+        "name": "spock-hand-skin-tone-5"
+    }, 
+    {
+        "hex": "1f596-1f3fd", 
+        "name": "spock-hand-skin-tone-4"
+    }, 
+    {
+        "hex": "1f596-1f3ff", 
+        "name": "spock-hand-skin-tone-6"
+    }, 
+    {
+        "hex": "1f5a5", 
+        "name": "desktop_computer"
+    }, 
+    {
+        "hex": "1f5a8", 
+        "name": "printer"
+    }, 
+    {
+        "hex": "1f5b1", 
+        "name": "three_button_mouse"
+    }, 
+    {
+        "hex": "1f5b2", 
+        "name": "trackball"
+    }, 
+    {
+        "hex": "1f5bc", 
+        "name": "frame_with_picture"
+    }, 
+    {
+        "hex": "1f5c2", 
+        "name": "card_index_dividers"
+    }, 
+    {
+        "hex": "1f5c3", 
+        "name": "card_file_box"
+    }, 
+    {
+        "hex": "1f5c4", 
+        "name": "file_cabinet"
+    }, 
+    {
+        "hex": "1f5d1", 
+        "name": "wastebasket"
+    }, 
+    {
+        "hex": "1f5d2", 
+        "name": "spiral_note_pad"
+    }, 
+    {
+        "hex": "1f5d3", 
+        "name": "spiral_calendar_pad"
+    }, 
+    {
+        "hex": "1f5dc", 
+        "name": "compression"
+    }, 
+    {
+        "hex": "1f5dd", 
+        "name": "old_key"
+    }, 
+    {
+        "hex": "1f5de", 
+        "name": "rolled_up_newspaper"
+    }, 
+    {
+        "hex": "1f5e1", 
+        "name": "dagger_knife"
+    }, 
+    {
+        "hex": "1f5e3", 
+        "name": "speaking_head_in_silhouette"
+    }, 
+    {
+        "hex": "1f5e8", 
+        "name": "left_speech_bubble"
+    }, 
+    {
+        "hex": "1f5ef", 
+        "name": "right_anger_bubble"
+    }, 
+    {
+        "hex": "1f5f3", 
+        "name": "ballot_box_with_ballot"
+    }, 
+    {
+        "hex": "1f5fa", 
+        "name": "world_map"
+    }, 
+    {
+        "hex": "1f5fb", 
+        "name": "mount_fuji"
+    }, 
+    {
+        "hex": "1f5fc", 
+        "name": "tokyo_tower"
+    }, 
+    {
+        "hex": "1f5fd", 
+        "name": "statue_of_liberty"
+    }, 
+    {
+        "hex": "1f5fe", 
+        "name": "japan"
+    }, 
+    {
+        "hex": "1f5ff", 
+        "name": "moyai"
+    }, 
+    {
+        "hex": "1f600", 
+        "name": "grinning"
+    }, 
+    {
+        "hex": "1f601", 
+        "name": "grin"
+    }, 
+    {
+        "hex": "1f602", 
+        "name": "joy"
+    }, 
+    {
+        "hex": "1f603", 
+        "name": "smiley"
+    }, 
+    {
+        "hex": "1f604", 
+        "name": "smile"
+    }, 
+    {
+        "hex": "1f605", 
+        "name": "sweat_smile"
+    }, 
+    {
+        "hex": "1f606", 
+        "name": "laughing"
+    }, 
+    {
+        "hex": "1f606", 
+        "name": "satisfied"
+    }, 
+    {
+        "hex": "1f607", 
+        "name": "innocent"
+    }, 
+    {
+        "hex": "1f608", 
+        "name": "smiling_imp"
+    }, 
+    {
+        "hex": "1f609", 
+        "name": "wink"
+    }, 
+    {
+        "hex": "1f60a", 
+        "name": "blush"
+    }, 
+    {
+        "hex": "1f60b", 
+        "name": "yum"
+    }, 
+    {
+        "hex": "1f60c", 
+        "name": "relieved"
+    }, 
+    {
+        "hex": "1f60d", 
+        "name": "heart_eyes"
+    }, 
+    {
+        "hex": "1f60e", 
+        "name": "sunglasses"
+    }, 
+    {
+        "hex": "1f60f", 
+        "name": "smirk"
+    }, 
+    {
+        "hex": "1f610", 
+        "name": "neutral_face"
+    }, 
+    {
+        "hex": "1f611", 
+        "name": "expressionless"
+    }, 
+    {
+        "hex": "1f612", 
+        "name": "unamused"
+    }, 
+    {
+        "hex": "1f613", 
+        "name": "sweat"
+    }, 
+    {
+        "hex": "1f614", 
+        "name": "pensive"
+    }, 
+    {
+        "hex": "1f615", 
+        "name": "confused"
+    }, 
+    {
+        "hex": "1f616", 
+        "name": "confounded"
+    }, 
+    {
+        "hex": "1f617", 
+        "name": "kissing"
+    }, 
+    {
+        "hex": "1f618", 
+        "name": "kissing_heart"
+    }, 
+    {
+        "hex": "1f619", 
+        "name": "kissing_smiling_eyes"
+    }, 
+    {
+        "hex": "1f61a", 
+        "name": "kissing_closed_eyes"
+    }, 
+    {
+        "hex": "1f61b", 
+        "name": "stuck_out_tongue"
+    }, 
+    {
+        "hex": "1f61c", 
+        "name": "stuck_out_tongue_winking_eye"
+    }, 
+    {
+        "hex": "1f61d", 
+        "name": "stuck_out_tongue_closed_eyes"
+    }, 
+    {
+        "hex": "1f61e", 
+        "name": "disappointed"
+    }, 
+    {
+        "hex": "1f61f", 
+        "name": "worried"
+    }, 
+    {
+        "hex": "1f620", 
+        "name": "angry"
+    }, 
+    {
+        "hex": "1f621", 
+        "name": "rage"
+    }, 
+    {
+        "hex": "1f622", 
+        "name": "cry"
+    }, 
+    {
+        "hex": "1f623", 
+        "name": "persevere"
+    }, 
+    {
+        "hex": "1f624", 
+        "name": "triumph"
+    }, 
+    {
+        "hex": "1f625", 
+        "name": "disappointed_relieved"
+    }, 
+    {
+        "hex": "1f626", 
+        "name": "frowning"
+    }, 
+    {
+        "hex": "1f627", 
+        "name": "anguished"
+    }, 
+    {
+        "hex": "1f628", 
+        "name": "fearful"
+    }, 
+    {
+        "hex": "1f629", 
+        "name": "weary"
+    }, 
+    {
+        "hex": "1f62a", 
+        "name": "sleepy"
+    }, 
+    {
+        "hex": "1f62b", 
+        "name": "tired_face"
+    }, 
+    {
+        "hex": "1f62c", 
+        "name": "grimacing"
+    }, 
+    {
+        "hex": "1f62d", 
+        "name": "sob"
+    }, 
+    {
+        "hex": "1f62e", 
+        "name": "open_mouth"
+    }, 
+    {
+        "hex": "1f62f", 
+        "name": "hushed"
+    }, 
+    {
+        "hex": "1f630", 
+        "name": "cold_sweat"
+    }, 
+    {
+        "hex": "1f631", 
+        "name": "scream"
+    }, 
+    {
+        "hex": "1f632", 
+        "name": "astonished"
+    }, 
+    {
+        "hex": "1f633", 
+        "name": "flushed"
+    }, 
+    {
+        "hex": "1f634", 
+        "name": "sleeping"
+    }, 
+    {
+        "hex": "1f635", 
+        "name": "dizzy_face"
+    }, 
+    {
+        "hex": "1f636", 
+        "name": "no_mouth"
+    }, 
+    {
+        "hex": "1f637", 
+        "name": "mask"
+    }, 
+    {
+        "hex": "1f638", 
+        "name": "smile_cat"
+    }, 
+    {
+        "hex": "1f639", 
+        "name": "joy_cat"
+    }, 
+    {
+        "hex": "1f63a", 
+        "name": "smiley_cat"
+    }, 
+    {
+        "hex": "1f63b", 
+        "name": "heart_eyes_cat"
+    }, 
+    {
+        "hex": "1f63c", 
+        "name": "smirk_cat"
+    }, 
+    {
+        "hex": "1f63d", 
+        "name": "kissing_cat"
+    }, 
+    {
+        "hex": "1f63e", 
+        "name": "pouting_cat"
+    }, 
+    {
+        "hex": "1f63f", 
+        "name": "crying_cat_face"
+    }, 
+    {
+        "hex": "1f640", 
+        "name": "scream_cat"
+    }, 
+    {
+        "hex": "1f641", 
+        "name": "slightly_frowning_face"
+    }, 
+    {
+        "hex": "1f642", 
+        "name": "slightly_smiling_face"
+    }, 
+    {
+        "hex": "1f643", 
+        "name": "upside_down_face"
+    }, 
+    {
+        "hex": "1f644", 
+        "name": "face_with_rolling_eyes"
+    }, 
+    {
+        "hex": "1f645", 
+        "name": "no_good"
+    }, 
+    {
+        "hex": "1f645-1f3fb", 
+        "name": "no_good-skin-tone-2"
+    }, 
+    {
+        "hex": "1f645-1f3fc", 
+        "name": "no_good-skin-tone-3"
+    }, 
+    {
+        "hex": "1f645-1f3ff", 
+        "name": "no_good-skin-tone-6"
+    }, 
+    {
+        "hex": "1f645-1f3fd", 
+        "name": "no_good-skin-tone-4"
+    }, 
+    {
+        "hex": "1f645-1f3fe", 
+        "name": "no_good-skin-tone-5"
+    }, 
+    {
+        "hex": "1f646", 
+        "name": "ok_woman"
+    }, 
+    {
+        "hex": "1f646-1f3fc", 
+        "name": "ok_woman-skin-tone-3"
+    }, 
+    {
+        "hex": "1f646-1f3fb", 
+        "name": "ok_woman-skin-tone-2"
+    }, 
+    {
+        "hex": "1f646-1f3fe", 
+        "name": "ok_woman-skin-tone-5"
+    }, 
+    {
+        "hex": "1f646-1f3fd", 
+        "name": "ok_woman-skin-tone-4"
+    }, 
+    {
+        "hex": "1f646-1f3ff", 
+        "name": "ok_woman-skin-tone-6"
+    }, 
+    {
+        "hex": "1f647", 
+        "name": "bow"
+    }, 
+    {
+        "hex": "1f647-1f3fd", 
+        "name": "bow-skin-tone-4"
+    }, 
+    {
+        "hex": "1f647-1f3fe", 
+        "name": "bow-skin-tone-5"
+    }, 
+    {
+        "hex": "1f647-1f3ff", 
+        "name": "bow-skin-tone-6"
+    }, 
+    {
+        "hex": "1f647-1f3fb", 
+        "name": "bow-skin-tone-2"
+    }, 
+    {
+        "hex": "1f647-1f3fc", 
+        "name": "bow-skin-tone-3"
+    }, 
+    {
+        "hex": "1f648", 
+        "name": "see_no_evil"
+    }, 
+    {
+        "hex": "1f649", 
+        "name": "hear_no_evil"
+    }, 
+    {
+        "hex": "1f64a", 
+        "name": "speak_no_evil"
+    }, 
+    {
+        "hex": "1f64b", 
+        "name": "raising_hand"
+    }, 
+    {
+        "hex": "1f64b-1f3fe", 
+        "name": "raising_hand-skin-tone-5"
+    }, 
+    {
+        "hex": "1f64b-1f3fd", 
+        "name": "raising_hand-skin-tone-4"
+    }, 
+    {
+        "hex": "1f64b-1f3ff", 
+        "name": "raising_hand-skin-tone-6"
+    }, 
+    {
+        "hex": "1f64b-1f3fc", 
+        "name": "raising_hand-skin-tone-3"
+    }, 
+    {
+        "hex": "1f64b-1f3fb", 
+        "name": "raising_hand-skin-tone-2"
+    }, 
+    {
+        "hex": "1f64c", 
+        "name": "raised_hands"
+    }, 
+    {
+        "hex": "1f64c-1f3fb", 
+        "name": "raised_hands-skin-tone-2"
+    }, 
+    {
+        "hex": "1f64c-1f3fc", 
+        "name": "raised_hands-skin-tone-3"
+    }, 
+    {
+        "hex": "1f64c-1f3fd", 
+        "name": "raised_hands-skin-tone-4"
+    }, 
+    {
+        "hex": "1f64c-1f3fe", 
+        "name": "raised_hands-skin-tone-5"
+    }, 
+    {
+        "hex": "1f64c-1f3ff", 
+        "name": "raised_hands-skin-tone-6"
+    }, 
+    {
+        "hex": "1f64d", 
+        "name": "person_frowning"
+    }, 
+    {
+        "hex": "1f64d-1f3ff", 
+        "name": "person_frowning-skin-tone-6"
+    }, 
+    {
+        "hex": "1f64d-1f3fe", 
+        "name": "person_frowning-skin-tone-5"
+    }, 
+    {
+        "hex": "1f64d-1f3fd", 
+        "name": "person_frowning-skin-tone-4"
+    }, 
+    {
+        "hex": "1f64d-1f3fc", 
+        "name": "person_frowning-skin-tone-3"
+    }, 
+    {
+        "hex": "1f64d-1f3fb", 
+        "name": "person_frowning-skin-tone-2"
+    }, 
+    {
+        "hex": "1f64e", 
+        "name": "person_with_pouting_face"
+    }, 
+    {
+        "hex": "1f64e-1f3fb", 
+        "name": "person_with_pouting_face-skin-tone-2"
+    }, 
+    {
+        "hex": "1f64e-1f3fc", 
+        "name": "person_with_pouting_face-skin-tone-3"
+    }, 
+    {
+        "hex": "1f64e-1f3ff", 
+        "name": "person_with_pouting_face-skin-tone-6"
+    }, 
+    {
+        "hex": "1f64e-1f3fd", 
+        "name": "person_with_pouting_face-skin-tone-4"
+    }, 
+    {
+        "hex": "1f64e-1f3fe", 
+        "name": "person_with_pouting_face-skin-tone-5"
+    }, 
+    {
+        "hex": "1f64f", 
+        "name": "pray"
+    }, 
+    {
+        "hex": "1f64f-1f3fc", 
+        "name": "pray-skin-tone-3"
+    }, 
+    {
+        "hex": "1f64f-1f3fb", 
+        "name": "pray-skin-tone-2"
+    }, 
+    {
+        "hex": "1f64f-1f3fe", 
+        "name": "pray-skin-tone-5"
+    }, 
+    {
+        "hex": "1f64f-1f3fd", 
+        "name": "pray-skin-tone-4"
+    }, 
+    {
+        "hex": "1f64f-1f3ff", 
+        "name": "pray-skin-tone-6"
+    }, 
+    {
+        "hex": "1f680", 
+        "name": "rocket"
+    }, 
+    {
+        "hex": "1f681", 
+        "name": "helicopter"
+    }, 
+    {
+        "hex": "1f682", 
+        "name": "steam_locomotive"
+    }, 
+    {
+        "hex": "1f683", 
+        "name": "railway_car"
+    }, 
+    {
+        "hex": "1f684", 
+        "name": "bullettrain_side"
+    }, 
+    {
+        "hex": "1f685", 
+        "name": "bullettrain_front"
+    }, 
+    {
+        "hex": "1f686", 
+        "name": "train2"
+    }, 
+    {
+        "hex": "1f687", 
+        "name": "metro"
+    }, 
+    {
+        "hex": "1f688", 
+        "name": "light_rail"
+    }, 
+    {
+        "hex": "1f689", 
+        "name": "station"
+    }, 
+    {
+        "hex": "1f68a", 
+        "name": "tram"
+    }, 
+    {
+        "hex": "1f68b", 
+        "name": "train"
+    }, 
+    {
+        "hex": "1f68c", 
+        "name": "bus"
+    }, 
+    {
+        "hex": "1f68d", 
+        "name": "oncoming_bus"
+    }, 
+    {
+        "hex": "1f68e", 
+        "name": "trolleybus"
+    }, 
+    {
+        "hex": "1f68f", 
+        "name": "busstop"
+    }, 
+    {
+        "hex": "1f690", 
+        "name": "minibus"
+    }, 
+    {
+        "hex": "1f691", 
+        "name": "ambulance"
+    }, 
+    {
+        "hex": "1f692", 
+        "name": "fire_engine"
+    }, 
+    {
+        "hex": "1f693", 
+        "name": "police_car"
+    }, 
+    {
+        "hex": "1f694", 
+        "name": "oncoming_police_car"
+    }, 
+    {
+        "hex": "1f695", 
+        "name": "taxi"
+    }, 
+    {
+        "hex": "1f696", 
+        "name": "oncoming_taxi"
+    }, 
+    {
+        "hex": "1f697", 
+        "name": "car"
+    }, 
+    {
+        "hex": "1f697", 
+        "name": "red_car"
+    }, 
+    {
+        "hex": "1f698", 
+        "name": "oncoming_automobile"
+    }, 
+    {
+        "hex": "1f699", 
+        "name": "blue_car"
+    }, 
+    {
+        "hex": "1f69a", 
+        "name": "truck"
+    }, 
+    {
+        "hex": "1f69b", 
+        "name": "articulated_lorry"
+    }, 
+    {
+        "hex": "1f69c", 
+        "name": "tractor"
+    }, 
+    {
+        "hex": "1f69d", 
+        "name": "monorail"
+    }, 
+    {
+        "hex": "1f69e", 
+        "name": "mountain_railway"
+    }, 
+    {
+        "hex": "1f69f", 
+        "name": "suspension_railway"
+    }, 
+    {
+        "hex": "1f6a0", 
+        "name": "mountain_cableway"
+    }, 
+    {
+        "hex": "1f6a1", 
+        "name": "aerial_tramway"
+    }, 
+    {
+        "hex": "1f6a2", 
+        "name": "ship"
+    }, 
+    {
+        "hex": "1f6a3", 
+        "name": "rowboat"
+    }, 
+    {
+        "hex": "1f6a3-1f3fc", 
+        "name": "rowboat-skin-tone-3"
+    }, 
+    {
+        "hex": "1f6a3-1f3fb", 
+        "name": "rowboat-skin-tone-2"
+    }, 
+    {
+        "hex": "1f6a3-1f3ff", 
+        "name": "rowboat-skin-tone-6"
+    }, 
+    {
+        "hex": "1f6a3-1f3fe", 
+        "name": "rowboat-skin-tone-5"
+    }, 
+    {
+        "hex": "1f6a3-1f3fd", 
+        "name": "rowboat-skin-tone-4"
+    }, 
+    {
+        "hex": "1f6a4", 
+        "name": "speedboat"
+    }, 
+    {
+        "hex": "1f6a5", 
+        "name": "traffic_light"
+    }, 
+    {
+        "hex": "1f6a6", 
+        "name": "vertical_traffic_light"
+    }, 
+    {
+        "hex": "1f6a7", 
+        "name": "construction"
+    }, 
+    {
+        "hex": "1f6a8", 
+        "name": "rotating_light"
+    }, 
+    {
+        "hex": "1f6a9", 
+        "name": "triangular_flag_on_post"
+    }, 
+    {
+        "hex": "1f6aa", 
+        "name": "door"
+    }, 
+    {
+        "hex": "1f6ab", 
+        "name": "no_entry_sign"
+    }, 
+    {
+        "hex": "1f6ac", 
+        "name": "smoking"
+    }, 
+    {
+        "hex": "1f6ad", 
+        "name": "no_smoking"
+    }, 
+    {
+        "hex": "1f6ae", 
+        "name": "put_litter_in_its_place"
+    }, 
+    {
+        "hex": "1f6af", 
+        "name": "do_not_litter"
+    }, 
+    {
+        "hex": "1f6b0", 
+        "name": "potable_water"
+    }, 
+    {
+        "hex": "1f6b1", 
+        "name": "non-potable_water"
+    }, 
+    {
+        "hex": "1f6b2", 
+        "name": "bike"
+    }, 
+    {
+        "hex": "1f6b3", 
+        "name": "no_bicycles"
+    }, 
+    {
+        "hex": "1f6b4", 
+        "name": "bicyclist"
+    }, 
+    {
+        "hex": "1f6b4-1f3fe", 
+        "name": "bicyclist-skin-tone-5"
+    }, 
+    {
+        "hex": "1f6b4-1f3fd", 
+        "name": "bicyclist-skin-tone-4"
+    }, 
+    {
+        "hex": "1f6b4-1f3ff", 
+        "name": "bicyclist-skin-tone-6"
+    }, 
+    {
+        "hex": "1f6b4-1f3fc", 
+        "name": "bicyclist-skin-tone-3"
+    }, 
+    {
+        "hex": "1f6b4-1f3fb", 
+        "name": "bicyclist-skin-tone-2"
+    }, 
+    {
+        "hex": "1f6b5", 
+        "name": "mountain_bicyclist"
+    }, 
+    {
+        "hex": "1f6b5-1f3fb", 
+        "name": "mountain_bicyclist-skin-tone-2"
+    }, 
+    {
+        "hex": "1f6b5-1f3fc", 
+        "name": "mountain_bicyclist-skin-tone-3"
+    }, 
+    {
+        "hex": "1f6b5-1f3fd", 
+        "name": "mountain_bicyclist-skin-tone-4"
+    }, 
+    {
+        "hex": "1f6b5-1f3fe", 
+        "name": "mountain_bicyclist-skin-tone-5"
+    }, 
+    {
+        "hex": "1f6b5-1f3ff", 
+        "name": "mountain_bicyclist-skin-tone-6"
+    }, 
+    {
+        "hex": "1f6b6", 
+        "name": "walking"
+    }, 
+    {
+        "hex": "1f6b6-1f3fc", 
+        "name": "walking-skin-tone-3"
+    }, 
+    {
+        "hex": "1f6b6-1f3fb", 
+        "name": "walking-skin-tone-2"
+    }, 
+    {
+        "hex": "1f6b6-1f3ff", 
+        "name": "walking-skin-tone-6"
+    }, 
+    {
+        "hex": "1f6b6-1f3fe", 
+        "name": "walking-skin-tone-5"
+    }, 
+    {
+        "hex": "1f6b6-1f3fd", 
+        "name": "walking-skin-tone-4"
+    }, 
+    {
+        "hex": "1f6b7", 
+        "name": "no_pedestrians"
+    }, 
+    {
+        "hex": "1f6b8", 
+        "name": "children_crossing"
+    }, 
+    {
+        "hex": "1f6b9", 
+        "name": "mens"
+    }, 
+    {
+        "hex": "1f6ba", 
+        "name": "womens"
+    }, 
+    {
+        "hex": "1f6bb", 
+        "name": "restroom"
+    }, 
+    {
+        "hex": "1f6bc", 
+        "name": "baby_symbol"
+    }, 
+    {
+        "hex": "1f6bd", 
+        "name": "toilet"
+    }, 
+    {
+        "hex": "1f6be", 
+        "name": "wc"
+    }, 
+    {
+        "hex": "1f6bf", 
+        "name": "shower"
+    }, 
+    {
+        "hex": "1f6c0", 
+        "name": "bath"
+    }, 
+    {
+        "hex": "1f6c0-1f3fb", 
+        "name": "bath-skin-tone-2"
+    }, 
+    {
+        "hex": "1f6c0-1f3fc", 
+        "name": "bath-skin-tone-3"
+    }, 
+    {
+        "hex": "1f6c0-1f3ff", 
+        "name": "bath-skin-tone-6"
+    }, 
+    {
+        "hex": "1f6c0-1f3fd", 
+        "name": "bath-skin-tone-4"
+    }, 
+    {
+        "hex": "1f6c0-1f3fe", 
+        "name": "bath-skin-tone-5"
+    }, 
+    {
+        "hex": "1f6c1", 
+        "name": "bathtub"
+    }, 
+    {
+        "hex": "1f6c2", 
+        "name": "passport_control"
+    }, 
+    {
+        "hex": "1f6c3", 
+        "name": "customs"
+    }, 
+    {
+        "hex": "1f6c4", 
+        "name": "baggage_claim"
+    }, 
+    {
+        "hex": "1f6c5", 
+        "name": "left_luggage"
+    }, 
+    {
+        "hex": "1f6cb", 
+        "name": "couch_and_lamp"
+    }, 
+    {
+        "hex": "1f6cc", 
+        "name": "sleeping_accommodation"
+    }, 
+    {
+        "hex": "1f6cd", 
+        "name": "shopping_bags"
+    }, 
+    {
+        "hex": "1f6ce", 
+        "name": "bellhop_bell"
+    }, 
+    {
+        "hex": "1f6cf", 
+        "name": "bed"
+    }, 
+    {
+        "hex": "1f6d0", 
+        "name": "place_of_worship"
+    }, 
+    {
+        "hex": "1f6e0", 
+        "name": "hammer_and_wrench"
+    }, 
+    {
+        "hex": "1f6e1", 
+        "name": "shield"
+    }, 
+    {
+        "hex": "1f6e2", 
+        "name": "oil_drum"
+    }, 
+    {
+        "hex": "1f6e3", 
+        "name": "motorway"
+    }, 
+    {
+        "hex": "1f6e4", 
+        "name": "railway_track"
+    }, 
+    {
+        "hex": "1f6e5", 
+        "name": "motor_boat"
+    }, 
+    {
+        "hex": "1f6e9", 
+        "name": "small_airplane"
+    }, 
+    {
+        "hex": "1f6eb", 
+        "name": "airplane_departure"
+    }, 
+    {
+        "hex": "1f6ec", 
+        "name": "airplane_arriving"
+    }, 
+    {
+        "hex": "1f6f0", 
+        "name": "satellite"
+    }, 
+    {
+        "hex": "1f6f3", 
+        "name": "passenger_ship"
+    }, 
+    {
+        "hex": "1f910", 
+        "name": "zipper_mouth_face"
+    }, 
+    {
+        "hex": "1f911", 
+        "name": "money_mouth_face"
+    }, 
+    {
+        "hex": "1f912", 
+        "name": "face_with_thermometer"
+    }, 
+    {
+        "hex": "1f913", 
+        "name": "nerd_face"
+    }, 
+    {
+        "hex": "1f914", 
+        "name": "thinking_face"
+    }, 
+    {
+        "hex": "1f915", 
+        "name": "face_with_head_bandage"
+    }, 
+    {
+        "hex": "1f916", 
+        "name": "robot_face"
+    }, 
+    {
+        "hex": "1f917", 
+        "name": "hugging_face"
+    }, 
+    {
+        "hex": "1f918", 
+        "name": "the_horns"
+    }, 
+    {
+        "hex": "1f918", 
+        "name": "sign_of_the_horns"
+    }, 
+    {
+        "hex": "1f918-1f3ff", 
+        "name": "the_horns-skin-tone-6"
+    }, 
+    {
+        "hex": "1f918-1f3ff", 
+        "name": "sign_of_the_horns-skin-tone-6"
+    }, 
+    {
+        "hex": "1f918-1f3fe", 
+        "name": "the_horns-skin-tone-5"
+    }, 
+    {
+        "hex": "1f918-1f3fe", 
+        "name": "sign_of_the_horns-skin-tone-5"
+    }, 
+    {
+        "hex": "1f918-1f3fd", 
+        "name": "the_horns-skin-tone-4"
+    }, 
+    {
+        "hex": "1f918-1f3fd", 
+        "name": "sign_of_the_horns-skin-tone-4"
+    }, 
+    {
+        "hex": "1f918-1f3fc", 
+        "name": "the_horns-skin-tone-3"
+    }, 
+    {
+        "hex": "1f918-1f3fc", 
+        "name": "sign_of_the_horns-skin-tone-3"
+    }, 
+    {
+        "hex": "1f918-1f3fb", 
+        "name": "the_horns-skin-tone-2"
+    }, 
+    {
+        "hex": "1f918-1f3fb", 
+        "name": "sign_of_the_horns-skin-tone-2"
+    }, 
+    {
+        "hex": "1f980", 
+        "name": "crab"
+    }, 
+    {
+        "hex": "1f981", 
+        "name": "lion_face"
+    }, 
+    {
+        "hex": "1f982", 
+        "name": "scorpion"
+    }, 
+    {
+        "hex": "1f983", 
+        "name": "turkey"
+    }, 
+    {
+        "hex": "1f984", 
+        "name": "unicorn_face"
+    }, 
+    {
+        "hex": "1f9c0", 
+        "name": "cheese_wedge"
+    }, 
+    {
+        "hex": "0023-20e3", 
+        "name": "hash"
+    }, 
+    {
+        "hex": "002a-20e3", 
+        "name": "keycap_star"
+    }, 
+    {
+        "hex": "0030-20e3", 
+        "name": "zero"
+    }, 
+    {
+        "hex": "0031-20e3", 
+        "name": "one"
+    }, 
+    {
+        "hex": "0032-20e3", 
+        "name": "two"
+    }, 
+    {
+        "hex": "0033-20e3", 
+        "name": "three"
+    }, 
+    {
+        "hex": "0034-20e3", 
+        "name": "four"
+    }, 
+    {
+        "hex": "0035-20e3", 
+        "name": "five"
+    }, 
+    {
+        "hex": "0036-20e3", 
+        "name": "six"
+    }, 
+    {
+        "hex": "0037-20e3", 
+        "name": "seven"
+    }, 
+    {
+        "hex": "0038-20e3", 
+        "name": "eight"
+    }, 
+    {
+        "hex": "0039-20e3", 
+        "name": "nine"
+    }, 
+    {
+        "hex": "1f1e6-1f1e8", 
+        "name": "flag-ac"
+    }, 
+    {
+        "hex": "1f1e6-1f1e9", 
+        "name": "flag-ad"
+    }, 
+    {
+        "hex": "1f1e6-1f1ea", 
+        "name": "flag-ae"
+    }, 
+    {
+        "hex": "1f1e6-1f1eb", 
+        "name": "flag-af"
+    }, 
+    {
+        "hex": "1f1e6-1f1ec", 
+        "name": "flag-ag"
+    }, 
+    {
+        "hex": "1f1e6-1f1ee", 
+        "name": "flag-ai"
+    }, 
+    {
+        "hex": "1f1e6-1f1f1", 
+        "name": "flag-al"
+    }, 
+    {
+        "hex": "1f1e6-1f1f2", 
+        "name": "flag-am"
+    }, 
+    {
+        "hex": "1f1e6-1f1f4", 
+        "name": "flag-ao"
+    }, 
+    {
+        "hex": "1f1e6-1f1f6", 
+        "name": "flag-aq"
+    }, 
+    {
+        "hex": "1f1e6-1f1f7", 
+        "name": "flag-ar"
+    }, 
+    {
+        "hex": "1f1e6-1f1f8", 
+        "name": "flag-as"
+    }, 
+    {
+        "hex": "1f1e6-1f1f9", 
+        "name": "flag-at"
+    }, 
+    {
+        "hex": "1f1e6-1f1fa", 
+        "name": "flag-au"
+    }, 
+    {
+        "hex": "1f1e6-1f1fc", 
+        "name": "flag-aw"
+    }, 
+    {
+        "hex": "1f1e6-1f1fd", 
+        "name": "flag-ax"
+    }, 
+    {
+        "hex": "1f1e6-1f1ff", 
+        "name": "flag-az"
+    }, 
+    {
+        "hex": "1f1e7-1f1e6", 
+        "name": "flag-ba"
+    }, 
+    {
+        "hex": "1f1e7-1f1e7", 
+        "name": "flag-bb"
+    }, 
+    {
+        "hex": "1f1e7-1f1e9", 
+        "name": "flag-bd"
+    }, 
+    {
+        "hex": "1f1e7-1f1ea", 
+        "name": "flag-be"
+    }, 
+    {
+        "hex": "1f1e7-1f1eb", 
+        "name": "flag-bf"
+    }, 
+    {
+        "hex": "1f1e7-1f1ec", 
+        "name": "flag-bg"
+    }, 
+    {
+        "hex": "1f1e7-1f1ed", 
+        "name": "flag-bh"
+    }, 
+    {
+        "hex": "1f1e7-1f1ee", 
+        "name": "flag-bi"
+    }, 
+    {
+        "hex": "1f1e7-1f1ef", 
+        "name": "flag-bj"
+    }, 
+    {
+        "hex": "1f1e7-1f1f1", 
+        "name": "flag-bl"
+    }, 
+    {
+        "hex": "1f1e7-1f1f2", 
+        "name": "flag-bm"
+    }, 
+    {
+        "hex": "1f1e7-1f1f3", 
+        "name": "flag-bn"
+    }, 
+    {
+        "hex": "1f1e7-1f1f4", 
+        "name": "flag-bo"
+    }, 
+    {
+        "hex": "1f1e7-1f1f6", 
+        "name": "flag-bq"
+    }, 
+    {
+        "hex": "1f1e7-1f1f7", 
+        "name": "flag-br"
+    }, 
+    {
+        "hex": "1f1e7-1f1f8", 
+        "name": "flag-bs"
+    }, 
+    {
+        "hex": "1f1e7-1f1f9", 
+        "name": "flag-bt"
+    }, 
+    {
+        "hex": "1f1e7-1f1fb", 
+        "name": "flag-bv"
+    }, 
+    {
+        "hex": "1f1e7-1f1fc", 
+        "name": "flag-bw"
+    }, 
+    {
+        "hex": "1f1e7-1f1fe", 
+        "name": "flag-by"
+    }, 
+    {
+        "hex": "1f1e7-1f1ff", 
+        "name": "flag-bz"
+    }, 
+    {
+        "hex": "1f1e8-1f1e6", 
+        "name": "flag-ca"
+    }, 
+    {
+        "hex": "1f1e8-1f1e8", 
+        "name": "flag-cc"
+    }, 
+    {
+        "hex": "1f1e8-1f1e9", 
+        "name": "flag-cd"
+    }, 
+    {
+        "hex": "1f1e8-1f1eb", 
+        "name": "flag-cf"
+    }, 
+    {
+        "hex": "1f1e8-1f1ec", 
+        "name": "flag-cg"
+    }, 
+    {
+        "hex": "1f1e8-1f1ed", 
+        "name": "flag-ch"
+    }, 
+    {
+        "hex": "1f1e8-1f1ee", 
+        "name": "flag-ci"
+    }, 
+    {
+        "hex": "1f1e8-1f1f0", 
+        "name": "flag-ck"
+    }, 
+    {
+        "hex": "1f1e8-1f1f1", 
+        "name": "flag-cl"
+    }, 
+    {
+        "hex": "1f1e8-1f1f2", 
+        "name": "flag-cm"
+    }, 
+    {
+        "hex": "1f1e8-1f1f3", 
+        "name": "flag-cn"
+    }, 
+    {
+        "hex": "1f1e8-1f1f3", 
+        "name": "cn"
+    }, 
+    {
+        "hex": "1f1e8-1f1f4", 
+        "name": "flag-co"
+    }, 
+    {
+        "hex": "1f1e8-1f1f5", 
+        "name": "flag-cp"
+    }, 
+    {
+        "hex": "1f1e8-1f1f7", 
+        "name": "flag-cr"
+    }, 
+    {
+        "hex": "1f1e8-1f1fa", 
+        "name": "flag-cu"
+    }, 
+    {
+        "hex": "1f1e8-1f1fb", 
+        "name": "flag-cv"
+    }, 
+    {
+        "hex": "1f1e8-1f1fc", 
+        "name": "flag-cw"
+    }, 
+    {
+        "hex": "1f1e8-1f1fd", 
+        "name": "flag-cx"
+    }, 
+    {
+        "hex": "1f1e8-1f1fe", 
+        "name": "flag-cy"
+    }, 
+    {
+        "hex": "1f1e8-1f1ff", 
+        "name": "flag-cz"
+    }, 
+    {
+        "hex": "1f1e9-1f1ea", 
+        "name": "flag-de"
+    }, 
+    {
+        "hex": "1f1e9-1f1ea", 
+        "name": "de"
+    }, 
+    {
+        "hex": "1f1e9-1f1ec", 
+        "name": "flag-dg"
+    }, 
+    {
+        "hex": "1f1e9-1f1ef", 
+        "name": "flag-dj"
+    }, 
+    {
+        "hex": "1f1e9-1f1f0", 
+        "name": "flag-dk"
+    }, 
+    {
+        "hex": "1f1e9-1f1f2", 
+        "name": "flag-dm"
+    }, 
+    {
+        "hex": "1f1e9-1f1f4", 
+        "name": "flag-do"
+    }, 
+    {
+        "hex": "1f1e9-1f1ff", 
+        "name": "flag-dz"
+    }, 
+    {
+        "hex": "1f1ea-1f1e6", 
+        "name": "flag-ea"
+    }, 
+    {
+        "hex": "1f1ea-1f1e8", 
+        "name": "flag-ec"
+    }, 
+    {
+        "hex": "1f1ea-1f1ea", 
+        "name": "flag-ee"
+    }, 
+    {
+        "hex": "1f1ea-1f1ec", 
+        "name": "flag-eg"
+    }, 
+    {
+        "hex": "1f1ea-1f1ed", 
+        "name": "flag-eh"
+    }, 
+    {
+        "hex": "1f1ea-1f1f7", 
+        "name": "flag-er"
+    }, 
+    {
+        "hex": "1f1ea-1f1f8", 
+        "name": "flag-es"
+    }, 
+    {
+        "hex": "1f1ea-1f1f8", 
+        "name": "es"
+    }, 
+    {
+        "hex": "1f1ea-1f1f9", 
+        "name": "flag-et"
+    }, 
+    {
+        "hex": "1f1ea-1f1fa", 
+        "name": "flag-eu"
+    }, 
+    {
+        "hex": "1f1eb-1f1ee", 
+        "name": "flag-fi"
+    }, 
+    {
+        "hex": "1f1eb-1f1ef", 
+        "name": "flag-fj"
+    }, 
+    {
+        "hex": "1f1eb-1f1f0", 
+        "name": "flag-fk"
+    }, 
+    {
+        "hex": "1f1eb-1f1f2", 
+        "name": "flag-fm"
+    }, 
+    {
+        "hex": "1f1eb-1f1f4", 
+        "name": "flag-fo"
+    }, 
+    {
+        "hex": "1f1eb-1f1f7", 
+        "name": "flag-fr"
+    }, 
+    {
+        "hex": "1f1eb-1f1f7", 
+        "name": "fr"
+    }, 
+    {
+        "hex": "1f1ec-1f1e6", 
+        "name": "flag-ga"
+    }, 
+    {
+        "hex": "1f1ec-1f1e7", 
+        "name": "flag-gb"
+    }, 
+    {
+        "hex": "1f1ec-1f1e7", 
+        "name": "gb"
+    }, 
+    {
+        "hex": "1f1ec-1f1e7", 
+        "name": "uk"
+    }, 
+    {
+        "hex": "1f1ec-1f1e9", 
+        "name": "flag-gd"
+    }, 
+    {
+        "hex": "1f1ec-1f1ea", 
+        "name": "flag-ge"
+    }, 
+    {
+        "hex": "1f1ec-1f1eb", 
+        "name": "flag-gf"
+    }, 
+    {
+        "hex": "1f1ec-1f1ec", 
+        "name": "flag-gg"
+    }, 
+    {
+        "hex": "1f1ec-1f1ed", 
+        "name": "flag-gh"
+    }, 
+    {
+        "hex": "1f1ec-1f1ee", 
+        "name": "flag-gi"
+    }, 
+    {
+        "hex": "1f1ec-1f1f1", 
+        "name": "flag-gl"
+    }, 
+    {
+        "hex": "1f1ec-1f1f2", 
+        "name": "flag-gm"
+    }, 
+    {
+        "hex": "1f1ec-1f1f3", 
+        "name": "flag-gn"
+    }, 
+    {
+        "hex": "1f1ec-1f1f5", 
+        "name": "flag-gp"
+    }, 
+    {
+        "hex": "1f1ec-1f1f6", 
+        "name": "flag-gq"
+    }, 
+    {
+        "hex": "1f1ec-1f1f7", 
+        "name": "flag-gr"
+    }, 
+    {
+        "hex": "1f1ec-1f1f8", 
+        "name": "flag-gs"
+    }, 
+    {
+        "hex": "1f1ec-1f1f9", 
+        "name": "flag-gt"
+    }, 
+    {
+        "hex": "1f1ec-1f1fa", 
+        "name": "flag-gu"
+    }, 
+    {
+        "hex": "1f1ec-1f1fc", 
+        "name": "flag-gw"
+    }, 
+    {
+        "hex": "1f1ec-1f1fe", 
+        "name": "flag-gy"
+    }, 
+    {
+        "hex": "1f1ed-1f1f0", 
+        "name": "flag-hk"
+    }, 
+    {
+        "hex": "1f1ed-1f1f2", 
+        "name": "flag-hm"
+    }, 
+    {
+        "hex": "1f1ed-1f1f3", 
+        "name": "flag-hn"
+    }, 
+    {
+        "hex": "1f1ed-1f1f7", 
+        "name": "flag-hr"
+    }, 
+    {
+        "hex": "1f1ed-1f1f9", 
+        "name": "flag-ht"
+    }, 
+    {
+        "hex": "1f1ed-1f1fa", 
+        "name": "flag-hu"
+    }, 
+    {
+        "hex": "1f1ee-1f1e8", 
+        "name": "flag-ic"
+    }, 
+    {
+        "hex": "1f1ee-1f1e9", 
+        "name": "flag-id"
+    }, 
+    {
+        "hex": "1f1ee-1f1ea", 
+        "name": "flag-ie"
+    }, 
+    {
+        "hex": "1f1ee-1f1f1", 
+        "name": "flag-il"
+    }, 
+    {
+        "hex": "1f1ee-1f1f2", 
+        "name": "flag-im"
+    }, 
+    {
+        "hex": "1f1ee-1f1f3", 
+        "name": "flag-in"
+    }, 
+    {
+        "hex": "1f1ee-1f1f4", 
+        "name": "flag-io"
+    }, 
+    {
+        "hex": "1f1ee-1f1f6", 
+        "name": "flag-iq"
+    }, 
+    {
+        "hex": "1f1ee-1f1f7", 
+        "name": "flag-ir"
+    }, 
+    {
+        "hex": "1f1ee-1f1f8", 
+        "name": "flag-is"
+    }, 
+    {
+        "hex": "1f1ee-1f1f9", 
+        "name": "flag-it"
+    }, 
+    {
+        "hex": "1f1ee-1f1f9", 
+        "name": "it"
+    }, 
+    {
+        "hex": "1f1ef-1f1ea", 
+        "name": "flag-je"
+    }, 
+    {
+        "hex": "1f1ef-1f1f2", 
+        "name": "flag-jm"
+    }, 
+    {
+        "hex": "1f1ef-1f1f4", 
+        "name": "flag-jo"
+    }, 
+    {
+        "hex": "1f1ef-1f1f5", 
+        "name": "flag-jp"
+    }, 
+    {
+        "hex": "1f1ef-1f1f5", 
+        "name": "jp"
+    }, 
+    {
+        "hex": "1f1f0-1f1ea", 
+        "name": "flag-ke"
+    }, 
+    {
+        "hex": "1f1f0-1f1ec", 
+        "name": "flag-kg"
+    }, 
+    {
+        "hex": "1f1f0-1f1ed", 
+        "name": "flag-kh"
+    }, 
+    {
+        "hex": "1f1f0-1f1ee", 
+        "name": "flag-ki"
+    }, 
+    {
+        "hex": "1f1f0-1f1f2", 
+        "name": "flag-km"
+    }, 
+    {
+        "hex": "1f1f0-1f1f3", 
+        "name": "flag-kn"
+    }, 
+    {
+        "hex": "1f1f0-1f1f5", 
+        "name": "flag-kp"
+    }, 
+    {
+        "hex": "1f1f0-1f1f7", 
+        "name": "flag-kr"
+    }, 
+    {
+        "hex": "1f1f0-1f1f7", 
+        "name": "kr"
+    }, 
+    {
+        "hex": "1f1f0-1f1fc", 
+        "name": "flag-kw"
+    }, 
+    {
+        "hex": "1f1f0-1f1fe", 
+        "name": "flag-ky"
+    }, 
+    {
+        "hex": "1f1f0-1f1ff", 
+        "name": "flag-kz"
+    }, 
+    {
+        "hex": "1f1f1-1f1e6", 
+        "name": "flag-la"
+    }, 
+    {
+        "hex": "1f1f1-1f1e7", 
+        "name": "flag-lb"
+    }, 
+    {
+        "hex": "1f1f1-1f1e8", 
+        "name": "flag-lc"
+    }, 
+    {
+        "hex": "1f1f1-1f1ee", 
+        "name": "flag-li"
+    }, 
+    {
+        "hex": "1f1f1-1f1f0", 
+        "name": "flag-lk"
+    }, 
+    {
+        "hex": "1f1f1-1f1f7", 
+        "name": "flag-lr"
+    }, 
+    {
+        "hex": "1f1f1-1f1f8", 
+        "name": "flag-ls"
+    }, 
+    {
+        "hex": "1f1f1-1f1f9", 
+        "name": "flag-lt"
+    }, 
+    {
+        "hex": "1f1f1-1f1fa", 
+        "name": "flag-lu"
+    }, 
+    {
+        "hex": "1f1f1-1f1fb", 
+        "name": "flag-lv"
+    }, 
+    {
+        "hex": "1f1f1-1f1fe", 
+        "name": "flag-ly"
+    }, 
+    {
+        "hex": "1f1f2-1f1e6", 
+        "name": "flag-ma"
+    }, 
+    {
+        "hex": "1f1f2-1f1e8", 
+        "name": "flag-mc"
+    }, 
+    {
+        "hex": "1f1f2-1f1e9", 
+        "name": "flag-md"
+    }, 
+    {
+        "hex": "1f1f2-1f1ea", 
+        "name": "flag-me"
+    }, 
+    {
+        "hex": "1f1f2-1f1eb", 
+        "name": "flag-mf"
+    }, 
+    {
+        "hex": "1f1f2-1f1ec", 
+        "name": "flag-mg"
+    }, 
+    {
+        "hex": "1f1f2-1f1ed", 
+        "name": "flag-mh"
+    }, 
+    {
+        "hex": "1f1f2-1f1f0", 
+        "name": "flag-mk"
+    }, 
+    {
+        "hex": "1f1f2-1f1f1", 
+        "name": "flag-ml"
+    }, 
+    {
+        "hex": "1f1f2-1f1f2", 
+        "name": "flag-mm"
+    }, 
+    {
+        "hex": "1f1f2-1f1f3", 
+        "name": "flag-mn"
+    }, 
+    {
+        "hex": "1f1f2-1f1f4", 
+        "name": "flag-mo"
+    }, 
+    {
+        "hex": "1f1f2-1f1f5", 
+        "name": "flag-mp"
+    }, 
+    {
+        "hex": "1f1f2-1f1f6", 
+        "name": "flag-mq"
+    }, 
+    {
+        "hex": "1f1f2-1f1f7", 
+        "name": "flag-mr"
+    }, 
+    {
+        "hex": "1f1f2-1f1f8", 
+        "name": "flag-ms"
+    }, 
+    {
+        "hex": "1f1f2-1f1f9", 
+        "name": "flag-mt"
+    }, 
+    {
+        "hex": "1f1f2-1f1fa", 
+        "name": "flag-mu"
+    }, 
+    {
+        "hex": "1f1f2-1f1fb", 
+        "name": "flag-mv"
+    }, 
+    {
+        "hex": "1f1f2-1f1fc", 
+        "name": "flag-mw"
+    }, 
+    {
+        "hex": "1f1f2-1f1fd", 
+        "name": "flag-mx"
+    }, 
+    {
+        "hex": "1f1f2-1f1fe", 
+        "name": "flag-my"
+    }, 
+    {
+        "hex": "1f1f2-1f1ff", 
+        "name": "flag-mz"
+    }, 
+    {
+        "hex": "1f1f3-1f1e6", 
+        "name": "flag-na"
+    }, 
+    {
+        "hex": "1f1f3-1f1e8", 
+        "name": "flag-nc"
+    }, 
+    {
+        "hex": "1f1f3-1f1ea", 
+        "name": "flag-ne"
+    }, 
+    {
+        "hex": "1f1f3-1f1eb", 
+        "name": "flag-nf"
+    }, 
+    {
+        "hex": "1f1f3-1f1ec", 
+        "name": "flag-ng"
+    }, 
+    {
+        "hex": "1f1f3-1f1ee", 
+        "name": "flag-ni"
+    }, 
+    {
+        "hex": "1f1f3-1f1f1", 
+        "name": "flag-nl"
+    }, 
+    {
+        "hex": "1f1f3-1f1f4", 
+        "name": "flag-no"
+    }, 
+    {
+        "hex": "1f1f3-1f1f5", 
+        "name": "flag-np"
+    }, 
+    {
+        "hex": "1f1f3-1f1f7", 
+        "name": "flag-nr"
+    }, 
+    {
+        "hex": "1f1f3-1f1fa", 
+        "name": "flag-nu"
+    }, 
+    {
+        "hex": "1f1f3-1f1ff", 
+        "name": "flag-nz"
+    }, 
+    {
+        "hex": "1f1f4-1f1f2", 
+        "name": "flag-om"
+    }, 
+    {
+        "hex": "1f1f5-1f1e6", 
+        "name": "flag-pa"
+    }, 
+    {
+        "hex": "1f1f5-1f1ea", 
+        "name": "flag-pe"
+    }, 
+    {
+        "hex": "1f1f5-1f1eb", 
+        "name": "flag-pf"
+    }, 
+    {
+        "hex": "1f1f5-1f1ec", 
+        "name": "flag-pg"
+    }, 
+    {
+        "hex": "1f1f5-1f1ed", 
+        "name": "flag-ph"
+    }, 
+    {
+        "hex": "1f1f5-1f1f0", 
+        "name": "flag-pk"
+    }, 
+    {
+        "hex": "1f1f5-1f1f1", 
+        "name": "flag-pl"
+    }, 
+    {
+        "hex": "1f1f5-1f1f2", 
+        "name": "flag-pm"
+    }, 
+    {
+        "hex": "1f1f5-1f1f3", 
+        "name": "flag-pn"
+    }, 
+    {
+        "hex": "1f1f5-1f1f7", 
+        "name": "flag-pr"
+    }, 
+    {
+        "hex": "1f1f5-1f1f8", 
+        "name": "flag-ps"
+    }, 
+    {
+        "hex": "1f1f5-1f1f9", 
+        "name": "flag-pt"
+    }, 
+    {
+        "hex": "1f1f5-1f1fc", 
+        "name": "flag-pw"
+    }, 
+    {
+        "hex": "1f1f5-1f1fe", 
+        "name": "flag-py"
+    }, 
+    {
+        "hex": "1f1f6-1f1e6", 
+        "name": "flag-qa"
+    }, 
+    {
+        "hex": "1f1f7-1f1ea", 
+        "name": "flag-re"
+    }, 
+    {
+        "hex": "1f1f7-1f1f4", 
+        "name": "flag-ro"
+    }, 
+    {
+        "hex": "1f1f7-1f1f8", 
+        "name": "flag-rs"
+    }, 
+    {
+        "hex": "1f1f7-1f1fa", 
+        "name": "flag-ru"
+    }, 
+    {
+        "hex": "1f1f7-1f1fa", 
+        "name": "ru"
+    }, 
+    {
+        "hex": "1f1f7-1f1fc", 
+        "name": "flag-rw"
+    }, 
+    {
+        "hex": "1f1f8-1f1e6", 
+        "name": "flag-sa"
+    }, 
+    {
+        "hex": "1f1f8-1f1e7", 
+        "name": "flag-sb"
+    }, 
+    {
+        "hex": "1f1f8-1f1e8", 
+        "name": "flag-sc"
+    }, 
+    {
+        "hex": "1f1f8-1f1e9", 
+        "name": "flag-sd"
+    }, 
+    {
+        "hex": "1f1f8-1f1ea", 
+        "name": "flag-se"
+    }, 
+    {
+        "hex": "1f1f8-1f1ec", 
+        "name": "flag-sg"
+    }, 
+    {
+        "hex": "1f1f8-1f1ed", 
+        "name": "flag-sh"
+    }, 
+    {
+        "hex": "1f1f8-1f1ee", 
+        "name": "flag-si"
+    }, 
+    {
+        "hex": "1f1f8-1f1ef", 
+        "name": "flag-sj"
+    }, 
+    {
+        "hex": "1f1f8-1f1f0", 
+        "name": "flag-sk"
+    }, 
+    {
+        "hex": "1f1f8-1f1f1", 
+        "name": "flag-sl"
+    }, 
+    {
+        "hex": "1f1f8-1f1f2", 
+        "name": "flag-sm"
+    }, 
+    {
+        "hex": "1f1f8-1f1f3", 
+        "name": "flag-sn"
+    }, 
+    {
+        "hex": "1f1f8-1f1f4", 
+        "name": "flag-so"
+    }, 
+    {
+        "hex": "1f1f8-1f1f7", 
+        "name": "flag-sr"
+    }, 
+    {
+        "hex": "1f1f8-1f1f8", 
+        "name": "flag-ss"
+    }, 
+    {
+        "hex": "1f1f8-1f1f9", 
+        "name": "flag-st"
+    }, 
+    {
+        "hex": "1f1f8-1f1fb", 
+        "name": "flag-sv"
+    }, 
+    {
+        "hex": "1f1f8-1f1fd", 
+        "name": "flag-sx"
+    }, 
+    {
+        "hex": "1f1f8-1f1fe", 
+        "name": "flag-sy"
+    }, 
+    {
+        "hex": "1f1f8-1f1ff", 
+        "name": "flag-sz"
+    }, 
+    {
+        "hex": "1f1f9-1f1e6", 
+        "name": "flag-ta"
+    }, 
+    {
+        "hex": "1f1f9-1f1e8", 
+        "name": "flag-tc"
+    }, 
+    {
+        "hex": "1f1f9-1f1e9", 
+        "name": "flag-td"
+    }, 
+    {
+        "hex": "1f1f9-1f1eb", 
+        "name": "flag-tf"
+    }, 
+    {
+        "hex": "1f1f9-1f1ec", 
+        "name": "flag-tg"
+    }, 
+    {
+        "hex": "1f1f9-1f1ed", 
+        "name": "flag-th"
+    }, 
+    {
+        "hex": "1f1f9-1f1ef", 
+        "name": "flag-tj"
+    }, 
+    {
+        "hex": "1f1f9-1f1f0", 
+        "name": "flag-tk"
+    }, 
+    {
+        "hex": "1f1f9-1f1f1", 
+        "name": "flag-tl"
+    }, 
+    {
+        "hex": "1f1f9-1f1f2", 
+        "name": "flag-tm"
+    }, 
+    {
+        "hex": "1f1f9-1f1f3", 
+        "name": "flag-tn"
+    }, 
+    {
+        "hex": "1f1f9-1f1f4", 
+        "name": "flag-to"
+    }, 
+    {
+        "hex": "1f1f9-1f1f7", 
+        "name": "flag-tr"
+    }, 
+    {
+        "hex": "1f1f9-1f1f9", 
+        "name": "flag-tt"
+    }, 
+    {
+        "hex": "1f1f9-1f1fb", 
+        "name": "flag-tv"
+    }, 
+    {
+        "hex": "1f1f9-1f1fc", 
+        "name": "flag-tw"
+    }, 
+    {
+        "hex": "1f1f9-1f1ff", 
+        "name": "flag-tz"
+    }, 
+    {
+        "hex": "1f1fa-1f1e6", 
+        "name": "flag-ua"
+    }, 
+    {
+        "hex": "1f1fa-1f1ec", 
+        "name": "flag-ug"
+    }, 
+    {
+        "hex": "1f1fa-1f1f2", 
+        "name": "flag-um"
+    }, 
+    {
+        "hex": "1f1fa-1f1f8", 
+        "name": "flag-us"
+    }, 
+    {
+        "hex": "1f1fa-1f1f8", 
+        "name": "us"
+    }, 
+    {
+        "hex": "1f1fa-1f1fe", 
+        "name": "flag-uy"
+    }, 
+    {
+        "hex": "1f1fa-1f1ff", 
+        "name": "flag-uz"
+    }, 
+    {
+        "hex": "1f1fb-1f1e6", 
+        "name": "flag-va"
+    }, 
+    {
+        "hex": "1f1fb-1f1e8", 
+        "name": "flag-vc"
+    }, 
+    {
+        "hex": "1f1fb-1f1ea", 
+        "name": "flag-ve"
+    }, 
+    {
+        "hex": "1f1fb-1f1ec", 
+        "name": "flag-vg"
+    }, 
+    {
+        "hex": "1f1fb-1f1ee", 
+        "name": "flag-vi"
+    }, 
+    {
+        "hex": "1f1fb-1f1f3", 
+        "name": "flag-vn"
+    }, 
+    {
+        "hex": "1f1fb-1f1fa", 
+        "name": "flag-vu"
+    }, 
+    {
+        "hex": "1f1fc-1f1eb", 
+        "name": "flag-wf"
+    }, 
+    {
+        "hex": "1f1fc-1f1f8", 
+        "name": "flag-ws"
+    }, 
+    {
+        "hex": "1f1fd-1f1f0", 
+        "name": "flag-xk"
+    }, 
+    {
+        "hex": "1f1fe-1f1ea", 
+        "name": "flag-ye"
+    }, 
+    {
+        "hex": "1f1fe-1f1f9", 
+        "name": "flag-yt"
+    }, 
+    {
+        "hex": "1f1ff-1f1e6", 
+        "name": "flag-za"
+    }, 
+    {
+        "hex": "1f1ff-1f1f2", 
+        "name": "flag-zm"
+    }, 
+    {
+        "hex": "1f1ff-1f1fc", 
+        "name": "flag-zw"
+    }, 
+    {
+        "hex": "1f468-200d-1f468-200d-1f466", 
+        "name": "man-man-boy"
+    }, 
+    {
+        "hex": "1f468-200d-1f468-200d-1f466-200d-1f466", 
+        "name": "man-man-boy-boy"
+    }, 
+    {
+        "hex": "1f468-200d-1f468-200d-1f467", 
+        "name": "man-man-girl"
+    }, 
+    {
+        "hex": "1f468-200d-1f468-200d-1f467-200d-1f466", 
+        "name": "man-man-girl-boy"
+    }, 
+    {
+        "hex": "1f468-200d-1f468-200d-1f467-200d-1f467", 
+        "name": "man-man-girl-girl"
+    }, 
+    {
+        "hex": "1f468-200d-1f469-200d-1f466-200d-1f466", 
+        "name": "man-woman-boy-boy"
+    }, 
+    {
+        "hex": "1f468-200d-1f469-200d-1f467", 
+        "name": "man-woman-girl"
+    }, 
+    {
+        "hex": "1f468-200d-1f469-200d-1f467-200d-1f466", 
+        "name": "man-woman-girl-boy"
+    }, 
+    {
+        "hex": "1f468-200d-1f469-200d-1f467-200d-1f467", 
+        "name": "man-woman-girl-girl"
+    }, 
+    {
+        "hex": "1f468-200d-2764-fe0f-200d-1f468", 
+        "name": "man-heart-man"
+    }, 
+    {
+        "hex": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468", 
+        "name": "man-kiss-man"
+    }, 
+    {
+        "hex": "1f469-200d-1f469-200d-1f466", 
+        "name": "woman-woman-boy"
+    }, 
+    {
+        "hex": "1f469-200d-1f469-200d-1f466-200d-1f466", 
+        "name": "woman-woman-boy-boy"
+    }, 
+    {
+        "hex": "1f469-200d-1f469-200d-1f467", 
+        "name": "woman-woman-girl"
+    }, 
+    {
+        "hex": "1f469-200d-1f469-200d-1f467-200d-1f466", 
+        "name": "woman-woman-girl-boy"
+    }, 
+    {
+        "hex": "1f469-200d-1f469-200d-1f467-200d-1f467", 
+        "name": "woman-woman-girl-girl"
+    }, 
+    {
+        "hex": "1f469-200d-2764-fe0f-200d-1f469", 
+        "name": "woman-heart-woman"
+    }, 
+    {
+        "hex": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469", 
+        "name": "woman-kiss-woman"
+    }, 
+    {
+        "hex": "1f642", 
+        "name": "simple_smile"
+    }, 
+    {
+        "hex": "1f441-200d-1f5e8", 
+        "name": "eye_left_speechbubble"
+    }
+]
